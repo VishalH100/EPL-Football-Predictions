@@ -1,0 +1,1901 @@
+Week,Date,Time,Home_Team,Home_xG,Score,Away_xG,Away_Team,Attendance,Venue,Referee,Season
+38,28-05-2023,16:30,Crystal Palace,1.4,1—1,0.5,Nott'ham Forest,25198,Selhurst Park,Thomas Bramall,2022-2023
+38,28-05-2023,16:30,Chelsea,2.2,1—1,1.7,Newcastle Utd,40130,Stamford Bridge,Jarred Gillett,2022-2023
+38,28-05-2023,16:30,Manchester Utd,2.9,2—1,1.8,Fulham,73465,Old Trafford,Robert Jones,2022-2023
+38,28-05-2023,16:30,Arsenal,2.8,5—0,0.5,Wolves,60095,Emirates Stadium,Andre Marriner,2022-2023
+38,28-05-2023,16:30,Southampton,1.8,4—4,4,Liverpool,31129,St. Mary's Stadium,Darren England,2022-2023
+38,28-05-2023,16:30,Everton,1,1—0,0.5,Bournemouth,39201,Goodison Park,Stuart Attwell,2022-2023
+38,28-05-2023,16:30,Leicester City,1.4,2—1,1.4,West Ham,32183,King Power Stadium,Simon Hooper,2022-2023
+38,28-05-2023,16:30,Aston Villa,2.8,2—1,1.4,Brighton,,Villa Park,David Coote,2022-2023
+38,28-05-2023,16:30,Leeds United,1.5,1—4,2.2,Tottenham,36871,Elland Road,Anthony Taylor,2022-2023
+38,28-05-2023,16:30,Brentford,1.3,1—0,1.6,Manchester City,17120,Brentford Community Stadium,John Brooks,2022-2023
+32,25-05-2023,20:00,Manchester Utd,5.2,4—1,1.9,Chelsea,73561,Old Trafford,Stuart Attwell,2022-2023
+32,24-05-2023,20:00,Brighton,2.2,1—1,1.8,Manchester City,31388,The American Express Community Stadium,Simon Hooper,2022-2023
+37,22-05-2023,20:00,Newcastle Utd,2.1,0—0,0.1,Leicester City,52152,St James' Park,Andre Marriner,2022-2023
+37,21-05-2023,13:30,West Ham,2.1,3—1,0.9,Leeds United,62478,London Stadium,Peter Bankes,2022-2023
+37,21-05-2023,14:00,Brighton,2.5,3—1,0.6,Southampton,31507,The American Express Community Stadium,Paul Tierney,2022-2023
+37,21-05-2023,16:00,Manchester City,1.2,1—0,1.2,Chelsea,53490,Etihad Stadium,Michael Oliver,2022-2023
+37,20-05-2023,12:30,Tottenham,1.8,1—3,1.3,Brentford,61514,Tottenham Hotspur Stadium,Jarred Gillett,2022-2023
+37,20-05-2023,15:00,Liverpool,0.7,1—1,1.3,Aston Villa,53306,Anfield,John Brooks,2022-2023
+37,20-05-2023,15:00,Fulham,1.7,2—2,1.6,Crystal Palace,24356,Craven Cottage,Joshua Smith,2022-2023
+37,20-05-2023,15:00,Bournemouth,1,0—1,1.4,Manchester Utd,10240,Vitality Stadium,Chris Kavanagh,2022-2023
+37,20-05-2023,15:00,Wolves,1.6,1—1,2,Everton,31684,Molineux Stadium,David Coote,2022-2023
+37,20-05-2023,17:30,Nott'ham Forest,0.6,1—0,0.6,Arsenal,29514,The City Ground,Anthony Taylor,2022-2023
+25,18-05-2023,19:30,Newcastle Utd,3.6,4—1,0.5,Brighton,52122,St James' Park,Robert Jones,2022-2023
+36,15-05-2023,20:00,Leicester City,0.4,0—3,2.2,Liverpool,32225,King Power Stadium,Craig Pawson,2022-2023
+36,14-05-2023,14:00,Everton,1.6,0—3,0.8,Manchester City,39376,Goodison Park,Anthony Taylor,2022-2023
+36,14-05-2023,14:00,Brentford,3.4,2—0,0.2,West Ham,17075,Brentford Community Stadium,Michael Oliver,2022-2023
+36,14-05-2023,16:30,Arsenal,0.9,0—3,1.7,Brighton,60139,Emirates Stadium,Andy Madley,2022-2023
+36,13-05-2023,12:30,Leeds United,2.1,2—2,2.4,Newcastle Utd,36955,Elland Road,Simon Hooper,2022-2023
+36,13-05-2023,15:00,Aston Villa,1.2,2—1,1.4,Tottenham,42164,Villa Park,Peter Bankes,2022-2023
+36,13-05-2023,15:00,Chelsea,1.2,2—2,1.3,Nott'ham Forest,40030,Stamford Bridge,Paul Tierney,2022-2023
+36,13-05-2023,15:00,Crystal Palace,1.5,2—0,0.3,Bournemouth,25034,Selhurst Park,Michael Salisbury,2022-2023
+36,13-05-2023,15:00,Southampton,0.4,0—2,1.4,Fulham,28978,St. Mary's Stadium,Thomas Bramall,2022-2023
+36,13-05-2023,15:00,Manchester Utd,3.2,2—0,0.3,Wolves,73570,Old Trafford,John Brooks,2022-2023
+35,08-05-2023,15:00,Fulham,1.6,5—3,2.8,Leicester City,24442,Craven Cottage,Robert Jones,2022-2023
+35,08-05-2023,17:30,Brighton,3.2,1—5,2.3,Everton,31567,The American Express Community Stadium,Simon Hooper,2022-2023
+35,08-05-2023,20:00,Nott'ham Forest,1.8,4—3,3.1,Southampton,29154,The City Ground,Michael Oliver,2022-2023
+35,07-05-2023,16:30,Newcastle Utd,1.3,0—2,1.3,Arsenal,50267,St James' Park,Chris Kavanagh,2022-2023
+35,07-05-2023,19:00,West Ham,1.3,1—0,1.2,Manchester Utd,62477,London Stadium,Peter Bankes,2022-2023
+35,06-05-2023,15:00,Tottenham,0.9,1—0,0.4,Crystal Palace,61093,Tottenham Hotspur Stadium,Darren England,2022-2023
+35,06-05-2023,15:00,Wolves,0.8,1—0,1.5,Aston Villa,31641,Molineux Stadium,Stuart Attwell,2022-2023
+35,06-05-2023,15:00,Bournemouth,1.2,1—3,1.3,Chelsea,10357,Vitality Stadium,John Brooks,2022-2023
+35,06-05-2023,15:00,Manchester City,2.6,2—1,0.2,Leeds United,53406,Etihad Stadium,Andy Madley,2022-2023
+35,06-05-2023,17:30,Liverpool,2.2,1—0,0.2,Brentford,52838,Anfield,Anthony Taylor,2022-2023
+28,04-05-2023,20:00,Brighton,2.3,1—0,1.4,Manchester Utd,31577,The American Express Community Stadium,Andre Marriner,2022-2023
+28,03-05-2023,20:00,Liverpool,1.8,1—0,0.9,Fulham,52602,Anfield,Stuart Attwell,2022-2023
+28,03-05-2023,20:00,Manchester City,2.3,3—0,0.4,West Ham,53305,Etihad Stadium,John Brooks,2022-2023
+34,02-05-2023,20:00,Arsenal,1.7,3—1,0.8,Chelsea,60144,Emirates Stadium,Robert Jones,2022-2023
+34,01-05-2023,20:00,Leicester City,3.4,2—2,3.1,Everton,32173,King Power Stadium,Michael Oliver,2022-2023
+34,30-04-2023,14:00,Manchester Utd,1.2,1—0,0.6,Aston Villa,73592,Old Trafford,Jarred Gillett,2022-2023
+34,30-04-2023,14:00,Bournemouth,1.9,4—1,1.6,Leeds United,10434,Vitality Stadium,Chris Kavanagh,2022-2023
+34,30-04-2023,14:00,Newcastle Utd,4.3,3—1,0.8,Southampton,52234,St James' Park,Anthony Taylor,2022-2023
+34,30-04-2023,14:00,Fulham,0.2,1—2,2.5,Manchester City,24498,Craven Cottage,Simon Hooper,2022-2023
+34,30-04-2023,16:30,Liverpool,2.2,4—3,2,Tottenham,53275,Anfield,Paul Tierney,2022-2023
+34,29-04-2023,12:30,Crystal Palace,2.1,4—3,1.7,West Ham,25148,Selhurst Park,Craig Pawson,2022-2023
+34,29-04-2023,15:00,Brighton,3.3,6—0,0.8,Wolves,31584,The American Express Community Stadium,David Coote,2022-2023
+34,29-04-2023,15:00,Brentford,1.6,2—1,0.7,Nott'ham Forest,17080,Brentford Community Stadium,Peter Bankes,2022-2023
+33,27-04-2023,19:45,Everton,0.9,1—4,2.4,Newcastle Utd,39248,Goodison Park,Andre Marriner,2022-2023
+33,27-04-2023,19:45,Southampton,0.5,0—1,0.9,Bournemouth,30414,St. Mary's Stadium,Darren England,2022-2023
+33,27-04-2023,20:15,Tottenham,2.5,2—2,2,Manchester Utd,61586,Tottenham Hotspur Stadium,Anthony Taylor,2022-2023
+33,26-04-2023,19:30,Nott'ham Forest,2.4,3—1,2.3,Brighton,28808,The City Ground,Jarred Gillett,2022-2023
+33,26-04-2023,19:45,Chelsea,1.3,0—2,1.1,Brentford,39929,Stamford Bridge,Andy Madley,2022-2023
+33,26-04-2023,19:45,West Ham,0.8,1—2,1.9,Liverpool,62473,London Stadium,Chris Kavanagh,2022-2023
+33,26-04-2023,20:00,Manchester City,2.5,4—1,0.5,Arsenal,53482,Etihad Stadium,Michael Oliver,2022-2023
+33,25-04-2023,19:30,Wolves,1.4,2—0,0.8,Crystal Palace,30294,Molineux Stadium,Robert Jones,2022-2023
+33,25-04-2023,19:45,Aston Villa,1,1—0,0.1,Fulham,41046,Villa Park,Thomas Bramall,2022-2023
+33,25-04-2023,20:00,Leeds United,1.5,1—1,2.1,Leicester City,36666,Elland Road,Paul Tierney,2022-2023
+32,23-04-2023,14:00,Bournemouth,1.5,0—4,2.4,West Ham,10465,Vitality Stadium,Anthony Taylor,2022-2023
+32,23-04-2023,14:00,Newcastle Utd,3.7,6—1,1,Tottenham,52252,St James' Park,David Coote,2022-2023
+32,22-04-2023,12:30,Fulham,1.7,2—1,0.8,Leeds United,24356,Craven Cottage,Peter Bankes,2022-2023
+32,22-04-2023,15:00,Crystal Palace,0.5,0—0,0.4,Everton,25202,Selhurst Park,John Brooks,2022-2023
+32,22-04-2023,15:00,Brentford,2.7,1—1,1.5,Aston Villa,17098,Brentford Community Stadium,Michael Salisbury,2022-2023
+32,22-04-2023,15:00,Liverpool,2.8,3—2,0.9,Nott'ham Forest,53254,Anfield,Michael Oliver,2022-2023
+32,22-04-2023,15:00,Leicester City,2.4,2—1,0.9,Wolves,32053,King Power Stadium,Andy Madley,2022-2023
+32,21-04-2023,20:00,Arsenal,2.5,3—3,1.3,Southampton,60175,Emirates Stadium,Simon Hooper,2022-2023
+31,17-04-2023,20:00,Leeds United,1.4,1—6,2.7,Liverpool,36657,Elland Road,Craig Pawson,2022-2023
+31,16-04-2023,14:00,West Ham,1.8,2—2,2.7,Arsenal,62481,London Stadium,David Coote,2022-2023
+31,16-04-2023,16:30,Nott'ham Forest,0.7,0—2,3.5,Manchester Utd,29435,The City Ground,Simon Hooper,2022-2023
+31,15-04-2023,12:30,Aston Villa,1.9,3—0,0.5,Newcastle Utd,42055,Villa Park,John Brooks,2022-2023
+31,15-04-2023,15:00,Chelsea,0.5,1—2,2.9,Brighton,40126,Stamford Bridge,Robert Jones,2022-2023
+31,15-04-2023,15:00,Southampton,0.8,0—2,0.9,Crystal Palace,30309,St. Mary's Stadium,Michael Oliver,2022-2023
+31,15-04-2023,15:00,Wolves,0.8,2—0,1.1,Brentford,30769,Molineux Stadium,Paul Tierney,2022-2023
+31,15-04-2023,15:00,Tottenham,2.2,2—3,1.3,Bournemouth,61369,Tottenham Hotspur Stadium,Andy Madley,2022-2023
+31,15-04-2023,15:00,Everton,1.4,1—3,1.8,Fulham,39241,Goodison Park,Anthony Taylor,2022-2023
+31,15-04-2023,17:30,Manchester City,1.6,3—1,2.3,Leicester City,53329,Etihad Stadium,Darren England,2022-2023
+30,09-04-2023,14:00,Leeds United,0.9,1—5,3,Crystal Palace,36427,Elland Road,Simon Hooper,2022-2023
+30,09-04-2023,16:30,Liverpool,3.9,2—2,1.4,Arsenal,53267,Anfield,Paul Tierney,2022-2023
+30,08-04-2023,12:30,Manchester Utd,3.4,2—0,1,Everton,73509,Old Trafford,Michael Oliver,2022-2023
+30,08-04-2023,15:00,Fulham,0.7,0—1,1.1,West Ham,24491,Craven Cottage,Jarred Gillett,2022-2023
+30,08-04-2023,15:00,Aston Villa,1.3,2—0,0.2,Nott'ham Forest,42076,Villa Park,Anthony Taylor,2022-2023
+30,08-04-2023,15:00,Leicester City,0.7,0—1,2,Bournemouth,32094,King Power Stadium,David Coote,2022-2023
+30,08-04-2023,15:00,Brentford,2.6,1—2,1.3,Newcastle Utd,17107,Brentford Community Stadium,Chris Kavanagh,2022-2023
+30,08-04-2023,15:00,Wolves,0.6,1—0,1.1,Chelsea,31614,Molineux Stadium,Peter Bankes,2022-2023
+30,08-04-2023,15:00,Tottenham,0.8,2—1,1.4,Brighton,61405,Tottenham Hotspur Stadium,Stuart Attwell,2022-2023
+30,08-04-2023,17:30,Southampton,0.4,1—4,2.9,Manchester City,30963,St. Mary's Stadium,Robert Jones,2022-2023
+7,05-04-2023,20:00,West Ham,1,1—5,3.3,Newcastle Utd,62481,London Stadium,Craig Pawson,2022-2023
+25,05-04-2023,20:00,Manchester Utd,1.2,1—0,0.7,Brentford,73309,Old Trafford,John Brooks,2022-2023
+7,04-04-2023,19:45,Leeds United,1.8,2—1,0.8,Nott'ham Forest,36740,Elland Road,Robert Jones,2022-2023
+7,04-04-2023,19:45,Bournemouth,1.7,0—2,2.7,Brighton,10266,Vitality Stadium,Darren Bond,2022-2023
+7,04-04-2023,19:45,Leicester City,0.5,1—2,1,Aston Villa,32087,King Power Stadium,Graham Scott,2022-2023
+8,04-04-2023,20:00,Chelsea,2.2,0—0,0.3,Liverpool,40093,Stamford Bridge,Anthony Taylor,2022-2023
+29,03-04-2023,20:00,Everton,0.9,1—1,1.4,Tottenham,39294,Goodison Park,David Coote,2022-2023
+29,02-04-2023,14:00,West Ham,1.4,1—0,0.3,Southampton,62498,London Stadium,Paul Tierney,2022-2023
+29,02-04-2023,16:30,Newcastle Utd,3.7,2—0,0.4,Manchester Utd,52268,St James' Park,Stuart Attwell,2022-2023
+29,01-04-2023,12:30,Manchester City,2.9,4—1,0.3,Liverpool,52877,Etihad Stadium,Simon Hooper,2022-2023
+29,01-04-2023,15:00,Arsenal,3.8,4—1,0.7,Leeds United,60283,Emirates Stadium,Darren England,2022-2023
+29,01-04-2023,15:00,Nott'ham Forest,1.3,1—1,0.5,Wolves,29368,The City Ground,Chris Kavanagh,2022-2023
+29,01-04-2023,15:00,Brighton,4.2,3—3,1.6,Brentford,31493,The American Express Community Stadium,Michael Oliver,2022-2023
+29,01-04-2023,15:00,Crystal Palace,2.3,2—1,0.2,Leicester City,25147,Selhurst Park,Tim Robinson,2022-2023
+29,01-04-2023,15:00,Bournemouth,2.6,2—1,0.8,Fulham,10305,Vitality Stadium,Peter Bankes,2022-2023
+29,01-04-2023,17:30,Chelsea,2.1,0—2,0.9,Aston Villa,40082,Stamford Bridge,Andy Madley,2022-2023
+28,19-03-2023,14:00,Arsenal,1.6,4—1,0.8,Crystal Palace,60247,Emirates Stadium,Stuart Attwell,2022-2023
+28,18-03-2023,15:00,Wolves,2.7,2—4,1.6,Leeds United,31570,Molineux Stadium,Michael Salisbury,2022-2023
+28,18-03-2023,15:00,Brentford,0.6,1—1,1.3,Leicester City,17006,Brentford Community Stadium,Darren Bond,2022-2023
+28,18-03-2023,15:00,Aston Villa,3.5,3—0,1.3,Bournemouth,41021,Villa Park,Robert Jones,2022-2023
+28,18-03-2023,15:00,Southampton,2.4,3—3,2.3,Tottenham,30157,St. Mary's Stadium,Simon Hooper,2022-2023
+28,18-03-2023,17:30,Chelsea,2.3,2—2,1.2,Everton,40025,Stamford Bridge,Darren England,2022-2023
+28,17-03-2023,20:00,Nott'ham Forest,0.4,1—2,2.4,Newcastle Utd,29362,The City Ground,Paul Tierney,2022-2023
+7,15-03-2023,19:30,Southampton,0.5,0—2,1.9,Brentford,30438,St. Mary's Stadium,Michael Salisbury,2022-2023
+8,15-03-2023,19:30,Brighton,0.6,1—0,1.1,Crystal Palace,30933,The American Express Community Stadium,Peter Bankes,2022-2023
+27,12-03-2023,14:00,Manchester Utd,0.8,0—0,1,Southampton,73439,Old Trafford,Anthony Taylor,2022-2023
+27,12-03-2023,14:00,Fulham,0.8,0—3,2.3,Arsenal,24426,Craven Cottage,David Coote,2022-2023
+27,12-03-2023,14:00,West Ham,2.1,1—1,1.5,Aston Villa,62472,London Stadium,Chris Kavanagh,2022-2023
+27,12-03-2023,16:30,Newcastle Utd,1.8,2—1,1.1,Wolves,52240,St James' Park,Andy Madley,2022-2023
+27,11-03-2023,12:30,Bournemouth,0.9,1—0,1.7,Liverpool,10536,Vitality Stadium,John Brooks,2022-2023
+27,11-03-2023,15:00,Leeds United,0.9,2—2,2.7,Brighton,36471,Elland Road,Paul Tierney,2022-2023
+27,11-03-2023,15:00,Everton,1,1—0,2,Brentford,39274,Goodison Park,Simon Hooper,2022-2023
+27,11-03-2023,15:00,Leicester City,2.4,1—3,1.6,Chelsea,32170,King Power Stadium,Andre Marriner,2022-2023
+27,11-03-2023,15:00,Tottenham,2,3—1,1.5,Nott'ham Forest,61460,Tottenham Hotspur Stadium,Craig Pawson,2022-2023
+27,11-03-2023,17:30,Crystal Palace,0.2,0—1,2.1,Manchester City,25844,Selhurst Park,Robert Jones,2022-2023
+26,06-03-2023,20:00,Brentford,2.2,3—2,1.4,Fulham,17025,Brentford Community Stadium,Anthony Taylor,2022-2023
+26,05-03-2023,14:00,Nott'ham Forest,0.8,2—2,1.7,Everton,29353,The City Ground,John Brooks,2022-2023
+26,05-03-2023,16:30,Liverpool,2.8,7—0,0.8,Manchester Utd,53001,Anfield,Andy Madley,2022-2023
+26,04-03-2023,12:30,Manchester City,1.3,2—0,0.4,Newcastle Utd,53419,Etihad Stadium,Simon Hooper,2022-2023
+26,04-03-2023,15:00,Arsenal,2.1,3—2,1.3,Bournemouth,60222,Emirates Stadium,Chris Kavanagh,2022-2023
+26,04-03-2023,15:00,Aston Villa,1.2,1—0,0.2,Crystal Palace,41893,Villa Park,Craig Pawson,2022-2023
+26,04-03-2023,15:00,Chelsea,1.5,1—0,1,Leeds United,39905,Stamford Bridge,Michael Oliver,2022-2023
+26,04-03-2023,15:00,Brighton,3.5,4—0,0.3,West Ham,31523,The American Express Community Stadium,Stuart Attwell,2022-2023
+26,04-03-2023,15:00,Wolves,0.5,1—0,1.2,Tottenham,31585,Molineux Stadium,Tim Robinson,2022-2023
+26,04-03-2023,17:30,Southampton,1.4,1—0,1.9,Leicester City,30139,St. Mary's Stadium,Robert Jones,2022-2023
+7,01-03-2023,19:45,Arsenal,2.6,4—0,1.2,Everton,60213,Emirates Stadium,Michael Oliver,2022-2023
+7,01-03-2023,20:00,Liverpool,2.6,2—0,0.8,Wolves,53259,Anfield,Paul Tierney,2022-2023
+25,26-02-2023,13:30,Tottenham,0.8,2—0,0.4,Chelsea,61613,Tottenham Hotspur Stadium,Stuart Attwell,2022-2023
+25,25-02-2023,15:00,Leicester City,0,0—1,0.7,Arsenal,32227,King Power Stadium,Craig Pawson,2022-2023
+25,25-02-2023,15:00,Everton,1.6,0—2,1.9,Aston Villa,39309,Goodison Park,Anthony Taylor,2022-2023
+25,25-02-2023,15:00,West Ham,2.7,4—0,0.4,Nott'ham Forest,62469,London Stadium,Jarred Gillett,2022-2023
+25,25-02-2023,15:00,Leeds United,0.9,1—0,0.4,Southampton,36641,Elland Road,Peter Bankes,2022-2023
+25,25-02-2023,17:30,Bournemouth,1,1—4,2.4,Manchester City,10481,Vitality Stadium,Paul Tierney,2022-2023
+25,25-02-2023,19:45,Crystal Palace,0.7,0—0,0.9,Liverpool,25842,Selhurst Park,Darren England,2022-2023
+25,24-02-2023,20:00,Fulham,0.5,1—1,0.8,Wolves,24399,Craven Cottage,Michael Oliver,2022-2023
+24,19-02-2023,14:00,Manchester Utd,4.4,3—0,1.6,Leicester City,73578,Old Trafford,Stuart Attwell,2022-2023
+24,19-02-2023,16:30,Tottenham,1.5,2—0,0.5,West Ham,61476,Tottenham Hotspur Stadium,Michael Oliver,2022-2023
+24,18-02-2023,12:30,Aston Villa,0.5,2—4,3.2,Arsenal,42066,Villa Park,Simon Hooper,2022-2023
+24,18-02-2023,15:00,Brighton,2.2,0—1,0.3,Fulham,31619,The American Express Community Stadium,Darren England,2022-2023
+24,18-02-2023,15:00,Nott'ham Forest,0.9,1—1,2.4,Manchester City,29365,The City Ground,Graham Scott,2022-2023
+24,18-02-2023,15:00,Chelsea,1.6,0—1,0.6,Southampton,40152,Stamford Bridge,David Coote,2022-2023
+24,18-02-2023,15:00,Everton,1.4,1—0,0.5,Leeds United,39232,Goodison Park,Andy Madley,2022-2023
+24,18-02-2023,15:00,Wolves,1.3,0—1,1.1,Bournemouth,31222,Molineux Stadium,Michael Salisbury,2022-2023
+24,18-02-2023,15:00,Brentford,0.9,1—1,1.1,Crystal Palace,17122,Brentford Community Stadium,Paul Tierney,2022-2023
+24,18-02-2023,17:30,Newcastle Utd,2,0—2,1.9,Liverpool,52758,St James' Park,Anthony Taylor,2022-2023
+12,15-02-2023,19:30,Arsenal,1.6,1—3,1.8,Manchester City,60276,Emirates Stadium,Anthony Taylor,2022-2023
+23,13-02-2023,20:00,Liverpool,2.3,2—0,0.4,Everton,53027,Anfield,Simon Hooper,2022-2023
+23,12-02-2023,14:00,Leeds United,1.8,0—2,1.1,Manchester Utd,36919,Elland Road,Paul Tierney,2022-2023
+23,12-02-2023,16:30,Manchester City,3.3,3—1,0.3,Aston Villa,53392,Etihad Stadium,Robert Jones,2022-2023
+23,11-02-2023,12:30,West Ham,1.3,1—1,1.1,Chelsea,62471,London Stadium,Craig Pawson,2022-2023
+23,11-02-2023,15:00,Leicester City,1.7,4—1,1.3,Tottenham,32184,King Power Stadium,Michael Salisbury,2022-2023
+23,11-02-2023,15:00,Crystal Palace,1.1,1—1,2.5,Brighton,24827,Selhurst Park,Michael Oliver,2022-2023
+23,11-02-2023,15:00,Arsenal,1.6,1—1,2,Brentford,60254,Emirates Stadium,Peter Bankes,2022-2023
+23,11-02-2023,15:00,Southampton,1.1,1—2,0.8,Wolves,29751,St. Mary's Stadium,Jarred Gillett,2022-2023
+23,11-02-2023,15:00,Fulham,1.5,2—0,0.7,Nott'ham Forest,24244,Craven Cottage,Andy Madley,2022-2023
+23,11-02-2023,17:30,Bournemouth,1.5,1—1,1.3,Newcastle Utd,10419,Vitality Stadium,Stuart Attwell,2022-2023
+8,08-02-2023,20:00,Manchester Utd,2,2—2,0.6,Leeds United,73456,Old Trafford,Simon Hooper,2022-2023
+22,05-02-2023,14:00,Nott'ham Forest,0.4,1—0,0.9,Leeds United,29363,The City Ground,Robert Jones,2022-2023
+22,05-02-2023,16:30,Tottenham,1.4,1—0,1.3,Manchester City,61747,Tottenham Hotspur Stadium,Andy Madley,2022-2023
+22,04-02-2023,12:30,Everton,1.7,1—0,0.9,Arsenal,39314,Goodison Park,David Coote,2022-2023
+22,04-02-2023,15:00,Aston Villa,1.7,2—4,2.6,Leicester City,42055,Villa Park,Darren England,2022-2023
+22,04-02-2023,15:00,Wolves,2,3—0,1.8,Liverpool,31664,Molineux Stadium,Paul Tierney,2022-2023
+22,04-02-2023,15:00,Manchester Utd,2,2—1,1.3,Crystal Palace,73420,Old Trafford,Andre Marriner,2022-2023
+22,04-02-2023,15:00,Brighton,2.2,1—0,1.1,Bournemouth,31600,The American Express Community Stadium,Craig Pawson,2022-2023
+22,04-02-2023,15:00,Brentford,2.2,3—0,0.7,Southampton,17051,Brentford Community Stadium,Darren Bond,2022-2023
+22,04-02-2023,17:30,Newcastle Utd,1,1—1,1,West Ham,52256,St James' Park,Peter Bankes,2022-2023
+22,03-02-2023,20:00,Chelsea,1.3,0—0,0.6,Fulham,40041,Stamford Bridge,Stuart Attwell,2022-2023
+21,23-01-2023,20:00,Fulham,1,0—1,0.9,Tottenham,24190,Craven Cottage,Paul Tierney,2022-2023
+21,22-01-2023,14:00,Manchester City,2.8,3—0,0.8,Wolves,53282,Etihad Stadium,David Coote,2022-2023
+21,22-01-2023,14:00,Leeds United,0.5,0—0,0.4,Brentford,36260,Elland Road,Peter Bankes,2022-2023
+21,22-01-2023,16:30,Arsenal,3.1,3—2,0.4,Manchester Utd,60325,Emirates Stadium,Anthony Taylor,2022-2023
+21,21-01-2023,12:30,Liverpool,1.4,0—0,1.6,Chelsea,53126,Anfield,Michael Oliver,2022-2023
+21,21-01-2023,15:00,Bournemouth,1.4,1—1,1.9,Nott'ham Forest,10248,Vitality Stadium,Andy Madley,2022-2023
+21,21-01-2023,15:00,Southampton,0.6,0—1,1.4,Aston Villa,30158,St. Mary's Stadium,Michael Salisbury,2022-2023
+21,21-01-2023,15:00,Leicester City,0.9,2—2,1.7,Brighton,32056,King Power Stadium,Thomas Bramall,2022-2023
+21,21-01-2023,15:00,West Ham,2.2,2—0,0.5,Everton,62470,London Stadium,Stuart Attwell,2022-2023
+21,21-01-2023,17:30,Crystal Palace,0.3,0—0,1.2,Newcastle Utd,25350,Selhurst Park,Craig Pawson,2022-2023
+7,19-01-2023,20:00,Manchester City,2.3,4—2,0.8,Tottenham,53088,Etihad Stadium,Simon Hooper,2022-2023
+7,18-01-2023,20:00,Crystal Palace,0.5,1—1,2.1,Manchester Utd,23343,Selhurst Park,Robert Jones,2022-2023
+20,15-01-2023,14:00,Chelsea,1.5,1—0,0.7,Crystal Palace,40075,Stamford Bridge,Peter Bankes,2022-2023
+20,15-01-2023,14:00,Newcastle Utd,2.2,1—0,1.1,Fulham,52247,St James' Park,Robert Jones,2022-2023
+20,15-01-2023,16:30,Tottenham,1.6,0—2,1.8,Arsenal,61870,Tottenham Hotspur Stadium,Craig Pawson,2022-2023
+20,14-01-2023,12:30,Manchester Utd,1.7,2—1,0.6,Manchester City,75546,Old Trafford,Stuart Attwell,2022-2023
+20,14-01-2023,15:00,Everton,1.4,1—2,1.2,Southampton,39305,Goodison Park,John Brooks,2022-2023
+20,14-01-2023,15:00,Wolves,0.9,1—0,1.1,West Ham,31511,Molineux Stadium,Simon Hooper,2022-2023
+20,14-01-2023,15:00,Nott'ham Forest,2.4,2—0,1,Leicester City,29301,The City Ground,Paul Tierney,2022-2023
+20,14-01-2023,15:00,Brighton,1.9,3—0,1,Liverpool,31645,The American Express Community Stadium,Darren England,2022-2023
+20,14-01-2023,17:30,Brentford,1.4,2—0,0.6,Bournemouth,17031,Brentford Community Stadium,Jarred Gillett,2022-2023
+20,13-01-2023,20:00,Aston Villa,1.2,2—1,2.4,Leeds United,42008,Villa Park,Michael Oliver,2022-2023
+7,12-01-2023,20:00,Fulham,1,2—1,2.1,Chelsea,24460,Craven Cottage,David Coote,2022-2023
+19,05-01-2023,20:00,Chelsea,0.4,0—1,2.1,Manchester City,39998,Stamford Bridge,Paul Tierney,2022-2023
+19,04-01-2023,19:30,Southampton,0.5,0—1,1.4,Nott'ham Forest,30150,St. Mary's Stadium,Thomas Bramall,2022-2023
+19,04-01-2023,19:45,Leeds United,1.6,2—2,1.4,West Ham,36173,Elland Road,David Coote,2022-2023
+19,04-01-2023,20:00,Aston Villa,1.8,1—1,0.9,Wolves,39978,Villa Park,Jarred Gillett,2022-2023
+19,04-01-2023,20:00,Crystal Palace,0.8,0—4,1.4,Tottenham,25132,Selhurst Park,Michael Oliver,2022-2023
+19,03-01-2023,19:45,Leicester City,1.7,0—1,1.7,Fulham,30813,King Power Stadium,Darren Bond,2022-2023
+19,03-01-2023,19:45,Everton,1.3,1—4,2.2,Brighton,39103,Goodison Park,Andre Marriner,2022-2023
+19,03-01-2023,19:45,Arsenal,1.1,0—0,1,Newcastle Utd,60319,Emirates Stadium,Andy Madley,2022-2023
+19,03-01-2023,20:00,Manchester Utd,2.2,3—0,0.6,Bournemouth,73322,Old Trafford,Michael Salisbury,2022-2023
+19,02-01-2023,17:30,Brentford,1.7,3—1,2,Liverpool,17163,Brentford Community Stadium,Stuart Attwell,2022-2023
+18,01-01-2023,14:00,Tottenham,0.7,0—2,1,Aston Villa,61651,Tottenham Hotspur Stadium,John Brooks,2022-2023
+18,01-01-2023,16:30,Nott'ham Forest,1.4,1—1,0.9,Chelsea,29229,The City Ground,Peter Bankes,2022-2023
+18,31-12-2022,12:30,Wolves,0.7,0—1,2,Manchester Utd,31658,Molineux Stadium,Robert Jones,2022-2023
+18,31-12-2022,15:00,Newcastle Utd,2.2,0—0,0.4,Leeds United,52211,St James' Park,Simon Hooper,2022-2023
+18,31-12-2022,15:00,Fulham,1.5,2—1,0.8,Southampton,24344,Craven Cottage,Graham Scott,2022-2023
+18,31-12-2022,15:00,Manchester City,1.7,1—1,0.1,Everton,53444,Etihad Stadium,Andy Madley,2022-2023
+18,31-12-2022,15:00,Bournemouth,0.6,0—2,1.6,Crystal Palace,9972,Vitality Stadium,Andre Marriner,2022-2023
+18,31-12-2022,17:30,Brighton,1.2,2—4,2.9,Arsenal,31647,The American Express Community Stadium,Anthony Taylor,2022-2023
+18,30-12-2022,19:45,West Ham,1.3,0—2,1.6,Brentford,62467,London Stadium,Darren England,2022-2023
+18,30-12-2022,20:00,Liverpool,2.2,2—1,1,Leicester City,53343,Anfield,Craig Pawson,2022-2023
+17,28-12-2022,20:00,Leeds United,0.6,1—3,4.3,Manchester City,36889,Elland Road,Stuart Attwell,2022-2023
+17,27-12-2022,17:30,Chelsea,1.8,2—0,0.5,Bournemouth,40046,Stamford Bridge,Simon Hooper,2022-2023
+17,27-12-2022,20:00,Manchester Utd,2.4,3—0,0.7,Nott'ham Forest,73608,Old Trafford,Anthony Taylor,2022-2023
+17,26-12-2022,12:30,Brentford,2,2—2,1.1,Tottenham,17137,Brentford Community Stadium,David Coote,2022-2023
+17,26-12-2022,15:00,Southampton,1.9,1—3,0.6,Brighton,31010,St. Mary's Stadium,Robert Jones,2022-2023
+17,26-12-2022,15:00,Leicester City,0.5,0—3,1.9,Newcastle Utd,32185,King Power Stadium,Jarred Gillett,2022-2023
+17,26-12-2022,15:00,Crystal Palace,0.4,0—3,2.5,Fulham,25176,Selhurst Park,Andy Madley,2022-2023
+17,26-12-2022,15:00,Everton,1.7,1—2,0.8,Wolves,39252,Goodison Park,Craig Pawson,2022-2023
+17,26-12-2022,17:30,Aston Villa,1.4,1—3,2.7,Liverpool,42085,Villa Park,Paul Tierney,2022-2023
+17,26-12-2022,20:00,Arsenal,2.1,3—1,1,West Ham,60125,Emirates Stadium,Michael Oliver,2022-2023
+16,13-11-2022,14:00,Brighton,0.6,1—2,1.5,Aston Villa,31581,The American Express Community Stadium,Chris Kavanagh,2022-2023
+16,13-11-2022,16:30,Fulham,1.4,1—2,2.5,Manchester Utd,24246,Craven Cottage,Paul Tierney,2022-2023
+16,12-11-2022,12:30,Manchester City,1.6,1—2,1.3,Brentford,52786,Etihad Stadium,Peter Bankes,2022-2023
+16,12-11-2022,15:00,Tottenham,1.8,4—3,1.1,Leeds United,61667,Tottenham Hotspur Stadium,Michael Salisbury,2022-2023
+16,12-11-2022,15:00,Liverpool,1.9,3—1,1.1,Southampton,53331,Anfield,Simon Hooper,2022-2023
+16,12-11-2022,15:00,Bournemouth,2.4,3—0,0.8,Everton,10382,Vitality Stadium,Craig Pawson,2022-2023
+16,12-11-2022,15:00,West Ham,1.4,0—2,1.8,Leicester City,62459,London Stadium,Jarred Gillett,2022-2023
+16,12-11-2022,15:00,Nott'ham Forest,1.1,1—0,1.2,Crystal Palace,29045,The City Ground,John Brooks,2022-2023
+16,12-11-2022,17:30,Newcastle Utd,1,1—0,0.3,Chelsea,52264,St James' Park,Robert Jones,2022-2023
+16,12-11-2022,19:45,Wolves,0.7,0—2,2.1,Arsenal,34624,Molineux Stadium,Stuart Attwell,2022-2023
+15,06-11-2022,12:00,Chelsea,0.3,0—1,2.1,Arsenal,40142,Stamford Bridge,Michael Oliver,2022-2023
+15,06-11-2022,14:00,West Ham,0.3,1—2,1,Crystal Palace,62451,London Stadium,Paul Tierney,2022-2023
+15,06-11-2022,14:00,Southampton,1.7,1—4,0.9,Newcastle Utd,30402,St. Mary's Stadium,Stuart Attwell,2022-2023
+15,06-11-2022,14:00,Aston Villa,0.6,3—1,0.5,Manchester Utd,42058,Villa Park,Anthony Taylor,2022-2023
+15,06-11-2022,16:30,Tottenham,1.2,1—2,1.2,Liverpool,62008,Tottenham Hotspur Stadium,Andy Madley,2022-2023
+15,05-11-2022,15:00,Nott'ham Forest,1.5,2—2,1.5,Brentford,28869,The City Ground,Andre Marriner,2022-2023
+15,05-11-2022,15:00,Leeds United,2.2,4—3,1.5,Bournemouth,36304,Elland Road,Tony Harrington,2022-2023
+15,05-11-2022,15:00,Manchester City,2.1,2—1,1,Fulham,52395,Etihad Stadium,Darren England,2022-2023
+15,05-11-2022,15:00,Wolves,1.2,2—3,1.5,Brighton,30732,Molineux Stadium,Graham Scott,2022-2023
+15,05-11-2022,17:30,Everton,1.2,0—2,2.3,Leicester City,39206,Goodison Park,David Coote,2022-2023
+14,30-10-2022,14:00,Arsenal,2.3,5—0,0.4,Nott'ham Forest,60263,Emirates Stadium,Simon Hooper,2022-2023
+14,30-10-2022,16:15,Manchester Utd,1.2,1—0,1.1,West Ham,73682,Old Trafford,Chris Kavanagh,2022-2023
+14,29-10-2022,12:30,Leicester City,0.7,0—1,1,Manchester City,32223,King Power Stadium,Robert Jones,2022-2023
+14,29-10-2022,15:00,Brentford,1.4,1—1,0.6,Wolves,17051,Brentford Community Stadium,Robert Madley,2022-2023
+14,29-10-2022,15:00,Crystal Palace,0.9,1—0,1.3,Southampton,25130,Selhurst Park,Michael Salisbury,2022-2023
+14,29-10-2022,15:00,Newcastle Utd,3.4,4—0,0.4,Aston Villa,52233,St James' Park,Paul Tierney,2022-2023
+14,29-10-2022,15:00,Brighton,2.4,4—1,1.4,Chelsea,31746,The American Express Community Stadium,Andy Madley,2022-2023
+14,29-10-2022,15:00,Bournemouth,0.5,2—3,2,Tottenham,10430,Vitality Stadium,Anthony Taylor,2022-2023
+14,29-10-2022,17:30,Fulham,1.9,0—0,0.9,Everton,23534,Craven Cottage,John Brooks,2022-2023
+14,29-10-2022,19:45,Liverpool,1.7,1—2,1.8,Leeds United,53274,Anfield,Michael Oliver,2022-2023
+13,24-10-2022,20:00,West Ham,1.9,2—0,0.4,Bournemouth,62447,London Stadium,David Coote,2022-2023
+13,23-10-2022,14:00,Aston Villa,2.8,4—0,0.9,Brentford,41693,Villa Park,Darren England,2022-2023
+13,23-10-2022,14:00,Wolves,2.1,0—4,0.9,Leicester City,31425,Molineux Stadium,Michael Oliver,2022-2023
+13,23-10-2022,14:00,Leeds United,1.6,2—3,1.8,Fulham,36447,Elland Road,Anthony Taylor,2022-2023
+13,23-10-2022,14:00,Southampton,0.7,1—1,1,Arsenal,31145,St. Mary's Stadium,Robert Jones,2022-2023
+13,23-10-2022,16:30,Tottenham,1.6,1—2,1.2,Newcastle Utd,61726,Tottenham Hotspur Stadium,Jarred Gillett,2022-2023
+13,22-10-2022,12:30,Nott'ham Forest,1.9,1—0,1.6,Liverpool,29245,The City Ground,Paul Tierney,2022-2023
+13,22-10-2022,15:00,Everton,1.4,3—0,0.9,Crystal Palace,38939,Goodison Park,Simon Hooper,2022-2023
+13,22-10-2022,15:00,Manchester City,1.6,3—1,0.5,Brighton,53223,Etihad Stadium,Craig Pawson,2022-2023
+13,22-10-2022,17:30,Chelsea,1.1,1—1,0.8,Manchester Utd,39503,Stamford Bridge,Stuart Attwell,2022-2023
+12,20-10-2022,19:30,Fulham,2.1,3—0,1.2,Aston Villa,23508,Craven Cottage,Michael Oliver,2022-2023
+12,20-10-2022,20:15,Leicester City,0.8,2—0,1.3,Leeds United,30814,King Power Stadium,Peter Bankes,2022-2023
+12,19-10-2022,19:30,Bournemouth,1,0—1,1,Southampton,10405,Vitality Stadium,John Brooks,2022-2023
+12,19-10-2022,19:30,Brentford,1.3,0—0,0.9,Chelsea,17118,Brentford Community Stadium,Jarred Gillett,2022-2023
+12,19-10-2022,19:30,Liverpool,1.7,1—0,1.7,West Ham,52982,Anfield,Stuart Attwell,2022-2023
+12,19-10-2022,19:30,Newcastle Utd,1.5,1—0,0.2,Everton,52247,St James' Park,Tony Harrington,2022-2023
+12,19-10-2022,20:15,Manchester Utd,1.5,2—0,0.6,Tottenham,73677,Old Trafford,Simon Hooper,2022-2023
+12,18-10-2022,19:30,Brighton,1.7,0—0,0.1,Nott'ham Forest,31463,The American Express Community Stadium,Darren England,2022-2023
+12,18-10-2022,20:15,Crystal Palace,1.2,2—1,0.8,Wolves,25125,Selhurst Park,David Coote,2022-2023
+11,16-10-2022,14:00,Southampton,0.5,1—1,1.7,West Ham,29159,St. Mary's Stadium,Peter Bankes,2022-2023
+11,16-10-2022,14:00,Aston Villa,1.8,0—2,0.9,Chelsea,41754,Villa Park,Robert Jones,2022-2023
+11,16-10-2022,14:00,Leeds United,1.8,0—1,0.5,Arsenal,36700,Elland Road,Chris Kavanagh,2022-2023
+11,16-10-2022,14:00,Manchester Utd,0.8,0—0,0.8,Newcastle Utd,73726,Old Trafford,Craig Pawson,2022-2023
+11,16-10-2022,16:30,Liverpool,2.1,1—0,1,Manchester City,53286,Anfield,Anthony Taylor,2022-2023
+11,15-10-2022,12:30,Leicester City,1,0—0,0.4,Crystal Palace,31298,King Power Stadium,Andy Madley,2022-2023
+11,15-10-2022,15:00,Fulham,2.1,2—2,1,Bournemouth,22541,Craven Cottage,Graham Scott,2022-2023
+11,15-10-2022,15:00,Wolves,1.3,1—0,1.5,Nott'ham Forest,31554,Molineux Stadium,Thomas Bramall,2022-2023
+11,15-10-2022,17:30,Tottenham,2.2,2—0,0.4,Everton,61812,Tottenham Hotspur Stadium,Paul Tierney,2022-2023
+11,14-10-2022,20:00,Brentford,1.5,2—0,1.9,Brighton,17016,Brentford Community Stadium,Michael Salisbury,2022-2023
+10,10-10-2022,20:00,Nott'ham Forest,0.3,1—1,0.7,Aston Villa,29208,The City Ground,Anthony Taylor,2022-2023
+10,09-10-2022,14:00,West Ham,2.4,3—1,0.7,Fulham,62407,London Stadium,Chris Kavanagh,2022-2023
+10,09-10-2022,14:00,Crystal Palace,1.1,2—1,1,Leeds United,25042,Selhurst Park,Paul Tierney,2022-2023
+10,09-10-2022,16:30,Arsenal,2.7,3—2,1.1,Liverpool,60059,Emirates Stadium,Michael Oliver,2022-2023
+10,09-10-2022,19:00,Everton,0.6,1—2,1.4,Manchester Utd,39258,Goodison Park,David Coote,2022-2023
+10,08-10-2022,15:00,Bournemouth,1.1,2—1,1,Leicester City,10272,Vitality Stadium,Michael Salisbury,2022-2023
+10,08-10-2022,15:00,Newcastle Utd,1.5,5—1,1.2,Brentford,52067,St James' Park,John Brooks,2022-2023
+10,08-10-2022,15:00,Manchester City,2.4,4—0,0.2,Southampton,53365,Etihad Stadium,Andy Madley,2022-2023
+10,08-10-2022,15:00,Chelsea,1.9,3—0,1.1,Wolves,39940,Stamford Bridge,Simon Hooper,2022-2023
+10,08-10-2022,17:30,Brighton,0.7,0—1,0.8,Tottenham,31498,The American Express Community Stadium,Tony Harrington,2022-2023
+9,03-10-2022,20:00,Leicester City,1.3,4—0,1.1,Nott'ham Forest,32202,King Power Stadium,Robert Jones,2022-2023
+9,02-10-2022,14:00,Manchester City,3.2,6—3,1.7,Manchester Utd,53475,Etihad Stadium,Michael Oliver,2022-2023
+9,02-10-2022,16:30,Leeds United,0.4,0—0,2.2,Aston Villa,36582,Elland Road,Stuart Attwell,2022-2023
+9,01-10-2022,12:30,Arsenal,2.4,3—1,1.6,Tottenham,60278,Emirates Stadium,Anthony Taylor,2022-2023
+9,01-10-2022,15:00,Southampton,1.7,1—2,2,Everton,30510,St. Mary's Stadium,Andre Marriner,2022-2023
+9,01-10-2022,15:00,Crystal Palace,0.4,1—2,1.1,Chelsea,25198,Selhurst Park,Chris Kavanagh,2022-2023
+9,01-10-2022,15:00,Liverpool,1.5,3—3,1.4,Brighton,53320,Anfield,Andy Madley,2022-2023
+9,01-10-2022,15:00,Fulham,0.5,1—4,3.3,Newcastle Utd,22913,Craven Cottage,Darren England,2022-2023
+9,01-10-2022,15:00,Bournemouth,0.4,0—0,0.9,Brentford,10126,Vitality Stadium,Thomas Bramall,2022-2023
+9,01-10-2022,17:30,West Ham,0.9,2—0,0.7,Wolves,62444,London Stadium,Paul Tierney,2022-2023
+8,18-09-2022,12:00,Brentford,0.5,0—3,1.5,Arsenal,17122,Brentford Community Stadium,David Coote,2022-2023
+8,18-09-2022,14:15,Everton,0.4,1—0,1,West Ham,39298,Goodison Park,Michael Oliver,2022-2023
+8,17-09-2022,12:30,Wolves,0.4,0—3,1.1,Manchester City,31578,Molineux Stadium,Anthony Taylor,2022-2023
+8,17-09-2022,15:00,Newcastle Utd,1.9,1—1,0.7,Bournemouth,52238,St James' Park,Craig Pawson,2022-2023
+8,17-09-2022,17:30,Tottenham,2.2,6—2,1.8,Leicester City,61450,Tottenham Hotspur Stadium,Simon Hooper,2022-2023
+8,16-09-2022,20:00,Aston Villa,1.5,1—0,0.3,Southampton,40758,Villa Park,Tony Harrington,2022-2023
+8,16-09-2022,20:00,Nott'ham Forest,1.4,2—3,0.9,Fulham,28654,The City Ground,Jarred Gillett,2022-2023
+6,04-09-2022,14:00,Brighton,2.6,5—2,1.4,Leicester City,31185,The American Express Community Stadium,Tony Harrington,2022-2023
+6,04-09-2022,16:30,Manchester Utd,1.5,3—1,1.3,Arsenal,73431,Old Trafford,Paul Tierney,2022-2023
+6,03-09-2022,12:30,Everton,1.7,0—0,2.1,Liverpool,39240,Goodison Park,Anthony Taylor,2022-2023
+6,03-09-2022,15:00,Nott'ham Forest,1.9,2—3,0.8,Bournemouth,28720,The City Ground,Michael Oliver,2022-2023
+6,03-09-2022,15:00,Wolves,0.8,1—0,1.2,Southampton,30546,Molineux Stadium,John Brooks,2022-2023
+6,03-09-2022,15:00,Newcastle Utd,2.8,0—0,1,Crystal Palace,51863,St James' Park,Michael Salisbury,2022-2023
+6,03-09-2022,15:00,Brentford,2.3,5—2,1.7,Leeds United,17092,Brentford Community Stadium,Robert Jones,2022-2023
+6,03-09-2022,15:00,Tottenham,2.9,2—1,0.7,Fulham,61641,Tottenham Hotspur Stadium,Stuart Attwell,2022-2023
+6,03-09-2022,15:00,Chelsea,0.9,2—1,1.1,West Ham,39923,Stamford Bridge,Andy Madley,2022-2023
+6,03-09-2022,17:30,Aston Villa,0.3,1—1,2.1,Manchester City,41830,Villa Park,Simon Hooper,2022-2023
+5,01-09-2022,20:00,Leicester City,0.7,0—1,1.5,Manchester Utd,32226,King Power Stadium,Craig Pawson,2022-2023
+5,31-08-2022,19:30,Bournemouth,0.4,0—0,1.5,Wolves,10113,Vitality Stadium,Anthony Taylor,2022-2023
+5,31-08-2022,19:30,Manchester City,3.3,6—0,0.7,Nott'ham Forest,53409,Etihad Stadium,Paul Tierney,2022-2023
+5,31-08-2022,19:30,Arsenal,2.4,2—1,0.4,Aston Villa,60012,Emirates Stadium,Robert Jones,2022-2023
+5,31-08-2022,19:45,West Ham,1.2,1—1,0.6,Tottenham,62450,London Stadium,Peter Bankes,2022-2023
+5,31-08-2022,20:00,Liverpool,1.5,2—1,0.7,Newcastle Utd,53316,Anfield,Andre Marriner,2022-2023
+5,30-08-2022,19:30,Fulham,0.7,2—1,1.4,Brighton,22224,Craven Cottage,Thomas Bramall,2022-2023
+5,30-08-2022,19:30,Crystal Palace,1,1—1,1.4,Brentford,25043,Selhurst Park,Simon Hooper,2022-2023
+5,30-08-2022,19:45,Southampton,1.1,2—1,1.1,Chelsea,31542,St. Mary's Stadium,Michael Oliver,2022-2023
+5,30-08-2022,20:00,Leeds United,1,1—1,1,Everton,36338,Elland Road,Darren England,2022-2023
+4,28-08-2022,14:00,Wolves,0.7,1—1,1.7,Newcastle Utd,31311,Molineux Stadium,Peter Bankes,2022-2023
+4,28-08-2022,14:00,Aston Villa,0.5,0—1,0.6,West Ham,41796,Villa Park,David Coote,2022-2023
+4,28-08-2022,16:30,Nott'ham Forest,0.9,0—2,2.4,Tottenham,29296,The City Ground,Craig Pawson,2022-2023
+4,27-08-2022,12:30,Southampton,1.4,0—1,1.1,Manchester Utd,31196,St. Mary's Stadium,Andy Madley,2022-2023
+4,27-08-2022,15:00,Manchester City,2.2,4—2,0.1,Crystal Palace,53112,Etihad Stadium,Darren England,2022-2023
+4,27-08-2022,15:00,Brighton,2,1—0,1.8,Leeds United,30953,The American Express Community Stadium,Michael Salisbury,2022-2023
+4,27-08-2022,15:00,Chelsea,1.8,2—1,2.5,Leicester City,39953,Stamford Bridge,Paul Tierney,2022-2023
+4,27-08-2022,15:00,Brentford,2.1,1—1,1.1,Everton,17009,Brentford Community Stadium,John Brooks,2022-2023
+4,27-08-2022,15:00,Liverpool,3.3,9—0,0.3,Bournemouth,53328,Anfield,Stuart Attwell,2022-2023
+4,27-08-2022,17:30,Arsenal,2.6,2—1,0.8,Fulham,60164,Emirates Stadium,Jarred Gillett,2022-2023
+3,22-08-2022,20:00,Manchester Utd,1.8,2—1,1.3,Liverpool,74147,Old Trafford,Michael Oliver,2022-2023
+3,21-08-2022,14:00,Leeds United,2.1,3—0,0.9,Chelsea,36372,Elland Road,Stuart Attwell,2022-2023
+3,21-08-2022,14:00,West Ham,0.8,0—2,1.7,Brighton,62449,London Stadium,Anthony Taylor,2022-2023
+3,21-08-2022,16:30,Newcastle Utd,1.8,3—3,2.1,Manchester City,52258,St James' Park,Jarred Gillett,2022-2023
+3,20-08-2022,12:30,Tottenham,1.7,1—0,0.7,Wolves,61298,Tottenham Hotspur Stadium,Simon Hooper,2022-2023
+3,20-08-2022,15:00,Leicester City,0.3,1—2,0.9,Southampton,30850,King Power Stadium,Michael Salisbury,2022-2023
+3,20-08-2022,15:00,Everton,1.5,1—1,1,Nott'ham Forest,39271,Goodison Park,Andre Marriner,2022-2023
+3,20-08-2022,15:00,Crystal Palace,2.6,3—1,0.9,Aston Villa,22012,Selhurst Park,Andy Madley,2022-2023
+3,20-08-2022,15:00,Fulham,2.4,3—2,1.8,Brentford,21798,Craven Cottage,Peter Bankes,2022-2023
+3,20-08-2022,17:30,Bournemouth,0.3,0—3,1.3,Arsenal,10423,Vitality Stadium,Craig Pawson,2022-2023
+2,15-08-2022,20:00,Liverpool,2,1—1,1,Crystal Palace,52970,Anfield,Paul Tierney,2022-2023
+2,14-08-2022,14:00,Nott'ham Forest,1.3,1—0,2.1,West Ham,29281,The City Ground,Robert Jones,2022-2023
+2,14-08-2022,16:30,Chelsea,1.6,2—2,1,Tottenham,39946,Stamford Bridge,Anthony Taylor,2022-2023
+2,13-08-2022,12:30,Aston Villa,2.3,2—1,1.6,Everton,41883,Villa Park,Michael Oliver,2022-2023
+2,13-08-2022,15:00,Manchester City,1.7,4—0,0.1,Bournemouth,53453,Etihad Stadium,David Coote,2022-2023
+2,13-08-2022,15:00,Southampton,1.2,2—2,1.8,Leeds United,30815,St. Mary's Stadium,Tony Harrington,2022-2023
+2,13-08-2022,15:00,Wolves,0.9,0—0,1.5,Fulham,31178,Molineux Stadium,John Brooks,2022-2023
+2,13-08-2022,15:00,Arsenal,2.7,4—2,0.5,Leicester City,60033,Emirates Stadium,Darren England,2022-2023
+2,13-08-2022,15:00,Brighton,1.5,0—0,0.2,Newcastle Utd,31552,The American Express Community Stadium,Graham Scott,2022-2023
+2,13-08-2022,17:30,Brentford,1.6,4—0,0.9,Manchester Utd,17051,Brentford Community Stadium,Stuart Attwell,2022-2023
+1,07-08-2022,14:00,Leicester City,0.6,2—2,0.8,Brentford,31794,King Power Stadium,Jarred Gillett,2022-2023
+1,07-08-2022,14:00,Manchester Utd,1.4,1—2,1.5,Brighton,73711,Old Trafford,Paul Tierney,2022-2023
+1,07-08-2022,16:30,West Ham,0.5,0—2,2.2,Manchester City,62443,London Stadium,Michael Oliver,2022-2023
+1,06-08-2022,12:30,Fulham,1.2,2—2,1.2,Liverpool,22207,Craven Cottage,Andy Madley,2022-2023
+1,06-08-2022,15:00,Tottenham,1.5,4—1,0.5,Southampton,61732,Tottenham Hotspur Stadium,Andre Marriner,2022-2023
+1,06-08-2022,15:00,Newcastle Utd,1.7,2—0,0.3,Nott'ham Forest,52245,St James' Park,Simon Hooper,2022-2023
+1,06-08-2022,15:00,Leeds United,0.8,2—1,1.3,Wolves,36347,Elland Road,Robert Jones,2022-2023
+1,06-08-2022,15:00,Bournemouth,0.6,2—0,0.7,Aston Villa,11013,Vitality Stadium,Peter Bankes,2022-2023
+1,06-08-2022,17:30,Everton,0.7,0—1,1.5,Chelsea,39254,Goodison Park,Craig Pawson,2022-2023
+1,05-08-2022,20:00,Crystal Palace,1.2,0—2,1,Arsenal,25286,Selhurst Park,Anthony Taylor,2022-2023
+38,22-05-2022,16:00,Brentford,0.8,1—2,1.3,Leeds United,16957,Brentford Community Stadium,Paul Tierney,2021-2022
+38,22-05-2022,16:00,Leicester City,3.4,4—1,1.1,Southampton,32003,King Power Stadium,Jonathan Moss,2021-2022
+38,22-05-2022,16:00,Crystal Palace,0.6,1—0,0.7,Manchester Utd,25434,Selhurst Park,Martin Atkinson,2021-2022
+38,22-05-2022,16:00,Arsenal,4.2,5—1,1.1,Everton,60201,Emirates Stadium,Andre Marriner,2021-2022
+38,22-05-2022,16:00,Brighton,1.6,3—1,0.2,West Ham,31604,The American Express Community Stadium,Kevin Friend,2021-2022
+38,22-05-2022,16:00,Norwich City,0.5,0—5,3.4,Tottenham,27022,Carrow Road,Chris Kavanagh,2021-2022
+38,22-05-2022,16:00,Manchester City,3.4,3—2,0.2,Aston Villa,53395,Etihad Stadium,Michael Oliver,2021-2022
+38,22-05-2022,16:00,Liverpool,2.7,3—1,1.3,Wolves,53097,Anfield,Anthony Taylor,2021-2022
+38,22-05-2022,16:00,Burnley,1.6,1—2,1.8,Newcastle Utd,21361,Turf Moor,Craig Pawson,2021-2022
+38,22-05-2022,16:00,Chelsea,2.2,2—1,0.6,Watford,32089,Stamford Bridge,Mike Dean,2021-2022
+33,19-05-2022,19:45,Everton,0.8,3—2,1.1,Crystal Palace,38448,Goodison Park,Anthony Taylor,2021-2022
+18,19-05-2022,20:00,Aston Villa,1.5,1—1,1.6,Burnley,40468,Villa Park,Paul Tierney,2021-2022
+27,19-05-2022,20:00,Chelsea,1.6,1—1,0.1,Leicester City,31478,Stamford Bridge,Stuart Attwell,2021-2022
+37,17-05-2022,19:45,Southampton,0.1,1—2,1.3,Liverpool,31588,St. Mary's Stadium,Martin Atkinson,2021-2022
+37,16-05-2022,20:00,Newcastle Utd,1.6,2—0,0.6,Arsenal,52274,St. James' Park,Darren England,2021-2022
+37,15-05-2022,12:00,Tottenham,2.2,1—0,0.7,Burnley,61729,Tottenham Hotspur Stadium,Kevin Friend,2021-2022
+37,15-05-2022,14:00,Leeds United,1.6,1—1,2.2,Brighton,36638,Elland Road,Mike Dean,2021-2022
+37,15-05-2022,14:00,Watford,1.4,1—5,2.5,Leicester City,20257,Vicarage Road Stadium,Jarred Gillett,2021-2022
+37,15-05-2022,14:00,Wolves,0.9,1—1,1.1,Norwich City,31219,Molineux Stadium,Tony Harrington,2021-2022
+37,15-05-2022,14:00,Aston Villa,1,1—1,1.4,Crystal Palace,41136,Villa Park,Chris Kavanagh,2021-2022
+37,15-05-2022,14:00,West Ham,1.1,2—2,2.4,Manchester City,59972,London Stadium,Anthony Taylor,2021-2022
+37,15-05-2022,16:30,Everton,2.1,2—3,1.4,Brentford,38819,Goodison Park,Michael Oliver,2021-2022
+22,12-05-2022,19:45,Tottenham,2.7,3—0,0.5,Arsenal,62027,Tottenham Hotspur Stadium,Paul Tierney,2021-2022
+33,11-05-2022,19:30,Leeds United,0.4,0—3,1.3,Chelsea,36549,Elland Road,Anthony Taylor,2021-2022
+21,11-05-2022,19:45,Leicester City,2,3—0,1.1,Norwich City,38092,King Power Stadium,Simon Hooper,2021-2022
+30,11-05-2022,19:45,Watford,0.3,0—0,0.7,Everton,20653,Vicarage Road Stadium,Mike Dean,2021-2022
+33,11-05-2022,20:15,Wolves,0.5,1—5,2.3,Manchester City,32000,Molineux Stadium,Martin Atkinson,2021-2022
+33,10-05-2022,20:00,Aston Villa,1.4,1—2,1.8,Liverpool,41919,Villa Park,Jonathan Moss,2021-2022
+36,08-05-2022,14:00,Leicester City,1.5,1—2,1.1,Everton,32001,King Power Stadium,Craig Pawson,2021-2022
+36,08-05-2022,14:00,Norwich City,0.8,0—4,3,West Ham,26428,Carrow Road,Robert Jones,2021-2022
+36,08-05-2022,14:00,Arsenal,2,2—1,0.3,Leeds United,60108,Emirates Stadium,Chris Kavanagh,2021-2022
+36,08-05-2022,16:30,Manchester City,3.1,5—0,0.8,Newcastle Utd,53336,Etihad Stadium,Stuart Attwell,2021-2022
+36,07-05-2022,15:00,Crystal Palace,2.2,1—0,0.4,Watford,24622,Selhurst Park,Graham Scott,2021-2022
+36,07-05-2022,15:00,Brentford,2.6,3—0,1.4,Southampton,17051,Brentford Community Stadium,Michael Salisbury,2021-2022
+36,07-05-2022,15:00,Chelsea,1.7,2—2,2,Wolves,32190,Stamford Bridge,Peter Bankes,2021-2022
+36,07-05-2022,15:00,Burnley,1.9,1—3,2.1,Aston Villa,20891,Turf Moor,David Coote,2021-2022
+36,07-05-2022,17:30,Brighton,2.3,4—0,0.9,Manchester Utd,31637,The American Express Community Stadium,Andy Madley,2021-2022
+36,07-05-2022,19:45,Liverpool,1.3,1—1,0.9,Tottenham,53177,Anfield,Michael Oliver,2021-2022
+35,02-05-2022,20:00,Manchester Utd,2,3—0,0.6,Brentford,73482,Old Trafford,Chris Kavanagh,2021-2022
+35,01-05-2022,14:00,Tottenham,1.2,3—1,0.5,Leicester City,59482,Tottenham Hotspur Stadium,Jonathan Moss,2021-2022
+35,01-05-2022,14:00,Everton,0.8,1—0,0.8,Chelsea,39256,Goodison Park,Kevin Friend,2021-2022
+35,01-05-2022,16:30,West Ham,0.5,1—2,0.9,Arsenal,59959,London Stadium,Mike Dean,2021-2022
+35,30-04-2022,12:30,Newcastle Utd,0.2,0—1,2.3,Liverpool,52281,St. James' Park,Andre Marriner,2021-2022
+35,30-04-2022,15:00,Watford,1,1—2,1.6,Burnley,20738,Vicarage Road Stadium,Craig Pawson,2021-2022
+35,30-04-2022,15:00,Wolves,0.7,0—3,2.6,Brighton,31243,Molineux Stadium,Simon Hooper,2021-2022
+35,30-04-2022,15:00,Aston Villa,1.8,2—0,0.5,Norwich City,40290,Villa Park,John Brooks,2021-2022
+35,30-04-2022,15:00,Southampton,0.6,1—2,1.1,Crystal Palace,31359,St. Mary's Stadium,Jarred Gillett,2021-2022
+35,30-04-2022,17:30,Leeds United,1.3,0—4,2.4,Manchester City,35771,Elland Road,Paul Tierney,2021-2022
+37,28-04-2022,19:45,Manchester Utd,0.5,1—1,1.9,Chelsea,73564,Old Trafford,Mike Dean,2021-2022
+34,25-04-2022,20:00,Crystal Palace,1.9,0—0,0.5,Leeds United,25357,Selhurst Park,Darren England,2021-2022
+34,24-04-2022,14:00,Brighton,1.7,2—2,0.9,Southampton,31335,The American Express Community Stadium,Robert Jones,2021-2022
+34,24-04-2022,14:00,Burnley,1.4,1—0,0.6,Wolves,19246,Turf Moor,Anthony Taylor,2021-2022
+34,24-04-2022,14:00,Chelsea,3,1—0,0.5,West Ham,32231,Stamford Bridge,Michael Oliver,2021-2022
+34,24-04-2022,16:30,Liverpool,1.7,2—0,0.4,Everton,53213,Anfield,Stuart Attwell,2021-2022
+34,23-04-2022,12:30,Arsenal,2.3,3—1,1.8,Manchester Utd,60223,Emirates Stadium,Craig Pawson,2021-2022
+34,23-04-2022,15:00,Leicester City,0.3,0—0,0.9,Aston Villa,32185,King Power Stadium,Andy Madley,2021-2022
+34,23-04-2022,15:00,Manchester City,3.6,5—1,0.5,Watford,53013,Etihad Stadium,Kevin Friend,2021-2022
+34,23-04-2022,15:00,Norwich City,0.6,0—3,1.9,Newcastle Utd,26910,Carrow Road,Chris Kavanagh,2021-2022
+34,23-04-2022,17:30,Brentford,0.9,0—0,0.6,Tottenham,17072,Brentford Community Stadium,Martin Atkinson,2021-2022
+30,21-04-2022,19:45,Burnley,1.5,2—0,0.9,Southampton,17384,Turf Moor,Stuart Attwell,2021-2022
+18,20-04-2022,19:45,Everton,1.8,1—1,0.9,Leicester City,39153,Goodison Park,David Coote,2021-2022
+25,20-04-2022,19:45,Chelsea,0.7,2—4,2,Arsenal,32249,Stamford Bridge,Jonathan Moss,2021-2022
+30,20-04-2022,19:45,Newcastle Utd,0.9,1—0,0.5,Crystal Palace,51938,St. James' Park,Tony Harrington,2021-2022
+30,20-04-2022,20:00,Manchester City,1.3,3—0,0.2,Brighton,52226,Etihad Stadium,Mike Dean,2021-2022
+30,19-04-2022,20:00,Liverpool,2,4—0,0.1,Manchester Utd,52686,Anfield,Martin Atkinson,2021-2022
+33,17-04-2022,14:15,Newcastle Utd,1.8,2—1,0.6,Leicester City,52104,St. James' Park,Jarred Gillett,2021-2022
+33,17-04-2022,14:15,West Ham,2.2,1—1,1.8,Burnley,59958,London Stadium,Paul Tierney,2021-2022
+33,16-04-2022,12:30,Tottenham,0.5,0—1,0.6,Brighton,58685,Tottenham Hotspur Stadium,Craig Pawson,2021-2022
+33,16-04-2022,15:00,Manchester Utd,1.9,3—2,1.5,Norwich City,73381,Old Trafford,Andy Madley,2021-2022
+33,16-04-2022,15:00,Watford,1.7,1—2,1.9,Brentford,21045,Vicarage Road Stadium,Simon Hooper,2021-2022
+33,16-04-2022,15:00,Southampton,0.8,1—0,1.7,Arsenal,31465,St. Mary's Stadium,Peter Bankes,2021-2022
+32,10-04-2022,14:00,Brentford,1.4,2—0,0.3,West Ham,17032,Brentford Community Stadium,Martin Atkinson,2021-2022
+32,10-04-2022,14:00,Leicester City,1,2—1,1.4,Crystal Palace,31896,King Power Stadium,Robert Jones,2021-2022
+32,10-04-2022,14:00,Norwich City,1.7,2—0,1.7,Burnley,26361,Carrow Road,Michael Oliver,2021-2022
+32,10-04-2022,16:30,Manchester City,1.3,2—2,1.3,Liverpool,53197,Etihad Stadium,Anthony Taylor,2021-2022
+32,09-04-2022,12:30,Everton,0.4,1—0,0.8,Manchester Utd,39080,Goodison Park,Jonathan Moss,2021-2022
+32,09-04-2022,15:00,Arsenal,1.9,1—2,0.6,Brighton,60112,Emirates Stadium,David Coote,2021-2022
+32,09-04-2022,15:00,Southampton,0.5,0—6,4.2,Chelsea,31359,St. Mary's Stadium,Kevin Friend,2021-2022
+32,09-04-2022,15:00,Watford,1.1,0—3,0.7,Leeds United,20957,Vicarage Road Stadium,Andre Marriner,2021-2022
+32,09-04-2022,17:30,Aston Villa,1.6,0—4,1.1,Tottenham,41949,Villa Park,Graham Scott,2021-2022
+32,08-04-2022,20:00,Newcastle Utd,1.5,1—0,0.4,Wolves,52164,St. James' Park,Peter Bankes,2021-2022
+19,06-04-2022,19:30,Burnley,2,3—2,2.4,Everton,19830,Turf Moor,Mike Dean,2021-2022
+31,04-04-2022,20:00,Crystal Palace,1.5,3—0,0.8,Arsenal,25149,Selhurst Park,Paul Tierney,2021-2022
+31,03-04-2022,14:00,West Ham,1.2,2—1,0.7,Everton,59953,London Stadium,Michael Oliver,2021-2022
+31,03-04-2022,16:30,Tottenham,3.1,5—1,0.5,Newcastle Utd,57553,Tottenham Hotspur Stadium,Martin Atkinson,2021-2022
+31,02-04-2022,12:30,Liverpool,2.2,2—0,0.6,Watford,53104,Anfield,Stuart Attwell,2021-2022
+31,02-04-2022,15:00,Wolves,1.3,2—1,2.1,Aston Villa,31012,Molineux Stadium,Darren England,2021-2022
+31,02-04-2022,15:00,Leeds United,1.2,1—1,1.4,Southampton,36580,Elland Road,Anthony Taylor,2021-2022
+31,02-04-2022,15:00,Chelsea,1.3,1—4,1.8,Brentford,39061,Stamford Bridge,Andy Madley,2021-2022
+31,02-04-2022,15:00,Burnley,0.1,0—2,1.8,Manchester City,21249,Turf Moor,Craig Pawson,2021-2022
+31,02-04-2022,15:00,Brighton,2.8,0—0,0.4,Norwich City,31245,The American Express Community Stadium,Simon Hooper,2021-2022
+31,02-04-2022,17:30,Manchester Utd,0.9,1—1,0.8,Leicester City,73444,Old Trafford,Andre Marriner,2021-2022
+30,20-03-2022,14:00,Leicester City,1,2—1,1.3,Brentford,31830,King Power Stadium,Darren England,2021-2022
+30,20-03-2022,16:30,Tottenham,3,3—1,0.6,West Ham,58685,Tottenham Hotspur Stadium,Anthony Taylor,2021-2022
+30,19-03-2022,12:30,Aston Villa,0.5,0—1,1.3,Arsenal,41956,Villa Park,Andy Madley,2021-2022
+30,18-03-2022,20:00,Wolves,1.2,2—3,2,Leeds United,31842,Molineux Stadium,Kevin Friend,2021-2022
+20,17-03-2022,19:45,Everton,0.7,1—0,0.9,Newcastle Utd,39068,Goodison Park,Craig Pawson,2021-2022
+16,16-03-2022,19:30,Brighton,0.7,0—2,2.2,Tottenham,31144,The American Express Community Stadium,Robert Jones,2021-2022
+27,16-03-2022,20:15,Arsenal,0.5,0—2,0.8,Liverpool,59968,Emirates Stadium,Andre Marriner,2021-2022
+29,14-03-2022,20:00,Crystal Palace,0.6,0—0,2.8,Manchester City,25309,Selhurst Park,Martin Atkinson,2021-2022
+29,13-03-2022,14:00,Chelsea,1.1,1—0,0.3,Newcastle Utd,40026,Stamford Bridge,David Coote,2021-2022
+29,13-03-2022,14:00,Southampton,1.4,1—2,1.7,Watford,28863,St. Mary's Stadium,Graham Scott,2021-2022
+29,13-03-2022,14:00,West Ham,1.2,2—1,1.1,Aston Villa,59957,London Stadium,Jarred Gillett,2021-2022
+29,13-03-2022,14:00,Everton,0.4,0—1,0.8,Wolves,39112,Goodison Park,Michael Oliver,2021-2022
+29,13-03-2022,14:00,Leeds United,2.5,2—1,1.5,Norwich City,36321,Elland Road,Stuart Attwell,2021-2022
+29,13-03-2022,16:30,Arsenal,2.4,2—0,0.4,Leicester City,60111,Emirates Stadium,Anthony Taylor,2021-2022
+29,12-03-2022,12:30,Brighton,0.5,0—2,2.2,Liverpool,31474,The American Express Community Stadium,Mike Dean,2021-2022
+29,12-03-2022,15:00,Brentford,1.9,2—0,0.7,Burnley,17088,Brentford Community Stadium,Paul Tierney,2021-2022
+29,12-03-2022,17:30,Manchester Utd,1,3—2,1.5,Tottenham,73458,Old Trafford,Jonathan Moss,2021-2022
+19,10-03-2022,19:30,Wolves,0.7,4—0,0.6,Watford,29658,Molineux Stadium,Darren England,2021-2022
+21,10-03-2022,19:30,Southampton,1.1,1—2,0.6,Newcastle Utd,30056,St. Mary's Stadium,Kevin Friend,2021-2022
+30,10-03-2022,19:30,Norwich City,1,1—3,1.8,Chelsea,26684,Carrow Road,Martin Atkinson,2021-2022
+20,10-03-2022,19:45,Leeds United,0.2,0—3,1.5,Aston Villa,36400,Elland Road,Simon Hooper,2021-2022
+28,07-03-2022,20:00,Tottenham,2.5,5—0,0.2,Everton,59647,Tottenham Hotspur Stadium,Stuart Attwell,2021-2022
+28,06-03-2022,14:00,Watford,1,2—3,1,Arsenal,21142,Vicarage Road Stadium,Craig Pawson,2021-2022
+28,06-03-2022,16:30,Manchester City,2.7,4—1,0.5,Manchester Utd,53165,Etihad Stadium,Michael Oliver,2021-2022
+28,05-03-2022,12:30,Leicester City,0.4,1—0,1.7,Leeds United,32236,King Power Stadium,David Coote,2021-2022
+28,05-03-2022,15:00,Newcastle Utd,1.7,2—1,1.5,Brighton,52214,St. James' Park,Martin Atkinson,2021-2022
+28,05-03-2022,15:00,Aston Villa,2.5,4—0,1.1,Southampton,41855,Villa Park,Peter Bankes,2021-2022
+28,05-03-2022,15:00,Burnley,0.7,0—4,2.3,Chelsea,19439,Turf Moor,Andre Marriner,2021-2022
+28,05-03-2022,15:00,Wolves,0.7,0—2,2.7,Crystal Palace,31395,Molineux Stadium,Andy Madley,2021-2022
+28,05-03-2022,15:00,Norwich City,1,1—3,2,Brentford,26887,Carrow Road,Anthony Taylor,2021-2022
+28,05-03-2022,17:30,Liverpool,2.4,1—0,1.3,West Ham,59925,Anfield,Jonathan Moss,2021-2022
+22,01-03-2022,19:45,Burnley,0.9,0—2,1.5,Leicester City,17825,Turf Moor,Chris Kavanagh,2021-2022
+27,27-02-2022,14:00,West Ham,1.8,1—0,0.7,Wolves,59946,London Stadium,Anthony Taylor,2021-2022
+27,26-02-2022,12:30,Leeds United,1.5,0—4,1.9,Tottenham,36599,Elland Road,Craig Pawson,2021-2022
+27,26-02-2022,15:00,Crystal Palace,1,1—1,0.2,Burnley,24203,Selhurst Park,Jonathan Moss,2021-2022
+27,26-02-2022,15:00,Manchester Utd,2.8,0—0,0.6,Watford,73152,Old Trafford,Kevin Friend,2021-2022
+27,26-02-2022,15:00,Brighton,0.7,0—2,1,Aston Villa,31475,The American Express Community Stadium,John Brooks,2021-2022
+27,26-02-2022,15:00,Brentford,0.4,0—2,2.7,Newcastle Utd,17039,Brentford Community Stadium,Mike Dean,2021-2022
+27,26-02-2022,17:30,Everton,0.5,0—1,1.8,Manchester City,39105,Goodison Park,Paul Tierney,2021-2022
+27,25-02-2022,20:00,Southampton,2.6,2—0,0.6,Norwich City,31182,St. Mary's Stadium,Simon Hooper,2021-2022
+20,24-02-2022,19:45,Arsenal,3.1,2—1,1,Wolves,59888,Emirates Stadium,Martin Atkinson,2021-2022
+13,23-02-2022,19:30,Burnley,0.9,1—0,0.7,Tottenham,19488,Turf Moor,Graham Scott,2021-2022
+18,23-02-2022,19:30,Watford,1.4,1—4,1.1,Crystal Palace,20012,Vicarage Road Stadium,Andre Marriner,2021-2022
+19,23-02-2022,19:45,Liverpool,5.9,6—0,0.2,Leeds United,53018,Anfield,Michael Oliver,2021-2022
+26,20-02-2022,14:00,Leeds United,1.8,2—4,2.2,Manchester Utd,36715,Elland Road,Paul Tierney,2021-2022
+26,20-02-2022,16:30,Wolves,0.5,2—1,1.7,Leicester City,31587,Molineux Stadium,Craig Pawson,2021-2022
+26,19-02-2022,12:30,West Ham,0.6,1—1,0.8,Newcastle Utd,59949,London Stadium,Chris Kavanagh,2021-2022
+26,19-02-2022,15:00,Aston Villa,1.3,0—1,1.2,Watford,41936,Villa Park,Robert Jones,2021-2022
+26,19-02-2022,15:00,Arsenal,1.7,2—1,0.6,Brentford,59249,Emirates Stadium,Jonathan Moss,2021-2022
+26,19-02-2022,15:00,Southampton,2.5,2—0,0.3,Everton,31312,St. Mary's Stadium,Andy Madley,2021-2022
+26,19-02-2022,15:00,Liverpool,3.6,3—1,0.6,Norwich City,53135,Anfield,Mike Dean,2021-2022
+26,19-02-2022,15:00,Brighton,0.6,0—3,0.7,Burnley,30361,The American Express Community Stadium,Kevin Friend,2021-2022
+26,19-02-2022,15:00,Crystal Palace,0.5,0—1,0.9,Chelsea,25109,Selhurst Park,David Coote,2021-2022
+26,19-02-2022,17:30,Manchester City,2.1,2—3,1.4,Tottenham,53201,Etihad Stadium,Anthony Taylor,2021-2022
+18,15-02-2022,20:15,Manchester Utd,1.7,2—0,0.7,Brighton,73012,Old Trafford,Peter Bankes,2021-2022
+25,13-02-2022,14:00,Newcastle Utd,0.5,1—0,0.6,Aston Villa,52207,St. James' Park,Craig Pawson,2021-2022
+25,13-02-2022,14:00,Burnley,1.5,0—1,1.7,Liverpool,19563,Turf Moor,Martin Atkinson,2021-2022
+25,13-02-2022,14:00,Tottenham,1.2,0—2,1.3,Wolves,56452,Tottenham Hotspur Stadium,Kevin Friend,2021-2022
+25,13-02-2022,16:30,Leicester City,1.4,2—2,1.1,West Ham,32061,King Power Stadium,Michael Oliver,2021-2022
+25,12-02-2022,12:30,Manchester Utd,2.1,1—1,0.8,Southampton,73084,Old Trafford,Stuart Attwell,2021-2022
+25,12-02-2022,15:00,Everton,2.7,3—0,0.3,Leeds United,39150,Goodison Park,Graham Scott,2021-2022
+25,12-02-2022,15:00,Brentford,1.6,0—0,0.3,Crystal Palace,16958,Brentford Community Stadium,Simon Hooper,2021-2022
+25,12-02-2022,15:00,Watford,0.5,0—2,1.6,Brighton,20795,Vicarage Road Stadium,Jonathan Moss,2021-2022
+25,12-02-2022,17:30,Norwich City,0.4,0—4,4.6,Manchester City,27010,Carrow Road,Andre Marriner,2021-2022
+24,10-02-2022,19:45,Liverpool,1.8,2—0,0.5,Leicester City,53050,Anfield,Chris Kavanagh,2021-2022
+24,10-02-2022,19:45,Wolves,0.8,0—1,1.8,Arsenal,31523,Molineux Stadium,Michael Oliver,2021-2022
+24,09-02-2022,19:45,Tottenham,1.4,2—3,2.2,Southampton,54012,Tottenham Hotspur Stadium,David Coote,2021-2022
+24,09-02-2022,19:45,Norwich City,0.4,1—1,1.3,Crystal Palace,26652,Carrow Road,Paul Tierney,2021-2022
+24,09-02-2022,19:45,Manchester City,1.9,2—0,0.4,Brentford,51658,Etihad Stadium,Darren England,2021-2022
+24,09-02-2022,20:00,Aston Villa,1.6,3—3,1.8,Leeds United,41927,Villa Park,Jarred Gillett,2021-2022
+24,08-02-2022,19:45,West Ham,0.8,1—0,0.3,Watford,59581,London Stadium,Martin Atkinson,2021-2022
+24,08-02-2022,19:45,Newcastle Utd,1.9,3—1,0.7,Everton,52186,St. James' Park,Anthony Taylor,2021-2022
+24,08-02-2022,20:00,Burnley,0.4,1—1,1.8,Manchester Utd,21233,Turf Moor,Mike Dean,2021-2022
+17,05-02-2022,18:00,Burnley,0.6,0—0,0.8,Watford,19527,Turf Moor,Craig Pawson,2021-2022
+23,23-01-2022,14:00,Crystal Palace,2.2,1—3,1.9,Liverpool,25002,Selhurst Park,Kevin Friend,2021-2022
+23,23-01-2022,14:00,Arsenal,1.2,0—0,0.4,Burnley,59255,Emirates Stadium,David Coote,2021-2022
+23,23-01-2022,14:00,Leicester City,1.4,1—1,1.1,Brighton,31231,King Power Stadium,Martin Atkinson,2021-2022
+23,23-01-2022,16:30,Chelsea,1.2,2—0,0.5,Tottenham,40020,Stamford Bridge,Paul Tierney,2021-2022
+23,22-01-2022,12:30,Everton,1.6,0—1,0.8,Aston Villa,38203,Goodison Park,Craig Pawson,2021-2022
+23,22-01-2022,15:00,Leeds United,0.7,0—1,0.9,Newcastle Utd,36405,Elland Road,Chris Kavanagh,2021-2022
+23,22-01-2022,15:00,Manchester Utd,1.9,1—0,0.3,West Ham,73130,Old Trafford,Jonathan Moss,2021-2022
+23,22-01-2022,15:00,Brentford,1.1,1—2,0.2,Wolves,16982,Brentford Community Stadium,Peter Bankes,2021-2022
+23,22-01-2022,17:30,Southampton,0.8,1—1,1.8,Manchester City,31178,St. Mary's Stadium,Simon Hooper,2021-2022
+23,21-01-2022,20:00,Watford,1.2,0—3,1.1,Norwich City,20782,Vicarage Road Stadium,Mike Dean,2021-2022
+17,19-01-2022,19:30,Leicester City,1.2,2—3,3.1,Tottenham,31986,King Power Stadium,Jonathan Moss,2021-2022
+17,19-01-2022,20:00,Brentford,2.3,1—3,2.3,Manchester Utd,17094,Brentford Community Stadium,Andre Marriner,2021-2022
+24,18-01-2022,20:00,Brighton,0.7,1—1,0.7,Chelsea,30880,The American Express Community Stadium,Kevin Friend,2021-2022
+22,16-01-2022,14:00,West Ham,2.4,2—3,2.2,Leeds United,59951,London Stadium,Mike Dean,2021-2022
+22,16-01-2022,14:00,Liverpool,2.7,3—0,0.7,Brentford,52824,Anfield,Jonathan Moss,2021-2022
+22,15-01-2022,12:30,Manchester City,1,1—0,0.3,Chelsea,53319,Etihad Stadium,Craig Pawson,2021-2022
+22,15-01-2022,15:00,Norwich City,1,2—1,0.6,Everton,26629,Carrow Road,Andy Madley,2021-2022
+22,15-01-2022,15:00,Newcastle Utd,1.2,1—1,1.4,Watford,52223,St. James' Park,Paul Tierney,2021-2022
+22,15-01-2022,15:00,Wolves,2.5,3—1,0.8,Southampton,30057,Molineux Stadium,Michael Salisbury,2021-2022
+22,15-01-2022,17:30,Aston Villa,1.9,2—2,1,Manchester Utd,41968,Villa Park,David Coote,2021-2022
+22,14-01-2022,20:00,Brighton,2,1—1,0.2,Crystal Palace,30675,The American Express Community Stadium,Robert Jones,2021-2022
+18,12-01-2022,19:45,West Ham,2.5,2—0,0.3,Norwich City,59775,London Stadium,Simon Hooper,2021-2022
+18,11-01-2022,19:45,Southampton,1.4,4—1,0.5,Brentford,27383,St. Mary's Stadium,Stuart Attwell,2021-2022
+21,03-01-2022,17:30,Manchester Utd,0.8,0—1,0.7,Wolves,73045,Old Trafford,Mike Dean,2021-2022
+21,02-01-2022,14:00,Leeds United,1.9,3—1,1,Burnley,36083,Elland Road,Paul Tierney,2021-2022
+21,02-01-2022,14:00,Brentford,0.6,2—1,0.8,Aston Villa,16876,Brentford Community Stadium,Craig Pawson,2021-2022
+21,02-01-2022,14:00,Everton,1.6,2—3,1.7,Brighton,38203,Goodison Park,John Brooks,2021-2022
+21,02-01-2022,16:30,Chelsea,1.2,2—2,1.3,Liverpool,40072,Stamford Bridge,Anthony Taylor,2021-2022
+21,01-01-2022,12:30,Arsenal,0.8,1—2,2,Manchester City,59757,Emirates Stadium,Stuart Attwell,2021-2022
+21,01-01-2022,15:00,Watford,0.3,0—1,2.2,Tottenham,20391,Vicarage Road Stadium,Robert Jones,2021-2022
+21,01-01-2022,17:30,Crystal Palace,2.4,2—3,2.2,West Ham,24351,Selhurst Park,Darren England,2021-2022
+20,30-12-2021,20:15,Manchester Utd,2.4,3—1,1.1,Burnley,73121,Old Trafford,Jonathan Moss,2021-2022
+20,29-12-2021,19:30,Chelsea,0.7,1—1,0.9,Brighton,40080,Stamford Bridge,Mike Dean,2021-2022
+20,29-12-2021,20:15,Brentford,0.4,0—1,1.1,Manchester City,17009,Brentford Community Stadium,David Coote,2021-2022
+20,28-12-2021,15:00,Southampton,0.4,1—1,2.3,Tottenham,31304,St. Mary's Stadium,Anthony Taylor,2021-2022
+20,28-12-2021,15:00,Crystal Palace,1.9,3—0,0.9,Norwich City,24433,Selhurst Park,Paul Tierney,2021-2022
+20,28-12-2021,15:00,Watford,1.6,1—4,3.6,West Ham,20073,Vicarage Road Stadium,Darren England,2021-2022
+20,28-12-2021,20:00,Leicester City,0.4,1—0,2.3,Liverpool,32230,King Power Stadium,Michael Oliver,2021-2022
+19,27-12-2021,20:00,Newcastle Utd,1.3,1—1,1.6,Manchester Utd,52178,St. James' Park,Craig Pawson,2021-2022
+19,26-12-2021,15:00,West Ham,1.6,2—3,1.2,Southampton,41027,London Stadium,Kevin Friend,2021-2022
+19,26-12-2021,15:00,Manchester City,3.6,6—3,2.7,Leicester City,53226,Etihad Stadium,Chris Kavanagh,2021-2022
+19,26-12-2021,15:00,Norwich City,0.1,0—5,2.5,Arsenal,26940,Carrow Road,Graham Scott,2021-2022
+19,26-12-2021,15:00,Tottenham,2.3,3—0,0.2,Crystal Palace,40539,Tottenham Hotspur Stadium,Jonathan Moss,2021-2022
+19,26-12-2021,17:30,Aston Villa,0.4,1—3,2.6,Chelsea,41907,Villa Park,Martin Atkinson,2021-2022
+19,26-12-2021,20:00,Brighton,0.8,2—0,0.7,Brentford,30141,The American Express Community Stadium,Darren England,2021-2022
+18,19-12-2021,14:00,Wolves,0.2,0—0,0.9,Chelsea,30631,Molineux Stadium,David Coote,2021-2022
+18,19-12-2021,14:15,Newcastle Utd,0.3,0—4,2.9,Manchester City,52127,St. James' Park,Martin Atkinson,2021-2022
+18,19-12-2021,16:30,Tottenham,3,2—2,1.1,Liverpool,45421,Tottenham Hotspur Stadium,Paul Tierney,2021-2022
+18,18-12-2021,17:30,Leeds United,1.6,1—4,3.5,Arsenal,36166,Elland Road,Andre Marriner,2021-2022
+17,16-12-2021,19:45,Chelsea,2.9,1—1,0.6,Everton,13933,Stamford Bridge,Michael Oliver,2021-2022
+17,16-12-2021,20:00,Liverpool,2.7,3—1,0.3,Newcastle Utd,52951,Anfield,Mike Dean,2021-2022
+17,15-12-2021,19:30,Brighton,1.2,0—1,1,Wolves,30362,The American Express Community Stadium,Tony Harrington,2021-2022
+17,15-12-2021,19:30,Crystal Palace,1.2,2—2,0.6,Southampton,22861,Selhurst Park,Simon Hooper,2021-2022
+17,15-12-2021,20:00,Arsenal,2.8,2—0,0.4,West Ham,59777,Emirates Stadium,Anthony Taylor,2021-2022
+17,14-12-2021,19:45,Norwich City,0.5,0—2,2,Aston Villa,26836,Carrow Road,David Coote,2021-2022
+17,14-12-2021,20:00,Manchester City,3.1,7—0,0.3,Leeds United,52401,Etihad Stadium,Paul Tierney,2021-2022
+16,12-12-2021,14:00,Burnley,0.8,0—0,0.8,West Ham,18065,Turf Moor,Graham Scott,2021-2022
+16,12-12-2021,14:00,Leicester City,2.6,4—0,1,Newcastle Utd,31959,King Power Stadium,Peter Bankes,2021-2022
+16,12-12-2021,16:30,Crystal Palace,1.8,3—1,1,Everton,24066,Selhurst Park,Andy Madley,2021-2022
+16,11-12-2021,12:30,Manchester City,3.2,1—0,0.2,Wolves,52613,Etihad Stadium,Jonathan Moss,2021-2022
+16,11-12-2021,15:00,Liverpool,2.2,1—0,0.2,Aston Villa,53093,Anfield,Stuart Attwell,2021-2022
+16,11-12-2021,15:00,Arsenal,1.8,3—0,0.6,Southampton,59653,Emirates Stadium,Jarred Gillett,2021-2022
+16,11-12-2021,15:00,Chelsea,2.5,3—2,1.4,Leeds United,39959,Stamford Bridge,Chris Kavanagh,2021-2022
+16,11-12-2021,17:30,Norwich City,1.2,0—1,2,Manchester Utd,27606,Carrow Road,Darren England,2021-2022
+16,10-12-2021,20:00,Brentford,1.6,2—1,0.5,Watford,16861,Brentford Community Stadium,Michael Oliver,2021-2022
+15,06-12-2021,20:00,Everton,0.9,2—1,1,Arsenal,38906,Goodison Park,Mike Dean,2021-2022
+15,05-12-2021,14:00,Leeds United,1.2,2—2,1,Brentford,35639,Elland Road,David Coote,2021-2022
+15,05-12-2021,14:00,Tottenham,1.6,3—0,1.2,Norwich City,57088,Tottenham Hotspur Stadium,Jarred Gillett,2021-2022
+15,05-12-2021,14:00,Manchester Utd,0.9,1—0,0.5,Crystal Palace,73172,Old Trafford,Craig Pawson,2021-2022
+15,05-12-2021,16:30,Aston Villa,2.1,2—1,1.1,Leicester City,41572,Villa Park,Michael Oliver,2021-2022
+15,04-12-2021,12:30,West Ham,1.8,3—2,1.1,Chelsea,59942,London Stadium,Andre Marriner,2021-2022
+15,04-12-2021,15:00,Newcastle Utd,1,1—0,0.6,Burnley,51948,St. James' Park,Paul Tierney,2021-2022
+15,04-12-2021,15:00,Southampton,1.6,1—1,1.6,Brighton,28706,St. Mary's Stadium,Anthony Taylor,2021-2022
+15,04-12-2021,15:00,Wolves,0.1,0—1,2.7,Liverpool,30729,Molineux Stadium,Chris Kavanagh,2021-2022
+15,04-12-2021,17:30,Watford,0.8,1—3,3.1,Manchester City,20673,Vicarage Road Stadium,Simon Hooper,2021-2022
+14,02-12-2021,19:30,Tottenham,1.9,2—0,0.3,Brentford,54202,Tottenham Hotspur Stadium,Jonathan Moss,2021-2022
+14,02-12-2021,20:15,Manchester Utd,1.9,3—2,1.4,Arsenal,73123,Old Trafford,Martin Atkinson,2021-2022
+14,01-12-2021,19:30,Southampton,1.5,2—2,1.5,Leicester City,26951,St. Mary's Stadium,Robert Jones,2021-2022
+14,01-12-2021,19:30,West Ham,1.3,1—1,1.3,Brighton,59626,London Stadium,Chris Kavanagh,2021-2022
+14,01-12-2021,19:30,Wolves,0.7,0—0,0.2,Burnley,30328,Molineux Stadium,John Brooks,2021-2022
+14,01-12-2021,19:30,Watford,1,1—2,0.9,Chelsea,20388,Vicarage Road Stadium,David Coote,2021-2022
+14,01-12-2021,20:15,Aston Villa,0.8,1—2,1,Manchester City,41400,Villa Park,Mike Dean,2021-2022
+14,01-12-2021,20:15,Everton,0.7,1—4,2.4,Liverpool,39641,Goodison Park,Paul Tierney,2021-2022
+14,30-11-2021,19:30,Newcastle Utd,1.1,1—1,1.2,Norwich City,50757,St. James' Park,Andy Madley,2021-2022
+14,30-11-2021,20:15,Leeds United,1.4,1—0,1.1,Crystal Palace,35558,Elland Road,Kevin Friend,2021-2022
+13,28-11-2021,14:00,Brentford,1.2,1—0,1,Everton,16957,Brentford Community Stadium,Darren England,2021-2022
+13,28-11-2021,14:00,Leicester City,2.1,4—2,2.8,Watford,32020,King Power Stadium,Andy Madley,2021-2022
+13,28-11-2021,14:00,Manchester City,2.1,2—1,0.2,West Ham,53245,Etihad Stadium,Michael Oliver,2021-2022
+13,28-11-2021,16:30,Chelsea,2.7,1—1,0.9,Manchester Utd,40041,Stamford Bridge,Anthony Taylor,2021-2022
+13,27-11-2021,12:30,Arsenal,2.5,2—0,0.3,Newcastle Utd,59886,Emirates Stadium,Stuart Attwell,2021-2022
+13,27-11-2021,15:00,Crystal Palace,1,1—2,0.5,Aston Villa,25203,Selhurst Park,Michael Salisbury,2021-2022
+13,27-11-2021,15:00,Liverpool,2.9,4—0,1,Southampton,53040,Anfield,Andre Marriner,2021-2022
+13,27-11-2021,15:00,Norwich City,1.6,0—0,0.3,Wolves,26911,Carrow Road,Simon Hooper,2021-2022
+13,27-11-2021,17:30,Brighton,2.1,0—0,0.6,Leeds United,31166,The American Express Community Stadium,Craig Pawson,2021-2022
+12,21-11-2021,14:00,Manchester City,2.5,3—0,0.2,Everton,52571,Etihad Stadium,Stuart Attwell,2021-2022
+12,21-11-2021,16:30,Tottenham,2.1,2—1,1.4,Leeds United,58989,Tottenham Hotspur Stadium,Andre Marriner,2021-2022
+12,20-11-2021,12:30,Leicester City,0.4,0—3,2,Chelsea,35497,King Power Stadium,Paul Tierney,2021-2022
+12,20-11-2021,15:00,Wolves,1.4,1—0,0.4,West Ham,30667,Molineux Stadium,Mike Dean,2021-2022
+12,20-11-2021,15:00,Watford,2.7,4—1,1.4,Manchester Utd,21087,Vicarage Road Stadium,Jonathan Moss,2021-2022
+12,20-11-2021,15:00,Norwich City,0.5,2—1,1,Southampton,26885,Carrow Road,Martin Atkinson,2021-2022
+12,20-11-2021,15:00,Aston Villa,0.7,2—0,0.4,Brighton,41925,Villa Park,Anthony Taylor,2021-2022
+12,20-11-2021,15:00,Newcastle Utd,1.5,3—3,0.9,Brentford,52131,St. James' Park,Robert Jones,2021-2022
+12,20-11-2021,15:00,Burnley,1.5,3—3,1.9,Crystal Palace,18028,Turf Moor,Simon Hooper,2021-2022
+12,20-11-2021,17:30,Liverpool,4.3,4—0,0.4,Arsenal,53092,Anfield,Michael Oliver,2021-2022
+11,07-11-2021,14:00,Everton,0.6,0—0,0.7,Tottenham,39059,Goodison Park,Chris Kavanagh,2021-2022
+11,07-11-2021,14:00,Leeds United,1.3,1—1,0.7,Leicester City,36478,Elland Road,Darren England,2021-2022
+11,07-11-2021,14:00,Arsenal,1.6,1—0,0.5,Watford,59833,Emirates Stadium,Kevin Friend,2021-2022
+11,07-11-2021,16:30,West Ham,1,3—2,1.2,Liverpool,59909,London Stadium,Craig Pawson,2021-2022
+11,06-11-2021,12:30,Manchester Utd,0.9,0—2,1.6,Manchester City,73086,Old Trafford,Michael Oliver,2021-2022
+11,06-11-2021,15:00,Brentford,2.5,1—2,1.2,Norwich City,16837,Brentford Community Stadium,Jarred Gillett,2021-2022
+11,06-11-2021,15:00,Chelsea,1.8,1—1,0.7,Burnley,39798,Stamford Bridge,Andre Marriner,2021-2022
+11,06-11-2021,15:00,Crystal Palace,1.9,2—0,0.3,Wolves,24390,Selhurst Park,Graham Scott,2021-2022
+11,06-11-2021,17:30,Brighton,1.5,1—1,0.3,Newcastle Utd,31267,The American Express Community Stadium,David Coote,2021-2022
+11,05-11-2021,20:00,Southampton,0.6,1—0,0.6,Aston Villa,30178,St. Mary's Stadium,Andy Madley,2021-2022
+10,01-11-2021,20:00,Wolves,1.7,2—1,1.5,Everton,30617,Molineux Stadium,Martin Atkinson,2021-2022
+10,31-10-2021,14:00,Norwich City,0.8,1—2,0.7,Leeds United,26913,Carrow Road,Anthony Taylor,2021-2022
+10,31-10-2021,16:30,Aston Villa,0.7,1—4,2.3,West Ham,41874,Villa Park,Chris Kavanagh,2021-2022
+10,30-10-2021,12:30,Leicester City,1.3,0—2,0.7,Arsenal,32209,King Power Stadium,Michael Oliver,2021-2022
+10,30-10-2021,15:00,Newcastle Utd,0.2,0—3,2.2,Chelsea,52208,St. James' Park,Paul Tierney,2021-2022
+10,30-10-2021,15:00,Liverpool,1.5,2—2,1,Brighton,52598,Anfield,Mike Dean,2021-2022
+10,30-10-2021,15:00,Burnley,2.3,3—1,0.8,Brentford,18821,Turf Moor,Jonathan Moss,2021-2022
+10,30-10-2021,15:00,Watford,1,0—1,1.8,Southampton,20869,Vicarage Road Stadium,Peter Bankes,2021-2022
+10,30-10-2021,15:00,Manchester City,0.7,0—2,0.7,Crystal Palace,53014,Etihad Stadium,Andre Marriner,2021-2022
+10,30-10-2021,17:30,Tottenham,1,0—3,1.5,Manchester Utd,60356,Tottenham Hotspur Stadium,Stuart Attwell,2021-2022
+9,24-10-2021,14:00,West Ham,1.3,1—0,0.7,Tottenham,59924,London Stadium,Paul Tierney,2021-2022
+9,24-10-2021,14:00,Brentford,1,1—2,1.5,Leicester City,16814,Brentford Community Stadium,Simon Hooper,2021-2022
+9,24-10-2021,16:30,Manchester Utd,1.6,0—5,3.4,Liverpool,73088,Old Trafford,Anthony Taylor,2021-2022
+9,23-10-2021,12:30,Chelsea,3.1,7—0,0.1,Norwich City,40113,Stamford Bridge,Andy Madley,2021-2022
+9,23-10-2021,15:00,Leeds United,1.6,1—1,0.9,Wolves,36475,Elland Road,Robert Jones,2021-2022
+9,23-10-2021,15:00,Crystal Palace,1.9,1—1,0.3,Newcastle Utd,24609,Selhurst Park,Darren England,2021-2022
+9,23-10-2021,15:00,Everton,1.5,2—5,3.7,Watford,38834,Goodison Park,Graham Scott,2021-2022
+9,23-10-2021,15:00,Southampton,1.6,2—2,0.7,Burnley,29145,St. Mary's Stadium,Chris Kavanagh,2021-2022
+9,23-10-2021,17:30,Brighton,1.3,1—4,3.8,Manchester City,31215,The American Express Community Stadium,Kevin Friend,2021-2022
+9,22-10-2021,20:00,Arsenal,2.7,3—1,1.4,Aston Villa,59496,Emirates Stadium,Craig Pawson,2021-2022
+8,18-10-2021,20:00,Arsenal,1.7,2—2,0.7,Crystal Palace,59475,Emirates Stadium,Mike Dean,2021-2022
+8,17-10-2021,14:00,Everton,0.9,0—1,1.2,West Ham,39132,Goodison Park,Stuart Attwell,2021-2022
+8,17-10-2021,16:30,Newcastle Utd,0.4,2—3,1.7,Tottenham,52214,St. James' Park,Andre Marriner,2021-2022
+8,16-10-2021,12:30,Watford,0.5,0—5,3.3,Liverpool,21085,Vicarage Road Stadium,Jonathan Moss,2021-2022
+8,16-10-2021,15:00,Leicester City,2.4,4—2,1.2,Manchester Utd,32219,King Power Stadium,Craig Pawson,2021-2022
+8,16-10-2021,15:00,Manchester City,2.1,2—0,0.9,Burnley,52711,Etihad Stadium,Martin Atkinson,2021-2022
+8,16-10-2021,15:00,Southampton,1.9,1—0,0.2,Leeds United,30506,St. Mary's Stadium,David Coote,2021-2022
+8,16-10-2021,15:00,Aston Villa,1,2—3,2,Wolves,41951,Villa Park,Michael Oliver,2021-2022
+8,16-10-2021,15:00,Norwich City,1.2,0—0,0.8,Brighton,26777,Carrow Road,Peter Bankes,2021-2022
+8,16-10-2021,17:30,Brentford,1.4,0—1,0.3,Chelsea,16940,Brentford Community Stadium,Anthony Taylor,2021-2022
+7,03-10-2021,14:00,Tottenham,1.3,2—1,1.2,Aston Villa,53076,Tottenham Hotspur Stadium,Chris Kavanagh,2021-2022
+7,03-10-2021,14:00,Crystal Palace,1.5,2—2,1.2,Leicester City,25000,Selhurst Park,Anthony Taylor,2021-2022
+7,03-10-2021,14:00,West Ham,1.5,1—2,1.2,Brentford,49940,London Stadium,Peter Bankes,2021-2022
+7,03-10-2021,16:30,Liverpool,0.9,2—2,1.2,Manchester City,53102,Anfield,Paul Tierney,2021-2022
+7,02-10-2021,12:30,Manchester Utd,1,1—1,1.3,Everton,73128,Old Trafford,Michael Oliver,2021-2022
+7,02-10-2021,15:00,Wolves,1,2—1,0.6,Newcastle Utd,30483,Molineux Stadium,Graham Scott,2021-2022
+7,02-10-2021,15:00,Burnley,1.2,0—0,0.6,Norwich City,17427,Turf Moor,Kevin Friend,2021-2022
+7,02-10-2021,15:00,Chelsea,3.3,3—1,1.3,Southampton,40109,Stamford Bridge,Martin Atkinson,2021-2022
+7,02-10-2021,15:00,Leeds United,1.3,1—0,0.2,Watford,36261,Elland Road,Simon Hooper,2021-2022
+7,02-10-2021,17:30,Brighton,1.1,0—0,0.4,Arsenal,31266,The American Express Community Stadium,Jonathan Moss,2021-2022
+6,27-09-2021,20:00,Crystal Palace,1.4,1—1,0.8,Brighton,22975,Selhurst Park,Andre Marriner,2021-2022
+6,26-09-2021,14:00,Southampton,1,0—1,1,Wolves,28002,St. Mary's Stadium,Andy Madley,2021-2022
+6,26-09-2021,16:30,Arsenal,1.1,3—1,1,Tottenham,59919,Emirates Stadium,Craig Pawson,2021-2022
+6,25-09-2021,12:30,Manchester Utd,2.2,0—1,1,Aston Villa,72922,Old Trafford,Mike Dean,2021-2022
+6,25-09-2021,12:30,Chelsea,0.2,0—1,1.7,Manchester City,40036,Stamford Bridge,Michael Oliver,2021-2022
+6,25-09-2021,15:00,Leicester City,2.4,2—2,0.5,Burnley,31650,King Power Stadium,Chris Kavanagh,2021-2022
+6,25-09-2021,15:00,Leeds United,1.2,1—2,1.6,West Ham,36417,Elland Road,Kevin Friend,2021-2022
+6,25-09-2021,15:00,Watford,0.9,1—1,1.9,Newcastle Utd,20650,Vicarage Road Stadium,Jarred Gillett,2021-2022
+6,25-09-2021,15:00,Everton,1.9,2—0,0.5,Norwich City,38821,Goodison Park,David Coote,2021-2022
+6,25-09-2021,17:30,Brentford,2.1,3—3,2.8,Liverpool,16876,Brentford Community Stadium,Stuart Attwell,2021-2022
+5,19-09-2021,14:00,West Ham,1.6,1—2,2,Manchester Utd,60000,London Stadium,Martin Atkinson,2021-2022
+5,19-09-2021,14:00,Brighton,1.7,2—1,1.6,Leicester City,31078,The American Express Community Stadium,Stuart Attwell,2021-2022
+5,19-09-2021,16:30,Tottenham,0.5,0—3,2.1,Chelsea,60059,Tottenham Hotspur Stadium,Paul Tierney,2021-2022
+5,18-09-2021,12:30,Wolves,0.6,0—2,2.5,Brentford,30000,Molineux Stadium,Darren England,2021-2022
+5,18-09-2021,15:00,Manchester City,1,0—0,0.4,Southampton,52698,Etihad Stadium,Jonathan Moss,2021-2022
+5,18-09-2021,15:00,Liverpool,3.1,3—0,0.6,Crystal Palace,52000,Anfield,Andy Madley,2021-2022
+5,18-09-2021,15:00,Norwich City,1,1—3,2.4,Watford,26649,Carrow Road,Robert Jones,2021-2022
+5,18-09-2021,15:00,Burnley,1,0—1,1.1,Arsenal,20000,Turf Moor,Anthony Taylor,2021-2022
+5,18-09-2021,17:30,Aston Villa,0.8,3—0,0.7,Everton,41888,Villa Park,Craig Pawson,2021-2022
+5,17-09-2021,20:00,Newcastle Utd,1.3,1—1,1.5,Leeds United,50407,St. James' Park,Mike Dean,2021-2022
+4,13-09-2021,20:00,Everton,1.4,3—1,1,Burnley,30000,Goodison Park,Martin Atkinson,2021-2022
+4,12-09-2021,16:30,Leeds United,1.2,0—3,4.3,Liverpool,36507,Elland Road,Craig Pawson,2021-2022
+4,11-09-2021,12:30,Crystal Palace,2.1,3—0,0.1,Tottenham,26000,Selhurst Park,Jonathan Moss,2021-2022
+4,11-09-2021,15:00,Watford,0.2,0—2,2.2,Wolves,20019,Vicarage Road Stadium,Peter Bankes,2021-2022
+4,11-09-2021,15:00,Brentford,0.4,0—1,0.3,Brighton,16518,Brentford Community Stadium,Graham Scott,2021-2022
+4,11-09-2021,15:00,Arsenal,2.7,1—0,0.7,Norwich City,58000,Emirates Stadium,Michael Oliver,2021-2022
+4,11-09-2021,15:00,Manchester Utd,2.5,4—1,0.4,Newcastle Utd,72732,Old Trafford,Anthony Taylor,2021-2022
+4,11-09-2021,15:00,Leicester City,0.6,0—1,2.8,Manchester City,32087,King Power Stadium,Paul Tierney,2021-2022
+4,11-09-2021,15:00,Southampton,0.7,0—0,0.7,West Ham,30000,St. Mary's Stadium,David Coote,2021-2022
+4,11-09-2021,17:30,Chelsea,1.3,3—0,1.2,Aston Villa,39969,Stamford Bridge,Stuart Attwell,2021-2022
+3,29-08-2021,14:00,Burnley,1,1—1,1.2,Leeds United,20000,Turf Moor,Michael Oliver,2021-2022
+3,29-08-2021,14:00,Tottenham,1,1—0,0.8,Watford,57672,Tottenham Hotspur Stadium,Andre Marriner,2021-2022
+3,29-08-2021,16:30,Wolves,2.1,0—1,0.6,Manchester Utd,30621,Molineux Stadium,Mike Dean,2021-2022
+3,28-08-2021,12:30,Manchester City,4.4,5—0,0.2,Arsenal,52276,Etihad Stadium,Martin Atkinson,2021-2022
+3,28-08-2021,15:00,Norwich City,1.5,1—2,1.5,Leicester City,26765,Carrow Road,Robert Jones,2021-2022
+3,28-08-2021,15:00,West Ham,1.3,2—2,1.1,Crystal Palace,59751,London Stadium,Stuart Attwell,2021-2022
+3,28-08-2021,15:00,Aston Villa,0.7,1—1,0.9,Brentford,42045,Villa Park,Peter Bankes,2021-2022
+3,28-08-2021,15:00,Newcastle Utd,1,2—2,3.6,Southampton,44017,St. James' Park,Paul Tierney,2021-2022
+3,28-08-2021,15:00,Brighton,0.7,0—2,1.4,Everton,30548,The American Express Community Stadium,Jonathan Moss,2021-2022
+3,28-08-2021,17:30,Liverpool,2.5,1—1,0.6,Chelsea,54000,Anfield,Anthony Taylor,2021-2022
+2,23-08-2021,20:00,West Ham,2.3,4—1,0.6,Leicester City,59901,London Stadium,Michael Oliver,2021-2022
+2,22-08-2021,14:00,Wolves,1.7,0—1,1.7,Tottenham,30368,Molineux Stadium,Stuart Attwell,2021-2022
+2,22-08-2021,14:00,Southampton,0.7,1—1,1.8,Manchester Utd,32000,St. Mary's Stadium,Craig Pawson,2021-2022
+2,22-08-2021,16:30,Arsenal,0.3,0—2,3.1,Chelsea,58729,Emirates Stadium,Paul Tierney,2021-2022
+2,21-08-2021,12:30,Liverpool,2.7,2—0,0.9,Burnley,52591,Anfield,Mike Dean,2021-2022
+2,21-08-2021,15:00,Aston Villa,1.2,2—0,0.7,Newcastle Utd,41964,Villa Park,David Coote,2021-2022
+2,21-08-2021,15:00,Manchester City,2.6,5—0,0.1,Norwich City,51437,Etihad Stadium,Graham Scott,2021-2022
+2,21-08-2021,15:00,Leeds United,1.2,2—2,1.8,Everton,36293,Elland Road,Darren England,2021-2022
+2,21-08-2021,15:00,Crystal Palace,0.5,0—0,0.9,Brentford,23091,Selhurst Park,Martin Atkinson,2021-2022
+2,21-08-2021,17:30,Brighton,1.3,2—0,0.5,Watford,29485,The American Express Community Stadium,Anthony Taylor,2021-2022
+1,15-08-2021,14:00,Newcastle Utd,1.8,2—4,2.7,West Ham,50673,St. James' Park,Martin Atkinson,2021-2022
+1,15-08-2021,16:30,Tottenham,1,1—0,1.8,Manchester City,58262,Tottenham Hotspur Stadium,Anthony Taylor,2021-2022
+1,14-08-2021,12:30,Manchester Utd,1.5,5—1,0.5,Leeds United,72732,Old Trafford,Paul Tierney,2021-2022
+1,14-08-2021,15:00,Leicester City,0.5,1—0,1.3,Wolves,31983,King Power Stadium,Craig Pawson,2021-2022
+1,14-08-2021,15:00,Burnley,1.5,1—2,1,Brighton,16910,Turf Moor,David Coote,2021-2022
+1,14-08-2021,15:00,Chelsea,0.7,3—0,0.2,Crystal Palace,38965,Stamford Bridge,Jonathan Moss,2021-2022
+1,14-08-2021,15:00,Watford,1.2,3—2,1.2,Aston Villa,20051,Vicarage Road Stadium,Mike Dean,2021-2022
+1,14-08-2021,15:00,Everton,2.4,3—1,0.8,Southampton,38487,Goodison Park,Andy Madley,2021-2022
+1,14-08-2021,17:30,Norwich City,1.4,0—3,1.6,Liverpool,27023,Carrow Road,Andre Marriner,2021-2022
+1,13-08-2021,20:00,Brentford,1.2,2—0,1.3,Arsenal,16479,Brentford Community Stadium,Michael Oliver,2021-2022
+38,23-05-2021,16:00,Aston Villa,1.1,2—1,3.3,Chelsea,10000,Villa Park,Stuart Attwell,2020-2021
+38,23-05-2021,16:00,Leicester City,1.9,2—4,1.5,Tottenham,8000,King Power Stadium,Anthony Taylor,2020-2021
+38,23-05-2021,16:00,Manchester City,2.5,5—0,1.1,Everton,10000,Etihad Stadium,Michael Oliver,2020-2021
+38,23-05-2021,16:00,Sheffield Utd,0.5,1—0,1.1,Burnley,5000,Bramall Lane,Kevin Friend,2020-2021
+38,23-05-2021,16:00,Wolves,0.9,1—2,2,Manchester Utd,4500,Molineux Stadium,Mike Dean,2020-2021
+38,23-05-2021,16:00,West Ham,1.3,3—0,1.5,Southampton,10000,London Stadium,Martin Atkinson,2020-2021
+38,23-05-2021,16:00,Leeds United,2.3,3—1,1,West Brom,8000,Elland Road,David Coote,2020-2021
+38,23-05-2021,16:00,Arsenal,0.8,2—0,0.2,Brighton,10000,Emirates Stadium,Jonathan Moss,2020-2021
+38,23-05-2021,16:00,Liverpool,1.6,2—0,0.6,Crystal Palace,9901,Anfield,Craig Pawson,2020-2021
+38,23-05-2021,16:00,Fulham,1,0—2,1.3,Newcastle Utd,2000,Craven Cottage,Chris Kavanagh,2020-2021
+37,19-05-2021,18:00,Newcastle Utd,1.6,1—0,0.9,Sheffield Utd,10000,St. James' Park,Robert Jones,2020-2021
+37,19-05-2021,18:00,Tottenham,0.8,1—2,1.4,Aston Villa,10000,Tottenham Hotspur Stadium,Craig Pawson,2020-2021
+37,19-05-2021,18:00,Everton,0.7,1—0,0.3,Wolves,4988,Goodison Park,Andy Madley,2020-2021
+37,19-05-2021,19:00,Crystal Palace,1,1—3,1.8,Arsenal,6500,Selhurst Park,Anthony Taylor,2020-2021
+37,19-05-2021,20:15,Burnley,0.8,0—3,2.6,Liverpool,3387,Turf Moor,Chris Kavanagh,2020-2021
+37,19-05-2021,20:15,West Brom,1.1,1—3,3.4,West Ham,5371,The Hawthorns,Michael Oliver,2020-2021
+37,18-05-2021,18:00,Manchester Utd,0.9,1—1,0.9,Fulham,10000,Old Trafford,Lee Mason,2020-2021
+37,18-05-2021,18:00,Southampton,1.6,0—2,1.7,Leeds United,8000,St. Mary's Stadium,Peter Bankes,2020-2021
+37,18-05-2021,19:00,Brighton,1.1,3—2,0.9,Manchester City,7945,The American Express Community Stadium,Stuart Attwell,2020-2021
+37,18-05-2021,20:15,Chelsea,3.1,2—1,0.8,Leicester City,8000,Stamford Bridge,Mike Dean,2020-2021
+36,16-05-2021,12:00,Crystal Palace,1.9,3—2,1.4,Aston Villa,,Selhurst Park,David Coote,2020-2021
+36,16-05-2021,14:05,Tottenham,3.2,2—0,0.9,Wolves,,Tottenham Hotspur Stadium,Martin Atkinson,2020-2021
+36,16-05-2021,16:30,West Brom,1,1—2,1.9,Liverpool,,The Hawthorns,Mike Dean,2020-2021
+36,16-05-2021,19:00,Everton,1.4,0—1,1.2,Sheffield Utd,,Goodison Park,Jonathan Moss,2020-2021
+36,15-05-2021,12:30,Burnley,1.3,0—4,1.5,Leeds United,,Turf Moor,Graham Scott,2020-2021
+36,15-05-2021,15:00,Southampton,1.6,3—1,0.8,Fulham,,St. Mary's Stadium,Craig Pawson,2020-2021
+36,15-05-2021,20:00,Brighton,0.8,1—1,1.7,West Ham,,The American Express Community Stadium,Andre Marriner,2020-2021
+36,14-05-2021,20:00,Newcastle Utd,2.2,3—4,1.5,Manchester City,,St. James' Park,Kevin Friend,2020-2021
+19,13-05-2021,18:00,Aston Villa,0.6,0—0,1,Everton,,Villa Park,Martin Atkinson,2020-2021
+34,13-05-2021,20:15,Manchester Utd,1.9,2—4,2.7,Liverpool,,Old Trafford,Anthony Taylor,2020-2021
+36,12-05-2021,20:15,Chelsea,1.8,0—1,0.6,Arsenal,,Stamford Bridge,Andre Marriner,2020-2021
+36,11-05-2021,18:00,Manchester Utd,0.2,1—2,0.9,Leicester City,,Old Trafford,Craig Pawson,2020-2021
+32,11-05-2021,20:15,Southampton,1.2,3—1,1.5,Crystal Palace,,St. Mary's Stadium,Andy Madley,2020-2021
+35,10-05-2021,20:00,Fulham,1,0—2,1.5,Burnley,,Craven Cottage,David Coote,2020-2021
+35,09-05-2021,12:00,Wolves,1.1,2—1,0.3,Brighton,,Molineux Stadium,Jonathan Moss,2020-2021
+35,09-05-2021,14:05,Aston Villa,0.5,1—3,1.7,Manchester Utd,,Villa Park,Chris Kavanagh,2020-2021
+35,09-05-2021,16:30,West Ham,1.3,0—1,1.5,Everton,,London Stadium,Stuart Attwell,2020-2021
+35,09-05-2021,19:00,Arsenal,0.9,3—1,1.8,West Brom,,Emirates Stadium,Peter Bankes,2020-2021
+35,08-05-2021,12:30,Leeds United,2.5,3—1,0.9,Tottenham,,Elland Road,Michael Oliver,2020-2021
+35,08-05-2021,15:00,Sheffield Utd,0.7,0—2,2,Crystal Palace,,Bramall Lane,Simon Hooper,2020-2021
+35,08-05-2021,17:30,Manchester City,1.8,1—2,0.7,Chelsea,,Etihad Stadium,Anthony Taylor,2020-2021
+35,08-05-2021,20:15,Liverpool,1.7,2—0,1.1,Southampton,,Anfield,Kevin Friend,2020-2021
+35,07-05-2021,20:00,Leicester City,2.2,2—4,2.7,Newcastle Utd,,King Power Stadium,Darren England,2020-2021
+34,03-05-2021,18:00,West Brom,1.1,1—1,1,Wolves,,The Hawthorns,Paul Tierney,2020-2021
+34,03-05-2021,20:15,Burnley,2,1—2,2.3,West Ham,,Turf Moor,Anthony Taylor,2020-2021
+34,02-05-2021,14:00,Newcastle Utd,0.3,0—2,2,Arsenal,,St. James' Park,Mike Dean,2020-2021
+34,02-05-2021,19:15,Tottenham,2.2,4—0,0.5,Sheffield Utd,,Tottenham Hotspur Stadium,Andre Marriner,2020-2021
+34,01-05-2021,12:30,Crystal Palace,0.9,0—2,1.7,Manchester City,,Selhurst Park,David Coote,2020-2021
+34,01-05-2021,15:00,Brighton,2.3,2—0,0.6,Leeds United,,The American Express Community Stadium,Chris Kavanagh,2020-2021
+34,01-05-2021,17:30,Chelsea,1.7,2—0,0.3,Fulham,,Stamford Bridge,Kevin Friend,2020-2021
+34,01-05-2021,20:00,Everton,1,1—2,1.6,Aston Villa,,Goodison Park,Simon Hooper,2020-2021
+34,30-04-2021,20:00,Southampton,0.9,1—1,1.9,Leicester City,,St. Mary's Stadium,Robert Jones,2020-2021
+33,26-04-2021,20:00,Leicester City,1.5,2—1,0.7,Crystal Palace,,King Power Stadium,Graham Scott,2020-2021
+33,25-04-2021,12:00,Wolves,0.4,0—4,2,Burnley,,Molineux Stadium,Darren England,2020-2021
+33,25-04-2021,14:00,Leeds United,0.3,0—0,1.2,Manchester Utd,,Elland Road,Craig Pawson,2020-2021
+33,25-04-2021,19:00,Aston Villa,3.2,2—2,1.5,West Brom,,Villa Park,Stuart Attwell,2020-2021
+33,24-04-2021,12:30,Liverpool,2.4,1—1,1,Newcastle Utd,,Anfield,Andre Marriner,2020-2021
+33,24-04-2021,17:30,West Ham,0.4,0—1,2.5,Chelsea,,London Stadium,Chris Kavanagh,2020-2021
+33,24-04-2021,20:00,Sheffield Utd,0.7,1—0,2,Brighton,,Bramall Lane,Kevin Friend,2020-2021
+33,23-04-2021,20:00,Arsenal,0.8,0—1,0.5,Everton,,Emirates Stadium,Jonathan Moss,2020-2021
+32,22-04-2021,20:00,Leicester City,2.1,3—0,0.5,West Brom,,King Power Stadium,Andy Madley,2020-2021
+29,21-04-2021,18:00,Tottenham,1.4,2—1,0.8,Southampton,,Tottenham Hotspur Stadium,David Coote,2020-2021
+32,21-04-2021,20:15,Aston Villa,0.7,1—2,1.2,Manchester City,,Villa Park,Peter Bankes,2020-2021
+32,20-04-2021,20:15,Chelsea,0.7,0—0,0.5,Brighton,,Stamford Bridge,Stuart Attwell,2020-2021
+32,19-04-2021,20:00,Leeds United,2.3,1—1,1.4,Liverpool,,Elland Road,Anthony Taylor,2020-2021
+32,18-04-2021,13:30,Arsenal,2.7,1—1,0.9,Fulham,,Emirates Stadium,Craig Pawson,2020-2021
+32,18-04-2021,16:00,Manchester Utd,2.5,3—1,0.9,Burnley,,Old Trafford,Jonathan Moss,2020-2021
+32,17-04-2021,12:30,Newcastle Utd,2.2,3—2,1.9,West Ham,,St. James' Park,Kevin Friend,2020-2021
+32,17-04-2021,20:15,Wolves,1.1,1—0,0.5,Sheffield Utd,,Molineux Stadium,Robert Jones,2020-2021
+32,16-04-2021,20:00,Everton,1.8,2—2,1.4,Tottenham,,Goodison Park,Michael Oliver,2020-2021
+31,12-04-2021,18:00,West Brom,3,3—0,1.5,Southampton,,The Hawthorns,Simon Hooper,2020-2021
+31,12-04-2021,20:15,Brighton,1.2,0—0,0.4,Everton,,The American Express Community Stadium,Darren England,2020-2021
+31,11-04-2021,12:00,Burnley,2,1—2,1.2,Newcastle Utd,,Turf Moor,Anthony Taylor,2020-2021
+31,11-04-2021,14:05,West Ham,0.8,3—2,0.9,Leicester City,,London Stadium,Mike Dean,2020-2021
+31,11-04-2021,16:30,Tottenham,0.9,1—3,2.1,Manchester Utd,,Tottenham Hotspur Stadium,Chris Kavanagh,2020-2021
+31,11-04-2021,19:00,Sheffield Utd,0.3,0—3,1.7,Arsenal,,Bramall Lane,Peter Bankes,2020-2021
+31,10-04-2021,12:30,Manchester City,2.1,1—2,0.1,Leeds United,,Etihad Stadium,Andre Marriner,2020-2021
+31,10-04-2021,15:00,Liverpool,2.3,2—1,0.5,Aston Villa,,Anfield,Paul Tierney,2020-2021
+31,10-04-2021,17:30,Crystal Palace,0.4,1—4,3.1,Chelsea,,Selhurst Park,Michael Oliver,2020-2021
+31,09-04-2021,20:00,Fulham,0.9,0—1,0.5,Wolves,,Craven Cottage,Jonathan Moss,2020-2021
+30,05-04-2021,18:00,Everton,2.5,1—1,0.7,Crystal Palace,,Goodison Park,Kevin Friend,2020-2021
+30,05-04-2021,20:15,Wolves,2.1,2—3,1.3,West Ham,,Molineux Stadium,Michael Oliver,2020-2021
+30,04-04-2021,12:00,Southampton,2.2,3—2,1.5,Burnley,,St. Mary's Stadium,Andre Marriner,2020-2021
+30,04-04-2021,14:05,Newcastle Utd,3.4,2—2,2.7,Tottenham,,St. James' Park,Craig Pawson,2020-2021
+30,04-04-2021,16:30,Aston Villa,1.5,3—1,1,Fulham,,Villa Park,Andy Madley,2020-2021
+30,04-04-2021,19:30,Manchester Utd,1.5,2—1,1.2,Brighton,,Old Trafford,Mike Dean,2020-2021
+30,03-04-2021,12:30,Chelsea,2.1,2—5,1.6,West Brom,,Stamford Bridge,David Coote,2020-2021
+30,03-04-2021,15:00,Leeds United,2.4,2—1,1.1,Sheffield Utd,,Elland Road,Graham Scott,2020-2021
+30,03-04-2021,17:30,Leicester City,0.3,0—2,1.4,Manchester City,,King Power Stadium,Anthony Taylor,2020-2021
+30,03-04-2021,20:00,Arsenal,0.1,0—3,2.4,Liverpool,,Emirates Stadium,Stuart Attwell,2020-2021
+29,21-03-2021,15:00,West Ham,2.4,3—3,1.4,Arsenal,,London Stadium,Jonathan Moss,2020-2021
+18,21-03-2021,19:30,Aston Villa,0.4,0—2,1.8,Tottenham,,Villa Park,Mike Dean,2020-2021
+29,20-03-2021,20:00,Brighton,0.9,3—0,0.1,Newcastle Utd,,The American Express Community Stadium,Anthony Taylor,2020-2021
+29,19-03-2021,20:00,Fulham,1.6,1—2,1.3,Leeds United,,Craven Cottage,David Coote,2020-2021
+28,15-03-2021,20:00,Wolves,1.1,0—1,0.9,Liverpool,,Molineux Stadium,Craig Pawson,2020-2021
+28,14-03-2021,12:00,Southampton,0.6,1—2,0.8,Brighton,,St. Mary's Stadium,Stuart Attwell,2020-2021
+28,14-03-2021,14:00,Leicester City,4,5—0,0.1,Sheffield Utd,,King Power Stadium,Peter Bankes,2020-2021
+28,14-03-2021,16:30,Arsenal,1.7,2—1,0.4,Tottenham,,Emirates Stadium,Michael Oliver,2020-2021
+28,14-03-2021,19:15,Manchester Utd,1.5,1—0,0.6,West Ham,,Old Trafford,Martin Atkinson,2020-2021
+28,13-03-2021,12:30,Leeds United,0.4,0—0,1,Chelsea,,Elland Road,Kevin Friend,2020-2021
+28,13-03-2021,15:00,Crystal Palace,1.2,1—0,0.8,West Brom,,Selhurst Park,Simon Hooper,2020-2021
+28,13-03-2021,17:30,Everton,1.5,1—2,0.8,Burnley,,Goodison Park,Jonathan Moss,2020-2021
+28,13-03-2021,20:00,Fulham,0.3,0—3,2.2,Manchester City,,Craven Cottage,Andre Marriner,2020-2021
+28,12-03-2021,20:00,Newcastle Utd,1.5,1—1,0.9,Aston Villa,,St. James' Park,Paul Tierney,2020-2021
+33,10-03-2021,18:00,Manchester City,2.6,5—2,1.6,Southampton,,Etihad Stadium,Jonathan Moss,2020-2021
+27,08-03-2021,18:00,Chelsea,2.4,2—0,0.3,Everton,,Stamford Bridge,David Coote,2020-2021
+27,08-03-2021,20:00,West Ham,1.8,2—0,1.4,Leeds United,,London Stadium,Mike Dean,2020-2021
+27,07-03-2021,12:00,West Brom,2,0—0,0.5,Newcastle Utd,,The Hawthorns,Martin Atkinson,2020-2021
+27,07-03-2021,14:00,Liverpool,0.9,0—1,1.3,Fulham,,Anfield,Kevin Friend,2020-2021
+27,07-03-2021,16:30,Manchester City,1.3,0—2,1.7,Manchester Utd,,Etihad Stadium,Anthony Taylor,2020-2021
+27,07-03-2021,19:15,Tottenham,2.7,4—1,0.5,Crystal Palace,,Tottenham Hotspur Stadium,Stuart Attwell,2020-2021
+27,06-03-2021,12:30,Burnley,1.1,1—1,2.5,Arsenal,,Turf Moor,Andre Marriner,2020-2021
+27,06-03-2021,15:00,Sheffield Utd,0.7,0—2,1.9,Southampton,,Bramall Lane,Paul Tierney,2020-2021
+27,06-03-2021,17:30,Aston Villa,0.6,0—0,1.6,Wolves,,Villa Park,Andy Madley,2020-2021
+27,06-03-2021,20:00,Brighton,0.8,1—2,0.9,Leicester City,,The American Express Community Stadium,Michael Oliver,2020-2021
+29,04-03-2021,18:00,West Brom,1,0—1,1,Everton,,The Hawthorns,Darren England,2020-2021
+33,04-03-2021,18:00,Fulham,0.7,0—1,1.6,Tottenham,,Craven Cottage,David Coote,2020-2021
+29,04-03-2021,20:15,Liverpool,0.3,0—1,1,Chelsea,,Anfield,Martin Atkinson,2020-2021
+29,03-03-2021,18:00,Sheffield Utd,0.9,1—0,2.3,Aston Villa,,Bramall Lane,Robert Jones,2020-2021
+29,03-03-2021,18:00,Burnley,1.8,1—1,1.2,Leicester City,,Turf Moor,Andy Madley,2020-2021
+29,03-03-2021,20:15,Crystal Palace,0.9,0—0,0.9,Manchester Utd,,Selhurst Park,Andre Marriner,2020-2021
+29,02-03-2021,20:00,Manchester City,3.3,4—1,0.3,Wolves,,Etihad Stadium,Chris Kavanagh,2020-2021
+26,01-03-2021,20:00,Everton,1.2,1—0,0.6,Southampton,,Goodison Park,Martin Atkinson,2020-2021
+26,28-02-2021,12:00,Crystal Palace,0.1,0—0,1.4,Fulham,,Selhurst Park,Anthony Taylor,2020-2021
+26,28-02-2021,12:00,Leicester City,0.4,1—3,2.3,Arsenal,,King Power Stadium,Paul Tierney,2020-2021
+26,28-02-2021,14:00,Tottenham,2.1,4—0,0.7,Burnley,,Tottenham Hotspur Stadium,Kevin Friend,2020-2021
+26,28-02-2021,16:30,Chelsea,1.1,0—0,0.4,Manchester Utd,,Stamford Bridge,Stuart Attwell,2020-2021
+26,28-02-2021,19:15,Sheffield Utd,0.7,0—2,2.7,Liverpool,,Bramall Lane,Jonathan Moss,2020-2021
+26,27-02-2021,12:30,Manchester City,0.5,2—1,1.5,West Ham,,Etihad Stadium,Michael Oliver,2020-2021
+26,27-02-2021,15:00,West Brom,0.8,1—0,2.9,Brighton,,The Hawthorns,Lee Mason,2020-2021
+26,27-02-2021,17:30,Leeds United,0.9,0—1,0.7,Aston Villa,,Elland Road,Peter Bankes,2020-2021
+26,27-02-2021,20:00,Newcastle Utd,1.7,1—1,1.1,Wolves,,St. James' Park,Mike Dean,2020-2021
+18,23-02-2021,18:00,Leeds United,1.3,3—0,0.9,Southampton,,Elland Road,Andre Marriner,2020-2021
+25,22-02-2021,20:00,Brighton,2.4,1—2,0.2,Crystal Palace,,The American Express Community Stadium,Kevin Friend,2020-2021
+25,21-02-2021,12:00,West Ham,1.1,2—1,1.1,Tottenham,,London Stadium,Craig Pawson,2020-2021
+25,21-02-2021,14:05,Aston Villa,1.4,1—2,1.1,Leicester City,,Villa Park,Michael Oliver,2020-2021
+25,21-02-2021,16:30,Arsenal,0.3,0—1,1.8,Manchester City,,Emirates Stadium,Jonathan Moss,2020-2021
+25,21-02-2021,19:00,Manchester Utd,1.7,3—1,0.4,Newcastle Utd,,Old Trafford,Paul Tierney,2020-2021
+25,20-02-2021,12:30,Southampton,0.6,1—1,1.2,Chelsea,,St. Mary's Stadium,Anthony Taylor,2020-2021
+25,20-02-2021,15:00,Burnley,0.5,0—0,1.6,West Brom,,Turf Moor,Mike Dean,2020-2021
+25,20-02-2021,17:30,Liverpool,1.4,0—2,1.6,Everton,,Anfield,Chris Kavanagh,2020-2021
+25,20-02-2021,20:00,Fulham,1.2,1—0,0.9,Sheffield Utd,,Craven Cottage,Martin Atkinson,2020-2021
+25,19-02-2021,20:00,Wolves,0.6,1—0,1.7,Leeds United,,Molineux Stadium,David Coote,2020-2021
+17,17-02-2021,18:00,Burnley,0.9,1—1,0.5,Fulham,,Turf Moor,Jonathan Moss,2020-2021
+16,17-02-2021,20:15,Everton,1,1—3,1,Manchester City,,Goodison Park,Andre Marriner,2020-2021
+24,15-02-2021,18:00,West Ham,1.9,3—0,0.7,Sheffield Utd,,London Stadium,Simon Hooper,2020-2021
+24,15-02-2021,20:00,Chelsea,2.2,2—0,0.6,Newcastle Utd,,Stamford Bridge,Peter Bankes,2020-2021
+24,14-02-2021,12:00,Southampton,0.8,1—2,1.1,Wolves,,St. Mary's Stadium,Graham Scott,2020-2021
+24,14-02-2021,14:00,West Brom,1,1—1,0.5,Manchester Utd,,The Hawthorns,Craig Pawson,2020-2021
+24,14-02-2021,16:30,Arsenal,2.3,4—2,0.9,Leeds United,,Emirates Stadium,Stuart Attwell,2020-2021
+24,14-02-2021,19:00,Everton,0.3,0—2,2.5,Fulham,,Goodison Park,Andy Madley,2020-2021
+24,13-02-2021,12:30,Leicester City,1.9,3—1,1.7,Liverpool,,King Power Stadium,Anthony Taylor,2020-2021
+24,13-02-2021,15:00,Crystal Palace,0.5,0—3,1.4,Burnley,,Selhurst Park,Michael Oliver,2020-2021
+24,13-02-2021,17:30,Manchester City,2.2,3—0,0.3,Tottenham,,Etihad Stadium,Paul Tierney,2020-2021
+24,13-02-2021,20:00,Brighton,2.2,0—0,0.1,Aston Villa,,The American Express Community Stadium,Darren England,2020-2021
+23,08-02-2021,20:00,Leeds United,1.9,2—0,0.4,Crystal Palace,,Elland Road,Andre Marriner,2020-2021
+23,07-02-2021,12:00,Tottenham,1.5,2—0,0.6,West Brom,,Tottenham Hotspur Stadium,Stuart Attwell,2020-2021
+23,07-02-2021,14:00,Wolves,1.1,0—0,0.8,Leicester City,,Molineux Stadium,Martin Atkinson,2020-2021
+23,07-02-2021,16:30,Liverpool,1.2,1—4,3.5,Manchester City,,Anfield,Michael Oliver,2020-2021
+23,07-02-2021,19:15,Sheffield Utd,0.6,1—2,1.6,Chelsea,,Bramall Lane,Kevin Friend,2020-2021
+23,06-02-2021,12:30,Aston Villa,1.2,1—0,0.8,Arsenal,,Villa Park,Chris Kavanagh,2020-2021
+23,06-02-2021,15:00,Burnley,1.8,1—1,0.5,Brighton,,Turf Moor,Anthony Taylor,2020-2021
+23,06-02-2021,15:00,Newcastle Utd,0.7,3—2,1.3,Southampton,,St. James' Park,Craig Pawson,2020-2021
+23,06-02-2021,17:30,Fulham,1.5,0—0,1,West Ham,,Craven Cottage,Mike Dean,2020-2021
+23,06-02-2021,20:00,Manchester Utd,1.8,3—3,1.5,Everton,,Old Trafford,Jonathan Moss,2020-2021
+22,04-02-2021,20:00,Tottenham,0.6,0—1,1.6,Chelsea,,Tottenham Hotspur Stadium,Andre Marriner,2020-2021
+22,03-02-2021,18:00,Burnley,0.1,0—2,2,Manchester City,,Turf Moor,Martin Atkinson,2020-2021
+22,03-02-2021,18:00,Fulham,0.6,0—2,1.4,Leicester City,,Craven Cottage,Robert Jones,2020-2021
+22,03-02-2021,19:30,Leeds United,1.3,1—2,1.6,Everton,,Elland Road,Michael Oliver,2020-2021
+22,03-02-2021,20:15,Liverpool,1,0—1,1.3,Brighton,,Anfield,Kevin Friend,2020-2021
+22,03-02-2021,20:15,Aston Villa,0.7,1—3,1.7,West Ham,,Villa Park,Andy Madley,2020-2021
+22,02-02-2021,18:00,Sheffield Utd,1.3,2—1,1.6,West Brom,,Bramall Lane,Paul Tierney,2020-2021
+22,02-02-2021,18:00,Wolves,1.5,2—1,0.8,Arsenal,,Molineux Stadium,Craig Pawson,2020-2021
+22,02-02-2021,20:15,Manchester Utd,4.7,9—0,0.5,Southampton,,Old Trafford,Mike Dean,2020-2021
+22,02-02-2021,20:15,Newcastle Utd,1.9,1—2,0.7,Crystal Palace,,St. James' Park,Darren England,2020-2021
+21,31-01-2021,12:00,Chelsea,1.2,2—0,0.2,Burnley,,Stamford Bridge,Graham Scott,2020-2021
+21,31-01-2021,14:00,Leicester City,1.8,1—3,2.1,Leeds United,,King Power Stadium,Chris Kavanagh,2020-2021
+21,31-01-2021,16:30,West Ham,0.8,1—3,2,Liverpool,,London Stadium,Jonathan Moss,2020-2021
+21,31-01-2021,19:15,Brighton,1.6,1—0,0.4,Tottenham,,The American Express Community Stadium,Peter Bankes,2020-2021
+21,30-01-2021,12:30,Everton,0.8,0—2,1.7,Newcastle Utd,,Goodison Park,Stuart Attwell,2020-2021
+21,30-01-2021,15:00,Crystal Palace,1.4,1—0,0.4,Wolves,,Selhurst Park,Simon Hooper,2020-2021
+21,30-01-2021,15:00,Manchester City,1.5,1—0,0.2,Sheffield Utd,,Etihad Stadium,David Coote,2020-2021
+21,30-01-2021,15:00,West Brom,1,2—2,1.3,Fulham,,The Hawthorns,Anthony Taylor,2020-2021
+21,30-01-2021,17:30,Arsenal,0.9,0—0,1.6,Manchester Utd,,Emirates Stadium,Michael Oliver,2020-2021
+21,30-01-2021,20:00,Southampton,1.9,0—1,0.6,Aston Villa,,St. Mary's Stadium,Lee Mason,2020-2021
+20,28-01-2021,20:00,Tottenham,0.1,1—3,2.5,Liverpool,,Tottenham Hotspur Stadium,Martin Atkinson,2020-2021
+20,27-01-2021,18:00,Chelsea,0.7,0—0,0.5,Wolves,,Stamford Bridge,Andy Madley,2020-2021
+20,27-01-2021,18:00,Burnley,0.5,3—2,2.2,Aston Villa,,Turf Moor,Paul Tierney,2020-2021
+20,27-01-2021,19:30,Brighton,1.8,0—0,0.5,Fulham,,The American Express Community Stadium,Craig Pawson,2020-2021
+20,27-01-2021,20:15,Everton,0.5,1—1,1.2,Leicester City,,Goodison Park,Mike Dean,2020-2021
+20,27-01-2021,20:15,Manchester Utd,1.1,1—2,1,Sheffield Utd,,Old Trafford,Peter Bankes,2020-2021
+20,26-01-2021,18:00,Newcastle Utd,1.4,1—2,0.7,Leeds United,,St. James' Park,Anthony Taylor,2020-2021
+20,26-01-2021,18:00,Crystal Palace,0.7,2—3,2.8,West Ham,,Selhurst Park,Stuart Attwell,2020-2021
+20,26-01-2021,20:15,West Brom,0.5,0—5,1.8,Manchester City,,The Hawthorns,Chris Kavanagh,2020-2021
+20,26-01-2021,20:15,Southampton,0.8,1—3,2.2,Arsenal,,St. Mary's Stadium,Kevin Friend,2020-2021
+11,23-01-2021,20:00,Aston Villa,2.3,2—0,0.5,Newcastle Utd,,Villa Park,Simon Hooper,2020-2021
+18,21-01-2021,20:00,Liverpool,1.6,0—1,1.1,Burnley,,Anfield,Mike Dean,2020-2021
+1,20-01-2021,18:00,Manchester City,3.4,2—0,0.6,Aston Villa,,Etihad Stadium,Jonathan Moss,2020-2021
+18,20-01-2021,20:15,Fulham,0.9,1—2,1.7,Manchester Utd,,Craven Cottage,Martin Atkinson,2020-2021
+18,19-01-2021,18:00,West Ham,2,2—1,0.5,West Brom,,London Stadium,Graham Scott,2020-2021
+18,19-01-2021,20:15,Leicester City,1.4,2—0,0.7,Chelsea,,King Power Stadium,Craig Pawson,2020-2021
+19,18-01-2021,20:00,Arsenal,2.4,3—0,0.2,Newcastle Utd,,Emirates Stadium,David Coote,2020-2021
+19,17-01-2021,14:00,Sheffield Utd,0.9,1—3,1,Tottenham,,Bramall Lane,Andre Marriner,2020-2021
+19,17-01-2021,16:30,Liverpool,1.2,0—0,1.1,Manchester Utd,,Anfield,Paul Tierney,2020-2021
+19,17-01-2021,19:15,Manchester City,0.7,4—0,0.1,Crystal Palace,,Etihad Stadium,Lee Mason,2020-2021
+19,16-01-2021,12:30,Wolves,1.5,2—3,2.4,West Brom,,Molineux Stadium,Michael Oliver,2020-2021
+19,16-01-2021,15:00,West Ham,1.7,1—0,0.5,Burnley,,London Stadium,Chris Kavanagh,2020-2021
+19,16-01-2021,15:00,Leeds United,0.3,0—1,1.4,Brighton,,Elland Road,Kevin Friend,2020-2021
+19,16-01-2021,17:30,Fulham,0.7,0—1,1.6,Chelsea,,Craven Cottage,Peter Bankes,2020-2021
+19,16-01-2021,20:00,Leicester City,2.2,2—0,0.6,Southampton,,King Power Stadium,Stuart Attwell,2020-2021
+18,14-01-2021,20:00,Arsenal,0.4,0—0,0.8,Crystal Palace,,Emirates Stadium,Andre Marriner,2020-2021
+18,13-01-2021,18:00,Manchester City,2,1—0,0.2,Brighton,,Etihad Stadium,Darren England,2020-2021
+16,13-01-2021,20:15,Tottenham,2.4,1—1,1.1,Fulham,,Tottenham Hotspur Stadium,Paul Tierney,2020-2021
+18,12-01-2021,18:00,Sheffield Utd,2.1,1—0,0.6,Newcastle Utd,,Bramall Lane,Andy Madley,2020-2021
+1,12-01-2021,20:15,Burnley,0.9,0—1,1.2,Manchester Utd,,Turf Moor,Kevin Friend,2020-2021
+18,12-01-2021,20:15,Wolves,0.7,1—2,0.6,Everton,,Molineux Stadium,Martin Atkinson,2020-2021
+17,04-01-2021,20:00,Southampton,0.4,1—0,1.5,Liverpool,,St. Mary's Stadium,Andre Marriner,2020-2021
+17,03-01-2021,14:15,Newcastle Utd,0.5,1—2,0.6,Leicester City,,St. James' Park,Robert Jones,2020-2021
+17,03-01-2021,16:30,Chelsea,0.8,1—3,2.7,Manchester City,,Stamford Bridge,Anthony Taylor,2020-2021
+17,02-01-2021,12:30,Tottenham,2.6,3—0,1.1,Leeds United,,Tottenham Hotspur Stadium,David Coote,2020-2021
+17,02-01-2021,15:00,Crystal Palace,0.6,2—0,0.4,Sheffield Utd,,Selhurst Park,Stuart Attwell,2020-2021
+17,02-01-2021,17:30,Brighton,2.2,3—3,1.6,Wolves,,The American Express Community Stadium,Andy Madley,2020-2021
+17,02-01-2021,20:00,West Brom,1,0—4,3.7,Arsenal,,The Hawthorns,Martin Atkinson,2020-2021
+17,01-01-2021,17:30,Everton,0.4,0—1,1.3,West Ham,,Goodison Park,Kevin Friend,2020-2021
+17,01-01-2021,20:00,Manchester Utd,2.1,2—1,1.4,Aston Villa,,Old Trafford,Michael Oliver,2020-2021
+16,30-12-2020,20:00,Newcastle Utd,0.5,0—0,1.4,Liverpool,,St. James' Park,Paul Tierney,2020-2021
+16,29-12-2020,18:00,West Brom,0.5,0—5,1.2,Leeds United,,The Hawthorns,Lee Mason,2020-2021
+16,29-12-2020,18:00,Southampton,0.6,0—0,1.2,West Ham,,St. Mary's Stadium,Andy Madley,2020-2021
+16,29-12-2020,18:00,Burnley,1,1—0,0.7,Sheffield Utd,,Turf Moor,Chris Kavanagh,2020-2021
+16,29-12-2020,18:00,Brighton,0.8,0—1,1.1,Arsenal,,The American Express Community Stadium,Martin Atkinson,2020-2021
+16,29-12-2020,20:00,Manchester Utd,1.5,1—0,0.5,Wolves,,Old Trafford,Jonathan Moss,2020-2021
+16,28-12-2020,15:00,Crystal Palace,0.5,1—1,1.9,Leicester City,,Selhurst Park,Graham Scott,2020-2021
+16,28-12-2020,17:30,Chelsea,1.7,1—1,0.7,Aston Villa,,Stamford Bridge,Stuart Attwell,2020-2021
+15,27-12-2020,12:00,Leeds United,1.9,1—0,1.5,Burnley,,Elland Road,Robert Jones,2020-2021
+15,27-12-2020,14:15,West Ham,1.3,2—2,1.1,Brighton,,London Stadium,Simon Hooper,2020-2021
+15,27-12-2020,16:30,Liverpool,1.5,1—1,0.6,West Brom,2000,Anfield,Kevin Friend,2020-2021
+15,27-12-2020,19:15,Wolves,0.9,1—1,0.4,Tottenham,,Molineux Stadium,Paul Tierney,2020-2021
+15,26-12-2020,12:30,Leicester City,0.9,2—2,1.7,Manchester Utd,,King Power Stadium,Mike Dean,2020-2021
+15,26-12-2020,15:00,Aston Villa,3.9,3—0,0.9,Crystal Palace,,Villa Park,Anthony Taylor,2020-2021
+15,26-12-2020,15:00,Fulham,0.7,0—0,0.2,Southampton,,Craven Cottage,Darren England,2020-2021
+15,26-12-2020,17:30,Arsenal,2,3—1,2.6,Chelsea,,Emirates Stadium,Michael Oliver,2020-2021
+15,26-12-2020,20:00,Sheffield Utd,1.4,0—1,0.7,Everton,,Bramall Lane,David Coote,2020-2021
+15,26-12-2020,20:00,Manchester City,3,2—0,0.3,Newcastle Utd,,Etihad Stadium,Andre Marriner,2020-2021
+14,21-12-2020,17:30,Burnley,1.7,2—1,1.5,Wolves,,Turf Moor,Lee Mason,2020-2021
+14,21-12-2020,20:00,Chelsea,2,3—0,0.4,West Ham,,Stamford Bridge,Chris Kavanagh,2020-2021
+14,20-12-2020,12:00,Brighton,2.8,1—1,0.5,Sheffield Utd,,The American Express Community Stadium,Peter Bankes,2020-2021
+14,20-12-2020,14:15,Tottenham,0.7,0—2,1.7,Leicester City,,Tottenham Hotspur Stadium,Craig Pawson,2020-2021
+14,20-12-2020,16:30,Manchester Utd,3.6,6—2,1.8,Leeds United,,Old Trafford,Anthony Taylor,2020-2021
+14,20-12-2020,19:15,West Brom,0,0—3,2.4,Aston Villa,,The Hawthorns,Martin Atkinson,2020-2021
+14,19-12-2020,12:30,Crystal Palace,0.3,0—7,2.5,Liverpool,,Selhurst Park,Jonathan Moss,2020-2021
+14,19-12-2020,15:00,Southampton,0.7,0—1,0.9,Manchester City,,St. Mary's Stadium,Mike Dean,2020-2021
+14,19-12-2020,17:30,Everton,0.6,2—1,1.4,Arsenal,,Goodison Park,Andre Marriner,2020-2021
+14,19-12-2020,20:00,Newcastle Utd,1.4,1—1,1,Fulham,,St. James' Park,Graham Scott,2020-2021
+13,17-12-2020,18:00,Aston Villa,1.5,0—0,0.3,Burnley,,Villa Park,Craig Pawson,2020-2021
+13,17-12-2020,20:00,Sheffield Utd,1.5,2—3,1.9,Manchester Utd,,Bramall Lane,Michael Oliver,2020-2021
+13,16-12-2020,18:00,Arsenal,0.6,1—1,1.2,Southampton,,Emirates Stadium,Paul Tierney,2020-2021
+13,16-12-2020,18:00,Leicester City,0.8,0—2,1.4,Everton,,King Power Stadium,Lee Mason,2020-2021
+13,16-12-2020,18:00,Leeds United,2.7,5—2,1.5,Newcastle Utd,,Elland Road,Simon Hooper,2020-2021
+13,16-12-2020,20:00,Liverpool,1,2—1,1.1,Tottenham,2000,Anfield,Anthony Taylor,2020-2021
+13,16-12-2020,20:00,West Ham,0.4,1—1,1.1,Crystal Palace,,London Stadium,David Coote,2020-2021
+13,16-12-2020,20:00,Fulham,1,0—0,0.5,Brighton,,Craven Cottage,Robert Jones,2020-2021
+13,15-12-2020,18:00,Wolves,0.5,2—1,1,Chelsea,,Molineux Stadium,Stuart Attwell,2020-2021
+13,15-12-2020,20:00,Manchester City,2.2,1—1,0.4,West Brom,,Etihad Stadium,Peter Bankes,2020-2021
+12,13-12-2020,12:00,Southampton,2,3—0,0.3,Sheffield Utd,2000,St. Mary's Stadium,Andy Madley,2020-2021
+12,13-12-2020,14:15,Crystal Palace,1.6,1—1,0.9,Tottenham,2000,Selhurst Park,Kevin Friend,2020-2021
+12,13-12-2020,16:30,Fulham,1.5,1—1,1.8,Liverpool,2000,Craven Cottage,Andre Marriner,2020-2021
+12,13-12-2020,19:15,Leicester City,1.5,3—0,0.9,Brighton,,King Power Stadium,Martin Atkinson,2020-2021
+12,13-12-2020,19:15,Arsenal,1.6,0—1,1.4,Burnley,2000,Emirates Stadium,Graham Scott,2020-2021
+12,12-12-2020,12:30,Wolves,1.1,0—1,1.4,Aston Villa,,Molineux Stadium,Mike Dean,2020-2021
+12,12-12-2020,15:00,Newcastle Utd,0.8,2—1,0.6,West Brom,,St. James' Park,Darren England,2020-2021
+12,12-12-2020,17:30,Manchester Utd,0.6,0—0,1.3,Manchester City,,Old Trafford,Chris Kavanagh,2020-2021
+12,12-12-2020,20:00,Everton,1.2,1—0,0.7,Chelsea,2000,Goodison Park,Jonathan Moss,2020-2021
+12,11-12-2020,20:00,Leeds United,1.6,1—2,1.3,West Ham,,Elland Road,Michael Oliver,2020-2021
+11,07-12-2020,20:00,Brighton,1.9,1—2,1.4,Southampton,2000,The American Express Community Stadium,David Coote,2020-2021
+11,06-12-2020,12:00,West Brom,0.7,1—5,1.6,Crystal Palace,,The Hawthorns,Paul Tierney,2020-2021
+11,06-12-2020,14:15,Sheffield Utd,0.2,1—2,1.4,Leicester City,,Bramall Lane,Stuart Attwell,2020-2021
+11,06-12-2020,16:30,Tottenham,0.3,2—0,0.6,Arsenal,2000,Tottenham Hotspur Stadium,Martin Atkinson,2020-2021
+11,06-12-2020,19:15,Liverpool,1.2,4—0,0.4,Wolves,2000,Anfield,Craig Pawson,2020-2021
+11,05-12-2020,12:30,Burnley,0.8,1—1,2.2,Everton,,Turf Moor,Anthony Taylor,2020-2021
+11,05-12-2020,15:00,Manchester City,2.9,2—0,0.3,Fulham,,Etihad Stadium,Jonathan Moss,2020-2021
+11,05-12-2020,17:30,West Ham,2,1—3,1.7,Manchester Utd,2000,London Stadium,Andre Marriner,2020-2021
+11,05-12-2020,20:00,Chelsea,4.1,3—1,0.8,Leeds United,2000,Stamford Bridge,Kevin Friend,2020-2021
+10,30-11-2020,17:30,Leicester City,1.2,1—2,2.2,Fulham,,King Power Stadium,Simon Hooper,2020-2021
+10,30-11-2020,20:00,West Ham,0.4,2—1,2.5,Aston Villa,,London Stadium,Peter Bankes,2020-2021
+10,29-11-2020,14:00,Southampton,0.5,2—3,2.1,Manchester Utd,,St. Mary's Stadium,Jonathan Moss,2020-2021
+10,29-11-2020,16:30,Chelsea,0.8,0—0,0.2,Tottenham,,Stamford Bridge,Paul Tierney,2020-2021
+10,29-11-2020,19:15,Arsenal,1.5,1—2,1.8,Wolves,,Emirates Stadium,Michael Oliver,2020-2021
+10,28-11-2020,12:30,Brighton,2.3,1—1,0.2,Liverpool,,The American Express Community Stadium,Stuart Attwell,2020-2021
+10,28-11-2020,15:00,Manchester City,1.7,5—0,0.5,Burnley,,Etihad Stadium,Lee Mason,2020-2021
+10,28-11-2020,17:30,Everton,1.2,0—1,2.9,Leeds United,,Goodison Park,Chris Kavanagh,2020-2021
+10,28-11-2020,20:00,West Brom,1.2,1—0,2.9,Sheffield Utd,,The Hawthorns,Mike Dean,2020-2021
+10,27-11-2020,20:00,Crystal Palace,0.6,0—2,1.3,Newcastle Utd,,Selhurst Park,Graham Scott,2020-2021
+9,23-11-2020,17:30,Burnley,1.5,1—0,1.5,Crystal Palace,,Turf Moor,Kevin Friend,2020-2021
+9,23-11-2020,20:00,Wolves,1.5,1—1,1,Southampton,,Molineux Stadium,Andre Marriner,2020-2021
+9,22-11-2020,12:00,Fulham,1.9,2—3,2,Everton,,Craven Cottage,Andy Madley,2020-2021
+9,22-11-2020,14:00,Sheffield Utd,0.9,0—1,2.1,West Ham,,Bramall Lane,Martin Atkinson,2020-2021
+9,22-11-2020,16:30,Leeds United,1.8,0—0,0.9,Arsenal,,Elland Road,Anthony Taylor,2020-2021
+9,22-11-2020,19:15,Liverpool,3.1,3—0,1.6,Leicester City,,Anfield,Chris Kavanagh,2020-2021
+9,21-11-2020,12:30,Newcastle Utd,0.3,0—2,1.5,Chelsea,,St. James' Park,Craig Pawson,2020-2021
+9,21-11-2020,15:00,Aston Villa,1.5,1—2,1.4,Brighton,,Villa Park,Michael Oliver,2020-2021
+9,21-11-2020,17:30,Tottenham,0.7,2—0,1.4,Manchester City,,Tottenham Hotspur Stadium,Mike Dean,2020-2021
+9,21-11-2020,20:00,Manchester Utd,2.4,1—0,0.6,West Brom,,Old Trafford,David Coote,2020-2021
+8,08-11-2020,12:00,West Brom,0.8,0—1,1.9,Tottenham,,The Hawthorns,Andy Madley,2020-2021
+8,08-11-2020,14:00,Leicester City,2,1—0,0.8,Wolves,,King Power Stadium,Anthony Taylor,2020-2021
+8,08-11-2020,16:30,Manchester City,1.4,1—1,1.2,Liverpool,,Etihad Stadium,Craig Pawson,2020-2021
+8,08-11-2020,19:15,Arsenal,1.5,0—3,1.8,Aston Villa,,Emirates Stadium,Martin Atkinson,2020-2021
+8,07-11-2020,12:30,Everton,0.4,1—3,1.5,Manchester Utd,,Goodison Park,Paul Tierney,2020-2021
+8,07-11-2020,15:00,Crystal Palace,0.9,4—1,0.8,Leeds United,,Selhurst Park,Chris Kavanagh,2020-2021
+8,07-11-2020,17:30,Chelsea,2.2,4—1,0.4,Sheffield Utd,,Stamford Bridge,Jonathan Moss,2020-2021
+8,07-11-2020,20:00,West Ham,1.3,1—0,1.7,Fulham,,London Stadium,Robert Jones,2020-2021
+8,06-11-2020,17:30,Brighton,1.5,0—0,0.5,Burnley,,The American Express Community Stadium,Mike Dean,2020-2021
+8,06-11-2020,20:00,Southampton,0.7,2—0,0.3,Newcastle Utd,,St. Mary's Stadium,Peter Bankes,2020-2021
+7,02-11-2020,17:30,Fulham,1.5,2—0,0.5,West Brom,,Craven Cottage,Simon Hooper,2020-2021
+7,02-11-2020,20:00,Leeds United,2.1,1—4,2.9,Leicester City,,Elland Road,Andre Marriner,2020-2021
+7,01-11-2020,12:00,Aston Villa,1.9,3—4,0.7,Southampton,,Villa Park,Darren England,2020-2021
+7,01-11-2020,14:00,Newcastle Utd,2.9,2—1,1.5,Everton,,St. James' Park,Stuart Attwell,2020-2021
+7,01-11-2020,16:30,Manchester Utd,0.4,0—1,1,Arsenal,,Old Trafford,Mike Dean,2020-2021
+7,01-11-2020,19:15,Tottenham,1.7,2—1,0.3,Brighton,,Tottenham Hotspur Stadium,Graham Scott,2020-2021
+7,31-10-2020,12:30,Sheffield Utd,0.5,0—1,1.6,Manchester City,,Bramall Lane,Michael Oliver,2020-2021
+7,31-10-2020,15:00,Burnley,0.5,0—3,0.9,Chelsea,,Turf Moor,David Coote,2020-2021
+7,31-10-2020,17:30,Liverpool,1.7,2—1,0.3,West Ham,,Anfield,Kevin Friend,2020-2021
+7,30-10-2020,20:00,Wolves,1.3,2—0,0.7,Crystal Palace,,Molineux Stadium,Martin Atkinson,2020-2021
+6,26-10-2020,17:30,Brighton,0.5,1—1,0.4,West Brom,,The American Express Community Stadium,Jonathan Moss,2020-2021
+6,26-10-2020,20:00,Burnley,1,0—1,0.6,Tottenham,,Turf Moor,Michael Oliver,2020-2021
+6,25-10-2020,14:00,Southampton,0.7,2—0,0.4,Everton,,St. Mary's Stadium,Kevin Friend,2020-2021
+6,25-10-2020,16:30,Wolves,0.7,1—1,0.3,Newcastle Utd,,Molineux Stadium,Lee Mason,2020-2021
+6,25-10-2020,19:15,Arsenal,0.7,0—1,0.7,Leicester City,,Emirates Stadium,Craig Pawson,2020-2021
+6,24-10-2020,12:30,West Ham,0.3,1—1,1,Manchester City,,London Stadium,Anthony Taylor,2020-2021
+6,24-10-2020,15:00,Fulham,1.1,1—2,2.5,Crystal Palace,,Craven Cottage,Graham Scott,2020-2021
+6,24-10-2020,17:30,Manchester Utd,0.6,0—0,0.2,Chelsea,,Old Trafford,Martin Atkinson,2020-2021
+6,24-10-2020,20:00,Liverpool,2.3,2—1,1.6,Sheffield Utd,,Anfield,Mike Dean,2020-2021
+6,23-10-2020,20:00,Aston Villa,1.4,0—3,2.7,Leeds United,,Villa Park,Paul Tierney,2020-2021
+5,19-10-2020,17:30,West Brom,0.8,0—0,1.1,Burnley,,The Hawthorns,Anthony Taylor,2020-2021
+5,19-10-2020,20:00,Leeds United,1,0—1,0.4,Wolves,,Elland Road,David Coote,2020-2021
+5,18-10-2020,12:00,Sheffield Utd,1.7,1—1,1.5,Fulham,,Bramall Lane,Andre Marriner,2020-2021
+5,18-10-2020,14:00,Crystal Palace,0.8,1—1,1.7,Brighton,,Selhurst Park,Stuart Attwell,2020-2021
+5,18-10-2020,16:30,Tottenham,1.7,3—3,1.9,West Ham,,Tottenham Hotspur Stadium,Paul Tierney,2020-2021
+5,18-10-2020,19:15,Leicester City,0.6,0—1,0.7,Aston Villa,,King Power Stadium,Jonathan Moss,2020-2021
+5,17-10-2020,12:30,Everton,1.2,2—2,2.6,Liverpool,,Goodison Park,Michael Oliver,2020-2021
+5,17-10-2020,15:00,Chelsea,1.8,3—3,1.9,Southampton,,Stamford Bridge,Peter Bankes,2020-2021
+5,17-10-2020,17:30,Manchester City,1.3,1—0,0.9,Arsenal,,Etihad Stadium,Chris Kavanagh,2020-2021
+5,17-10-2020,20:00,Newcastle Utd,0.9,1—4,2.3,Manchester Utd,,St. James' Park,Craig Pawson,2020-2021
+4,04-10-2020,12:00,Southampton,1.2,2—0,0.2,West Brom,,St. Mary's Stadium,Chris Kavanagh,2020-2021
+4,04-10-2020,12:00,Leicester City,0.6,0—3,2,West Ham,,King Power Stadium,Andy Madley,2020-2021
+4,04-10-2020,14:00,Arsenal,0.6,2—1,0.2,Sheffield Utd,,Emirates Stadium,Lee Mason,2020-2021
+4,04-10-2020,14:00,Wolves,1.2,1—0,0.9,Fulham,,Molineux Stadium,Darren England,2020-2021
+4,04-10-2020,16:30,Manchester Utd,0.9,1—6,3.4,Tottenham,,Old Trafford,Anthony Taylor,2020-2021
+4,04-10-2020,19:15,Aston Villa,2.7,7—2,1.8,Liverpool,,Villa Park,Martin Atkinson,2020-2021
+4,03-10-2020,12:30,Chelsea,2.7,4—0,0.2,Crystal Palace,,Stamford Bridge,Michael Oliver,2020-2021
+4,03-10-2020,15:00,Everton,1.6,4—2,1.3,Brighton,,Goodison Park,Simon Hooper,2020-2021
+4,03-10-2020,17:30,Leeds United,2.4,1—1,1.2,Manchester City,,Elland Road,Mike Dean,2020-2021
+4,03-10-2020,20:00,Newcastle Utd,1.8,3—1,0.4,Burnley,,St. James' Park,David Coote,2020-2021
+3,28-09-2020,17:45,Fulham,0.7,0—3,1.4,Aston Villa,,Craven Cottage,Stuart Attwell,2020-2021
+3,28-09-2020,20:00,Liverpool,2.7,3—1,1.3,Arsenal,,Anfield,Craig Pawson,2020-2021
+3,27-09-2020,12:00,Sheffield Utd,1.4,0—1,1.2,Leeds United,,Bramall Lane,Paul Tierney,2020-2021
+3,27-09-2020,14:00,Tottenham,2.9,1—1,1,Newcastle Utd,,Tottenham Hotspur Stadium,Peter Bankes,2020-2021
+3,27-09-2020,16:30,Manchester City,0.9,2—5,2.9,Leicester City,,Etihad Stadium,Michael Oliver,2020-2021
+3,27-09-2020,19:00,West Ham,2.4,4—0,0.5,Wolves,,London Stadium,Martin Atkinson,2020-2021
+3,26-09-2020,12:30,Brighton,2.5,2—3,1.5,Manchester Utd,,The American Express Community Stadium,Chris Kavanagh,2020-2021
+3,26-09-2020,15:00,Crystal Palace,0.4,1—2,1.9,Everton,,Selhurst Park,Kevin Friend,2020-2021
+3,26-09-2020,17:30,West Brom,0.6,3—3,2,Chelsea,,The Hawthorns,Jonathan Moss,2020-2021
+3,26-09-2020,20:00,Burnley,0.5,0—1,0.6,Southampton,,Turf Moor,Andre Marriner,2020-2021
+2,21-09-2020,18:00,Aston Villa,1,1—0,0.9,Sheffield Utd,,Villa Park,Graham Scott,2020-2021
+2,21-09-2020,20:15,Wolves,0.6,1—3,1.9,Manchester City,,Molineux Stadium,Andre Marriner,2020-2021
+2,20-09-2020,12:00,Southampton,2,2—5,2.1,Tottenham,,St. Mary's Stadium,David Coote,2020-2021
+2,20-09-2020,14:00,Newcastle Utd,0.5,0—3,1.8,Brighton,,St. James' Park,Kevin Friend,2020-2021
+2,20-09-2020,16:30,Chelsea,0.9,0—2,2.1,Liverpool,,Stamford Bridge,Paul Tierney,2020-2021
+2,20-09-2020,19:00,Leicester City,1.2,4—2,1.4,Burnley,,King Power Stadium,Lee Mason,2020-2021
+2,19-09-2020,12:30,Everton,3.9,5—2,0.3,West Brom,,Goodison Park,Mike Dean,2020-2021
+2,19-09-2020,15:00,Leeds United,1.4,4—3,1.7,Fulham,,Elland Road,Anthony Taylor,2020-2021
+2,19-09-2020,17:30,Manchester Utd,1.2,1—3,1.6,Crystal Palace,,Old Trafford,Martin Atkinson,2020-2021
+2,19-09-2020,20:00,Arsenal,1.1,2—1,2,West Ham,,Emirates Stadium,Michael Oliver,2020-2021
+1,14-09-2020,18:00,Sheffield Utd,1,0—2,1.4,Wolves,,Bramall Lane,Mike Dean,2020-2021
+1,14-09-2020,20:15,Brighton,1.1,1—3,1.2,Chelsea,,The American Express Community Stadium,Craig Pawson,2020-2021
+1,13-09-2020,14:00,West Brom,0.4,0—3,2.8,Leicester City,,The Hawthorns,Anthony Taylor,2020-2021
+1,13-09-2020,16:30,Tottenham,1.1,0—1,1.2,Everton,,Tottenham Hotspur Stadium,Martin Atkinson,2020-2021
+1,12-09-2020,12:30,Fulham,0.1,0—3,1.9,Arsenal,,Craven Cottage,Chris Kavanagh,2020-2021
+1,12-09-2020,15:00,Crystal Palace,1.1,1—0,0.9,Southampton,,Selhurst Park,Jonathan Moss,2020-2021
+1,12-09-2020,17:30,Liverpool,2.7,4—3,0.3,Leeds United,,Anfield,Michael Oliver,2020-2021
+1,12-09-2020,20:00,West Ham,1,0—2,1.6,Newcastle Utd,,London Stadium,Stuart Attwell,2020-2021
+38,26-07-2020,16:00,Everton,1.7,1—3,1.5,Bournemouth,,Goodison Park,Chris Kavanagh,2019-2020
+38,26-07-2020,16:00,Leicester City,0.8,0—2,1.3,Manchester Utd,,King Power Stadium,Martin Atkinson,2019-2020
+38,26-07-2020,16:00,Southampton,1.7,3—1,1.4,Sheffield Utd,,St. Mary's Stadium,Peter Bankes,2019-2020
+38,26-07-2020,16:00,Arsenal,2.3,3—2,3.7,Watford,,Emirates Stadium,Mike Dean,2019-2020
+38,26-07-2020,16:00,Crystal Palace,0.8,1—1,0.3,Tottenham,,Selhurst Park,Andre Marriner,2019-2020
+38,26-07-2020,16:00,Manchester City,3.2,5—0,1,Norwich City,,Etihad Stadium,Craig Pawson,2019-2020
+38,26-07-2020,16:00,Chelsea,1.4,2—0,0.2,Wolves,,Stamford Bridge,Stuart Attwell,2019-2020
+38,26-07-2020,16:00,West Ham,0.9,1—1,1,Aston Villa,,London Stadium,Michael Oliver,2019-2020
+38,26-07-2020,16:00,Newcastle Utd,0.1,1—3,0.6,Liverpool,,St. James' Park,Anthony Taylor,2019-2020
+38,26-07-2020,16:00,Burnley,1.7,1—2,1.2,Brighton,,Turf Moor,Jonathan Moss,2019-2020
+37,22-07-2020,18:00,Manchester Utd,0.6,1—1,1.5,West Ham,,Old Trafford,Paul Tierney,2019-2020
+37,22-07-2020,20:15,Liverpool,1.7,5—3,2.4,Chelsea,,Anfield,Andre Marriner,2019-2020
+37,21-07-2020,18:00,Watford,0.1,0—4,3.3,Manchester City,,Vicarage Road Stadium,Michael Oliver,2019-2020
+37,21-07-2020,20:15,Aston Villa,0.6,1—0,0.6,Arsenal,,Villa Park,Chris Kavanagh,2019-2020
+37,20-07-2020,18:00,Brighton,0.8,0—0,0.9,Newcastle Utd,,The American Express Community Stadium,Simon Hooper,2019-2020
+37,20-07-2020,18:00,Sheffield Utd,0.5,0—1,0.4,Everton,,Bramall Lane,Stuart Attwell,2019-2020
+37,20-07-2020,20:15,Wolves,1.5,2—0,0.4,Crystal Palace,,Molineux Stadium,Peter Bankes,2019-2020
+37,19-07-2020,14:00,Bournemouth,0.5,0—2,2.5,Southampton,,Vitality Stadium,Craig Pawson,2019-2020
+37,19-07-2020,16:00,Tottenham,0.8,3—0,1.7,Leicester City,,Tottenham Hotspur Stadium,Anthony Taylor,2019-2020
+37,18-07-2020,17:30,Norwich City,0.3,0—2,1.8,Burnley,,Carrow Road,Kevin Friend,2019-2020
+36,17-07-2020,20:00,West Ham,0.9,3—1,1.5,Watford,,London Stadium,Martin Atkinson,2019-2020
+36,16-07-2020,18:00,Leicester City,2.6,2—0,0.7,Sheffield Utd,,King Power Stadium,Michael Oliver,2019-2020
+36,16-07-2020,18:00,Everton,0.9,1—1,1.3,Aston Villa,,Goodison Park,Anthony Taylor,2019-2020
+36,16-07-2020,20:15,Crystal Palace,0.6,0—2,2.2,Manchester Utd,,Selhurst Park,Graham Scott,2019-2020
+36,16-07-2020,20:15,Southampton,2.5,1—1,0.7,Brighton,,St. Mary's Stadium,Andre Marriner,2019-2020
+36,15-07-2020,18:00,Newcastle Utd,1.1,1—3,1.5,Tottenham,,St. James' Park,David Coote,2019-2020
+36,15-07-2020,18:00,Burnley,1.9,1—1,1.2,Wolves,,Turf Moor,Mike Dean,2019-2020
+36,15-07-2020,18:00,Manchester City,0.7,2—1,1.6,Bournemouth,,Etihad Stadium,Lee Mason,2019-2020
+36,15-07-2020,20:15,Arsenal,0.8,2—1,2.1,Liverpool,,Emirates Stadium,Paul Tierney,2019-2020
+36,14-07-2020,20:15,Chelsea,2.5,1—0,0.1,Norwich City,,Stamford Bridge,Jonathan Moss,2019-2020
+35,13-07-2020,20:00,Manchester Utd,1.5,2—2,1.6,Southampton,,Old Trafford,Chris Kavanagh,2019-2020
+35,12-07-2020,12:00,Wolves,2.6,3—0,0.3,Everton,,Molineux Stadium,Anthony Taylor,2019-2020
+35,12-07-2020,14:15,Aston Villa,1.7,2—0,1.2,Crystal Palace,,Villa Park,Martin Atkinson,2019-2020
+35,12-07-2020,16:30,Tottenham,2,2—1,0.6,Arsenal,,Tottenham Hotspur Stadium,Michael Oliver,2019-2020
+35,12-07-2020,19:00,Bournemouth,2.5,4—1,1.5,Leicester City,,Vitality Stadium,Stuart Attwell,2019-2020
+35,11-07-2020,12:30,Norwich City,0.6,0—4,3.5,West Ham,,Carrow Road,Kevin Friend,2019-2020
+35,11-07-2020,12:30,Watford,3.4,2—1,1.3,Newcastle Utd,,Vicarage Road Stadium,Craig Pawson,2019-2020
+35,11-07-2020,15:00,Liverpool,1.7,1—1,0.4,Burnley,,Anfield,David Coote,2019-2020
+35,11-07-2020,17:30,Sheffield Utd,2.3,3—0,1.2,Chelsea,,Bramall Lane,Andre Marriner,2019-2020
+35,11-07-2020,20:00,Brighton,0.2,0—5,4.4,Manchester City,,The American Express Community Stadium,Graham Scott,2019-2020
+34,09-07-2020,18:00,Everton,1,1—1,2.4,Southampton,,Goodison Park,Lee Mason,2019-2020
+34,09-07-2020,18:00,Bournemouth,1.4,0—0,0.5,Tottenham,,Vitality Stadium,Paul Tierney,2019-2020
+34,09-07-2020,20:15,Aston Villa,0.5,0—3,2.3,Manchester Utd,,Villa Park,Jonathan Moss,2019-2020
+34,08-07-2020,18:00,Manchester City,2.8,5—0,0.3,Newcastle Utd,,Etihad Stadium,Andy Madley,2019-2020
+34,08-07-2020,18:00,West Ham,1.6,0—1,0.9,Burnley,,London Stadium,Michael Oliver,2019-2020
+34,08-07-2020,18:00,Sheffield Utd,0.5,1—0,0.4,Wolves,,Bramall Lane,Martin Atkinson,2019-2020
+34,08-07-2020,20:15,Brighton,2.4,1—3,2.5,Liverpool,,The American Express Community Stadium,Craig Pawson,2019-2020
+34,07-07-2020,18:00,Crystal Palace,1.5,2—3,1.9,Chelsea,,Selhurst Park,David Coote,2019-2020
+34,07-07-2020,18:00,Watford,1.2,2—1,1.2,Norwich City,,Vicarage Road Stadium,Anthony Taylor,2019-2020
+34,07-07-2020,20:15,Arsenal,1.1,1—1,0.9,Leicester City,,Emirates Stadium,Chris Kavanagh,2019-2020
+33,06-07-2020,20:00,Tottenham,0.5,1—0,0.5,Everton,,Tottenham Hotspur Stadium,Graham Scott,2019-2020
+33,05-07-2020,12:00,Burnley,1.3,1—1,1.1,Sheffield Utd,,Turf Moor,Peter Bankes,2019-2020
+33,05-07-2020,14:15,Newcastle Utd,1.4,2—2,2.1,West Ham,,St. James' Park,Craig Pawson,2019-2020
+33,05-07-2020,16:30,Liverpool,0.7,2—0,0.7,Aston Villa,,Anfield,Paul Tierney,2019-2020
+33,05-07-2020,19:00,Southampton,0.6,1—0,3.2,Manchester City,,St. Mary's Stadium,Andre Marriner,2019-2020
+33,04-07-2020,12:30,Norwich City,0.6,0—1,1,Brighton,,Carrow Road,Stuart Attwell,2019-2020
+33,04-07-2020,15:00,Leicester City,2.8,3—0,0.8,Crystal Palace,,King Power Stadium,Jonathan Moss,2019-2020
+33,04-07-2020,15:00,Manchester Utd,2.5,5—2,1.8,Bournemouth,,Old Trafford,Mike Dean,2019-2020
+33,04-07-2020,17:30,Wolves,1.2,0—2,1.3,Arsenal,,Molineux Stadium,Michael Oliver,2019-2020
+33,04-07-2020,20:00,Chelsea,2.5,3—0,0.6,Watford,,Stamford Bridge,Kevin Friend,2019-2020
+32,02-07-2020,18:00,Sheffield Utd,1.6,3—1,1.1,Tottenham,,Bramall Lane,Chris Kavanagh,2019-2020
+32,02-07-2020,20:15,Manchester City,2.4,4—0,1.1,Liverpool,,Etihad Stadium,Anthony Taylor,2019-2020
+32,01-07-2020,18:00,Bournemouth,1.6,1—4,1.8,Newcastle Utd,,Vitality Stadium,Kevin Friend,2019-2020
+32,01-07-2020,18:00,Everton,1.2,2—1,1.8,Leicester City,,Goodison Park,David Coote,2019-2020
+32,01-07-2020,18:00,Arsenal,1.5,4—0,0.3,Norwich City,,Emirates Stadium,Peter Bankes,2019-2020
+32,01-07-2020,20:15,West Ham,2.2,3—2,1.6,Chelsea,,London Stadium,Martin Atkinson,2019-2020
+32,30-06-2020,20:15,Brighton,0.4,0—3,1,Manchester Utd,,The American Express Community Stadium,Andre Marriner,2019-2020
+32,29-06-2020,20:00,Crystal Palace,0.9,0—1,0.4,Burnley,,Selhurst Park,Simon Hooper,2019-2020
+32,28-06-2020,16:30,Watford,0.5,1—3,1.3,Southampton,,Vicarage Road Stadium,Michael Oliver,2019-2020
+32,27-06-2020,12:30,Aston Villa,0.6,0—1,0.7,Wolves,,Villa Park,Craig Pawson,2019-2020
+31,25-06-2020,18:00,Southampton,0.9,0—2,1.9,Arsenal,,St. Mary's Stadium,Graham Scott,2019-2020
+31,25-06-2020,18:00,Burnley,0.9,1—0,0.7,Watford,,Turf Moor,Mike Dean,2019-2020
+31,25-06-2020,20:15,Chelsea,3.2,2—1,0.8,Manchester City,,Stamford Bridge,Stuart Attwell,2019-2020
+31,24-06-2020,18:00,Norwich City,0.4,0—1,0.8,Everton,,Carrow Road,Andy Madley,2019-2020
+31,24-06-2020,18:00,Wolves,1.7,1—0,0.1,Bournemouth,,Molineux Stadium,Michael Oliver,2019-2020
+31,24-06-2020,18:00,Manchester Utd,2.4,3—0,0.1,Sheffield Utd,,Old Trafford,Anthony Taylor,2019-2020
+31,24-06-2020,18:00,Newcastle Utd,0.9,1—1,1.6,Aston Villa,,St. James' Park,Chris Kavanagh,2019-2020
+31,24-06-2020,20:15,Liverpool,2.4,4—0,0.1,Crystal Palace,,Anfield,Martin Atkinson,2019-2020
+31,23-06-2020,18:00,Leicester City,0.6,0—0,1.1,Brighton,,King Power Stadium,Lee Mason,2019-2020
+31,23-06-2020,20:15,Tottenham,2.3,2—0,1.2,West Ham,,Tottenham Hotspur Stadium,Craig Pawson,2019-2020
+30,22-06-2020,20:00,Manchester City,2.4,5—0,0,Burnley,,Etihad Stadium,Andre Marriner,2019-2020
+30,21-06-2020,14:00,Newcastle Utd,2,3—0,0.6,Sheffield Utd,,St. James' Park,David Coote,2019-2020
+30,21-06-2020,16:15,Aston Villa,1,1—2,1.1,Chelsea,,Villa Park,Paul Tierney,2019-2020
+30,21-06-2020,19:00,Everton,0.9,0—0,0.7,Liverpool,,Goodison Park,Mike Dean,2019-2020
+30,20-06-2020,12:30,Watford,1.3,1—1,1,Leicester City,,Vicarage Road Stadium,Craig Pawson,2019-2020
+30,20-06-2020,15:00,Brighton,1,2—1,0.8,Arsenal,,The American Express Community Stadium,Martin Atkinson,2019-2020
+30,20-06-2020,17:30,West Ham,0.5,0—2,1,Wolves,,London Stadium,Anthony Taylor,2019-2020
+30,20-06-2020,19:45,Bournemouth,0.5,0—2,0.8,Crystal Palace,,Vitality Stadium,Stuart Attwell,2019-2020
+30,19-06-2020,18:00,Norwich City,0.6,0—3,1.7,Southampton,,Carrow Road,Kevin Friend,2019-2020
+30,19-06-2020,20:15,Tottenham,0.4,1—1,1.7,Manchester Utd,,Tottenham Hotspur Stadium,Jonathan Moss,2019-2020
+28,17-06-2020,18:00,Aston Villa,1.4,0—0,0.3,Sheffield Utd,,Villa Park,Michael Oliver,2019-2020
+28,17-06-2020,20:15,Manchester City,2.6,3—0,0.3,Arsenal,,Etihad Stadium,Anthony Taylor,2019-2020
+29,09-03-2020,20:00,Leicester City,2.1,4—0,0.5,Aston Villa,32125,King Power Stadium,Michael Oliver,2019-2020
+29,08-03-2020,14:00,Chelsea,1.8,4—0,0.5,Everton,40694,Stamford Bridge,Kevin Friend,2019-2020
+29,08-03-2020,16:30,Manchester Utd,1.6,2—0,0.6,Manchester City,73288,Old Trafford,Mike Dean,2019-2020
+29,07-03-2020,12:30,Liverpool,1.8,2—1,1.4,Bournemouth,53323,Anfield,Paul Tierney,2019-2020
+29,07-03-2020,15:00,Wolves,0.8,0—0,0.3,Brighton,31490,Molineux Stadium,Andre Marriner,2019-2020
+29,07-03-2020,15:00,Crystal Palace,0.8,1—0,0.6,Watford,25461,Selhurst Park,Anthony Taylor,2019-2020
+29,07-03-2020,15:00,Southampton,0.6,0—1,2.8,Newcastle Utd,30096,St. Mary's Stadium,Graham Scott,2019-2020
+29,07-03-2020,15:00,Arsenal,1.2,1—0,1.5,West Ham,60335,Emirates Stadium,Martin Atkinson,2019-2020
+29,07-03-2020,15:00,Sheffield Utd,0.9,1—0,2.4,Norwich City,31379,Bramall Lane,Simon Hooper,2019-2020
+29,07-03-2020,17:30,Burnley,3,1—1,1.2,Tottenham,20496,Turf Moor,Jonathan Moss,2019-2020
+28,01-03-2020,14:00,Tottenham,1.7,2—3,2.6,Wolves,58064,Tottenham Hotspur Stadium,Stuart Attwell,2019-2020
+28,01-03-2020,14:00,Everton,2.1,1—1,1.1,Manchester Utd,39374,Goodison Park,Chris Kavanagh,2019-2020
+28,29-02-2020,12:30,Brighton,2.2,0—1,2.5,Crystal Palace,30124,The American Express Community Stadium,Martin Atkinson,2019-2020
+28,29-02-2020,15:00,West Ham,2.3,3—1,0.7,Southampton,59962,London Stadium,Anthony Taylor,2019-2020
+28,29-02-2020,15:00,Bournemouth,1.4,2—2,1.9,Chelsea,10667,Vitality Stadium,Andre Marriner,2019-2020
+28,29-02-2020,15:00,Newcastle Utd,1.1,0—0,0.7,Burnley,52219,St. James' Park,Andy Madley,2019-2020
+28,29-02-2020,17:30,Watford,2.3,3—0,0.3,Liverpool,21634,Vicarage Road Stadium,Michael Oliver,2019-2020
+28,28-02-2020,20:00,Norwich City,0.6,1—0,1.3,Leicester City,27010,Carrow Road,Craig Pawson,2019-2020
+27,24-02-2020,20:00,Liverpool,2.4,3—2,0.7,West Ham,53313,Anfield,Jonathan Moss,2019-2020
+27,23-02-2020,14:00,Wolves,2.9,3—0,0.4,Norwich City,31046,Molineux Stadium,Chris Kavanagh,2019-2020
+27,23-02-2020,14:00,Manchester Utd,2.4,3—0,0.3,Watford,73347,Old Trafford,Martin Atkinson,2019-2020
+27,23-02-2020,16:30,Arsenal,1.3,3—2,2.7,Everton,60296,Emirates Stadium,Stuart Attwell,2019-2020
+27,22-02-2020,12:30,Chelsea,1.7,2—1,0.2,Tottenham,40608,Stamford Bridge,Michael Oliver,2019-2020
+27,22-02-2020,15:00,Crystal Palace,1.6,1—0,0.2,Newcastle Utd,25486,Selhurst Park,Peter Bankes,2019-2020
+27,22-02-2020,15:00,Southampton,2.6,2—0,0.5,Aston Villa,31478,St. Mary's Stadium,Craig Pawson,2019-2020
+27,22-02-2020,15:00,Burnley,3.2,3—0,1.8,Bournemouth,18227,Turf Moor,Mike Dean,2019-2020
+27,22-02-2020,15:00,Sheffield Utd,1.6,1—1,1.2,Brighton,31888,Bramall Lane,Graham Scott,2019-2020
+27,22-02-2020,17:30,Leicester City,0.8,0—1,2.4,Manchester City,32068,King Power Stadium,Paul Tierney,2019-2020
+26,19-02-2020,19:30,Manchester City,2.1,2—0,0.1,West Ham,52159,Etihad Stadium,Kevin Friend,2019-2020
+26,17-02-2020,20:00,Chelsea,0.9,0—2,0.6,Manchester Utd,40504,Stamford Bridge,Anthony Taylor,2019-2020
+26,16-02-2020,14:00,Aston Villa,1.8,2—3,3.4,Tottenham,41874,Villa Park,Martin Atkinson,2019-2020
+26,16-02-2020,16:30,Arsenal,2.6,4—0,0.9,Newcastle Utd,60188,Emirates Stadium,Lee Mason,2019-2020
+26,15-02-2020,12:30,Southampton,0.8,1—2,0.8,Burnley,26302,St. Mary's Stadium,Simon Hooper,2019-2020
+26,15-02-2020,17:30,Norwich City,0.3,0—1,2,Liverpool,27110,Carrow Road,Stuart Attwell,2019-2020
+26,14-02-2020,20:00,Wolves,1,0—0,0.7,Leicester City,31682,Molineux Stadium,Mike Dean,2019-2020
+26,09-02-2020,14:00,Sheffield Utd,1.9,2—1,1.4,Bournemouth,30361,Bramall Lane,Jonathan Moss,2019-2020
+26,08-02-2020,12:30,Everton,2.5,3—1,1.1,Crystal Palace,38987,Goodison Park,David Coote,2019-2020
+26,08-02-2020,17:30,Brighton,0.8,1—1,0.2,Watford,30443,The American Express Community Stadium,Kevin Friend,2019-2020
+25,02-02-2020,14:00,Burnley,1.9,0—0,1.2,Arsenal,21048,Turf Moor,Chris Kavanagh,2019-2020
+25,02-02-2020,16:30,Tottenham,0.3,2—0,2.4,Manchester City,61022,Tottenham Hotspur Stadium,Mike Dean,2019-2020
+25,01-02-2020,12:30,Leicester City,1.4,2—2,0.6,Chelsea,32186,King Power Stadium,Lee Mason,2019-2020
+25,01-02-2020,15:00,West Ham,0.8,3—3,1.9,Brighton,59952,London Stadium,Michael Oliver,2019-2020
+25,01-02-2020,15:00,Watford,0.9,2—3,2.2,Everton,21229,Vicarage Road Stadium,Craig Pawson,2019-2020
+25,01-02-2020,15:00,Crystal Palace,0.8,0—1,0.7,Sheffield Utd,25170,Selhurst Park,Andy Madley,2019-2020
+25,01-02-2020,15:00,Liverpool,3.2,4—0,0.8,Southampton,53291,Anfield,Kevin Friend,2019-2020
+25,01-02-2020,15:00,Bournemouth,2.2,2—1,1.7,Aston Villa,10722,Vitality Stadium,Anthony Taylor,2019-2020
+25,01-02-2020,15:00,Newcastle Utd,1,0—0,2.2,Norwich City,52204,St. James' Park,Martin Atkinson,2019-2020
+25,01-02-2020,17:30,Manchester Utd,1,0—0,1.3,Wolves,73363,Old Trafford,Paul Tierney,2019-2020
+18,29-01-2020,19:45,West Ham,0.7,0—2,2.8,Liverpool,59959,London Stadium,Jonathan Moss,2019-2020
+24,23-01-2020,20:00,Wolves,1.8,1—2,1.1,Liverpool,31746,Molineux Stadium,Michael Oliver,2019-2020
+24,22-01-2020,19:30,Leicester City,2.8,4—1,1.6,West Ham,31968,King Power Stadium,David Coote,2019-2020
+24,22-01-2020,19:30,Tottenham,2.1,2—1,1.5,Norwich City,58182,Tottenham Hotspur Stadium,Chris Kavanagh,2019-2020
+24,22-01-2020,20:15,Manchester Utd,1.4,0—2,0.6,Burnley,73198,Old Trafford,Jonathan Moss,2019-2020
+24,21-01-2020,19:30,Crystal Palace,0.6,0—2,1.1,Southampton,23739,Selhurst Park,Andre Marriner,2019-2020
+24,21-01-2020,19:30,Everton,1.8,2—2,1.3,Newcastle Utd,38822,Goodison Park,Simon Hooper,2019-2020
+24,21-01-2020,19:30,Aston Villa,1.3,2—1,1.8,Watford,40867,Villa Park,Martin Atkinson,2019-2020
+24,21-01-2020,19:30,Sheffield Utd,0.8,0—1,2.8,Manchester City,31285,Bramall Lane,Lee Mason,2019-2020
+24,21-01-2020,19:30,Bournemouth,1.4,3—1,1.8,Brighton,10065,Vitality Stadium,Kevin Friend,2019-2020
+24,21-01-2020,20:15,Chelsea,2.9,2—2,0.4,Arsenal,40577,Stamford Bridge,Stuart Attwell,2019-2020
+23,19-01-2020,14:00,Burnley,1.4,2—1,2.5,Leicester City,19788,Turf Moor,Anthony Taylor,2019-2020
+23,19-01-2020,16:30,Liverpool,1.9,2—0,1.3,Manchester Utd,52916,Anfield,Craig Pawson,2019-2020
+23,18-01-2020,12:30,Watford,2.5,0—0,1.9,Tottenham,21366,Vicarage Road Stadium,Michael Oliver,2019-2020
+23,18-01-2020,15:00,Arsenal,1.4,1—1,0.8,Sheffield Utd,60310,Emirates Stadium,Mike Dean,2019-2020
+23,18-01-2020,15:00,Norwich City,1.8,1—0,0.7,Bournemouth,26781,Carrow Road,Paul Tierney,2019-2020
+23,18-01-2020,15:00,Manchester City,2.6,2—2,0.4,Crystal Palace,54439,Etihad Stadium,Graham Scott,2019-2020
+23,18-01-2020,15:00,Southampton,0.7,2—3,2.4,Wolves,31152,St. Mary's Stadium,Darren England,2019-2020
+23,18-01-2020,15:00,Brighton,1.1,1—1,0.6,Aston Villa,30551,The American Express Community Stadium,Andy Madley,2019-2020
+23,18-01-2020,15:00,West Ham,1.3,1—1,1.7,Everton,59915,London Stadium,Andre Marriner,2019-2020
+23,18-01-2020,17:30,Newcastle Utd,0.6,1—0,2.4,Chelsea,52217,St. James' Park,Chris Kavanagh,2019-2020
+22,12-01-2020,14:00,Bournemouth,0.4,0—3,2,Watford,10384,Vitality Stadium,Mike Dean,2019-2020
+22,12-01-2020,16:30,Aston Villa,1.1,1—6,2.8,Manchester City,41823,Villa Park,Jonathan Moss,2019-2020
+22,11-01-2020,12:30,Crystal Palace,0.6,1—1,1.4,Arsenal,25468,Selhurst Park,Paul Tierney,2019-2020
+22,11-01-2020,15:00,Chelsea,2.7,3—0,0.8,Burnley,40396,Stamford Bridge,Kevin Friend,2019-2020
+22,11-01-2020,15:00,Everton,1.7,1—0,1.3,Brighton,38772,Goodison Park,David Coote,2019-2020
+22,11-01-2020,15:00,Leicester City,0.7,1—2,2.1,Southampton,32115,King Power Stadium,Lee Mason,2019-2020
+22,11-01-2020,15:00,Wolves,1.6,1—1,0.2,Newcastle Utd,31570,Molineux Stadium,Peter Bankes,2019-2020
+22,11-01-2020,15:00,Manchester Utd,2.9,4—0,0.3,Norwich City,73271,Old Trafford,Anthony Taylor,2019-2020
+22,11-01-2020,17:30,Tottenham,1.2,0—1,1.2,Liverpool,61023,Tottenham Hotspur Stadium,Martin Atkinson,2019-2020
+22,10-01-2020,20:00,Sheffield Utd,1.4,1—0,0.7,West Ham,30124,Bramall Lane,Michael Oliver,2019-2020
+21,02-01-2020,20:00,Liverpool,2.8,2—0,0.6,Sheffield Utd,53321,Anfield,Paul Tierney,2019-2020
+21,01-01-2020,12:30,Brighton,1.3,1—1,1.3,Chelsea,30559,The American Express Community Stadium,Stuart Attwell,2019-2020
+21,01-01-2020,12:30,Burnley,2.2,1—2,1.3,Aston Villa,19561,Turf Moor,Michael Oliver,2019-2020
+21,01-01-2020,15:00,Newcastle Utd,0.7,0—3,2.6,Leicester City,52178,St. James' Park,Martin Atkinson,2019-2020
+21,01-01-2020,15:00,Southampton,1.3,1—0,0.9,Tottenham,30976,St. Mary's Stadium,Mike Dean,2019-2020
+21,01-01-2020,15:00,Watford,1.1,2—1,1.2,Wolves,20584,Vicarage Road Stadium,Andy Madley,2019-2020
+21,01-01-2020,17:30,Norwich City,1.4,1—1,1.3,Crystal Palace,27021,Carrow Road,Jonathan Moss,2019-2020
+21,01-01-2020,17:30,West Ham,2.4,4—0,0.6,Bournemouth,59917,London Stadium,Graham Scott,2019-2020
+21,01-01-2020,17:30,Manchester City,1.5,2—1,1,Everton,54407,Etihad Stadium,Andre Marriner,2019-2020
+21,01-01-2020,20:00,Arsenal,1.5,2—0,0.7,Manchester Utd,60328,Emirates Stadium,Chris Kavanagh,2019-2020
+20,29-12-2019,14:00,Arsenal,0.5,1—2,1.4,Chelsea,60309,Emirates Stadium,Craig Pawson,2019-2020
+20,29-12-2019,16:30,Liverpool,1.2,1—0,0.5,Wolves,53326,Anfield,Anthony Taylor,2019-2020
+20,29-12-2019,18:00,Manchester City,1.1,2—0,1.1,Sheffield Utd,54512,Etihad Stadium,Chris Kavanagh,2019-2020
+20,28-12-2019,12:30,Brighton,0.8,2—0,0.5,Bournemouth,30441,The American Express Community Stadium,Paul Tierney,2019-2020
+20,28-12-2019,15:00,Watford,2.8,3—0,0.6,Aston Villa,21348,Vicarage Road Stadium,Simon Hooper,2019-2020
+20,28-12-2019,15:00,Newcastle Utd,1.8,1—2,2.9,Everton,52211,St. James' Park,Lee Mason,2019-2020
+20,28-12-2019,15:00,Southampton,1.4,1—1,0.3,Crystal Palace,31108,St. Mary's Stadium,Andy Madley,2019-2020
+20,28-12-2019,17:30,West Ham,1,1—2,2.5,Leicester City,59919,London Stadium,David Coote,2019-2020
+20,28-12-2019,17:30,Norwich City,0.2,2—2,1.9,Tottenham,27072,Carrow Road,Kevin Friend,2019-2020
+20,28-12-2019,19:45,Burnley,0.5,0—2,2.2,Manchester Utd,21924,Turf Moor,Mike Dean,2019-2020
+19,27-12-2019,19:45,Wolves,2.6,3—2,1.5,Manchester City,31737,Molineux Stadium,Martin Atkinson,2019-2020
+19,26-12-2019,12:30,Tottenham,0.8,2—1,1,Brighton,56308,Tottenham Hotspur Stadium,Graham Scott,2019-2020
+19,26-12-2019,15:00,Aston Villa,0.6,1—0,1.2,Norwich City,41289,Villa Park,Chris Kavanagh,2019-2020
+19,26-12-2019,15:00,Crystal Palace,2.7,2—1,0.9,West Ham,25462,Selhurst Park,Andre Marriner,2019-2020
+19,26-12-2019,15:00,Bournemouth,2,1—1,1.4,Arsenal,10234,Vitality Stadium,Stuart Attwell,2019-2020
+19,26-12-2019,15:00,Sheffield Utd,2.4,1—1,0.6,Watford,30222,Bramall Lane,David Coote,2019-2020
+19,26-12-2019,15:00,Everton,1.4,1—0,0.3,Burnley,39177,Goodison Park,Anthony Taylor,2019-2020
+19,26-12-2019,15:00,Chelsea,0.7,0—2,1.1,Southampton,40651,Stamford Bridge,Jonathan Moss,2019-2020
+19,26-12-2019,17:30,Manchester Utd,1.9,4—1,0.8,Newcastle Utd,73206,Old Trafford,Kevin Friend,2019-2020
+19,26-12-2019,20:00,Leicester City,0.1,0—4,3.2,Liverpool,32211,King Power Stadium,Michael Oliver,2019-2020
+18,22-12-2019,14:00,Watford,1.5,2—0,1.8,Manchester Utd,21488,Vicarage Road Stadium,Lee Mason,2019-2020
+18,22-12-2019,16:30,Tottenham,0.3,0—2,1.3,Chelsea,61104,Tottenham Hotspur Stadium,Anthony Taylor,2019-2020
+18,21-12-2019,12:30,Everton,0.5,0—0,0.6,Arsenal,39336,Goodison Park,Kevin Friend,2019-2020
+18,21-12-2019,15:00,Norwich City,1.3,1—2,1.4,Wolves,27053,Carrow Road,Peter Bankes,2019-2020
+18,21-12-2019,15:00,Brighton,0.5,0—1,1.3,Sheffield Utd,30505,The American Express Community Stadium,Robert Jones,2019-2020
+18,21-12-2019,15:00,Newcastle Utd,0.5,1—0,1.3,Crystal Palace,45453,St. James' Park,Simon Hooper,2019-2020
+18,21-12-2019,15:00,Aston Villa,1.1,1—3,2.8,Southampton,41834,Villa Park,Craig Pawson,2019-2020
+18,21-12-2019,15:00,Bournemouth,0.1,0—1,0.2,Burnley,10020,Vitality Stadium,Martin Atkinson,2019-2020
+18,21-12-2019,17:30,Manchester City,3.3,3—1,1.1,Leicester City,54415,Etihad Stadium,Mike Dean,2019-2020
+17,16-12-2019,19:45,Crystal Palace,0.7,1—1,2.3,Brighton,24175,Selhurst Park,Craig Pawson,2019-2020
+17,15-12-2019,14:00,Manchester Utd,1.4,1—1,0.3,Everton,63328,Old Trafford,Michael Oliver,2019-2020
+17,15-12-2019,14:00,Wolves,0.9,1—2,0.9,Tottenham,31674,Molineux Stadium,Stuart Attwell,2019-2020
+17,15-12-2019,16:30,Arsenal,0.5,0—3,1.3,Manchester City,60031,Emirates Stadium,Paul Tierney,2019-2020
+17,14-12-2019,12:30,Liverpool,1.4,2—0,1,Watford,53311,Anfield,Andre Marriner,2019-2020
+17,14-12-2019,15:00,Leicester City,1.1,1—1,1.1,Norwich City,32101,King Power Stadium,Andy Madley,2019-2020
+17,14-12-2019,15:00,Burnley,1.4,1—0,1,Newcastle Utd,19798,Turf Moor,Tim Robinson,2019-2020
+17,14-12-2019,15:00,Sheffield Utd,1.7,2—0,1.1,Aston Villa,30396,Bramall Lane,Peter Bankes,2019-2020
+17,14-12-2019,15:00,Chelsea,2.1,0—1,1,Bournemouth,40243,Stamford Bridge,Graham Scott,2019-2020
+17,14-12-2019,17:30,Southampton,0.9,0—1,0.9,West Ham,27701,St. Mary's Stadium,Martin Atkinson,2019-2020
+16,09-12-2019,20:00,West Ham,0.6,1—3,1.4,Arsenal,59936,London Stadium,Mike Dean,2019-2020
+16,08-12-2019,14:00,Norwich City,0.7,1—2,0.8,Sheffield Utd,26881,Carrow Road,Simon Hooper,2019-2020
+16,08-12-2019,14:00,Aston Villa,1.2,1—4,4.6,Leicester City,41908,Villa Park,Michael Oliver,2019-2020
+16,08-12-2019,14:00,Newcastle Utd,0.9,2—1,1.7,Southampton,42303,St. James' Park,David Coote,2019-2020
+16,08-12-2019,16:30,Brighton,1.2,2—2,1.5,Wolves,30189,The American Express Community Stadium,Jonathan Moss,2019-2020
+16,07-12-2019,12:30,Everton,1.8,3—1,1.1,Chelsea,39114,Goodison Park,Craig Pawson,2019-2020
+16,07-12-2019,15:00,Tottenham,2.6,5—0,0.9,Burnley,58401,Tottenham Hotspur Stadium,Kevin Friend,2019-2020
+16,07-12-2019,15:00,Watford,1.4,0—0,0.2,Crystal Palace,20070,Vicarage Road Stadium,Martin Atkinson,2019-2020
+16,07-12-2019,15:00,Bournemouth,0.1,0—3,2.4,Liverpool,10832,Vitality Stadium,Chris Kavanagh,2019-2020
+16,07-12-2019,17:30,Manchester City,2.2,1—2,1.4,Manchester Utd,54403,Etihad Stadium,Anthony Taylor,2019-2020
+15,05-12-2019,19:30,Sheffield Utd,1.1,0—2,0.5,Newcastle Utd,30409,Bramall Lane,Stuart Attwell,2019-2020
+15,05-12-2019,20:15,Arsenal,0.9,1—2,1.7,Brighton,60164,Emirates Stadium,Graham Scott,2019-2020
+15,04-12-2019,19:30,Wolves,1.5,2—0,0.6,West Ham,31217,Molineux Stadium,Andre Marriner,2019-2020
+15,04-12-2019,19:30,Southampton,1.7,2—1,0.9,Norwich City,27019,St. Mary's Stadium,Kevin Friend,2019-2020
+15,04-12-2019,19:30,Chelsea,1.8,2—1,1,Aston Villa,40628,Stamford Bridge,Chris Kavanagh,2019-2020
+15,04-12-2019,19:30,Manchester Utd,1.4,2—1,0.9,Tottenham,73252,Old Trafford,Paul Tierney,2019-2020
+15,04-12-2019,19:30,Leicester City,2.4,2—0,0.2,Watford,31763,King Power Stadium,Craig Pawson,2019-2020
+15,04-12-2019,20:15,Liverpool,2,5—2,1.5,Everton,53094,Anfield,Mike Dean,2019-2020
+15,03-12-2019,19:30,Crystal Palace,0.3,1—0,0.4,Bournemouth,23497,Selhurst Park,Anthony Taylor,2019-2020
+15,03-12-2019,20:15,Burnley,0.6,1—4,2.2,Manchester City,20101,Turf Moor,Jonathan Moss,2019-2020
+14,01-12-2019,14:00,Norwich City,0.8,2—2,1.9,Arsenal,27067,Carrow Road,Paul Tierney,2019-2020
+14,01-12-2019,14:00,Wolves,1.3,1—1,1.5,Sheffield Utd,31642,Molineux Stadium,David Coote,2019-2020
+14,01-12-2019,16:30,Leicester City,2.2,2—1,1.1,Everton,32144,King Power Stadium,Graham Scott,2019-2020
+14,01-12-2019,16:30,Manchester Utd,1.7,2—2,1.2,Aston Villa,73381,Old Trafford,Craig Pawson,2019-2020
+14,30-11-2019,12:30,Newcastle Utd,0.3,2—2,2.4,Manchester City,49937,St. James' Park,Chris Kavanagh,2019-2020
+14,30-11-2019,15:00,Tottenham,2.3,3—2,1.1,Bournemouth,59626,Tottenham Hotspur Stadium,Lee Mason,2019-2020
+14,30-11-2019,15:00,Liverpool,1.3,2—1,0.8,Brighton,53319,Anfield,Martin Atkinson,2019-2020
+14,30-11-2019,15:00,Burnley,1.9,0—2,0.7,Crystal Palace,19818,Turf Moor,Peter Bankes,2019-2020
+14,30-11-2019,15:00,Chelsea,2.3,0—1,0.9,West Ham,40595,Stamford Bridge,Jonathan Moss,2019-2020
+14,30-11-2019,17:30,Southampton,2.1,2—1,0.6,Watford,26929,St. Mary's Stadium,Michael Oliver,2019-2020
+13,25-11-2019,20:00,Aston Villa,2.3,2—0,0.6,Newcastle Utd,41821,Villa Park,Lee Mason,2019-2020
+13,24-11-2019,16:30,Sheffield Utd,1.3,3—3,1.3,Manchester Utd,32024,Bramall Lane,Andre Marriner,2019-2020
+13,23-11-2019,12:30,West Ham,0.7,2—3,2.1,Tottenham,59930,London Stadium,Michael Oliver,2019-2020
+13,23-11-2019,15:00,Crystal Palace,1,1—2,1.4,Liverpool,25486,Selhurst Park,Kevin Friend,2019-2020
+13,23-11-2019,15:00,Arsenal,1.8,2—2,2.4,Southampton,60295,Emirates Stadium,Stuart Attwell,2019-2020
+13,23-11-2019,15:00,Bournemouth,0.6,1—2,1.1,Wolves,10539,Vitality Stadium,Simon Hooper,2019-2020
+13,23-11-2019,15:00,Everton,0.9,0—2,1.7,Norwich City,39241,Goodison Park,Anthony Taylor,2019-2020
+13,23-11-2019,15:00,Brighton,0.6,0—2,3.6,Leicester City,30640,The American Express Community Stadium,Mike Dean,2019-2020
+13,23-11-2019,15:00,Watford,1,0—3,1.9,Burnley,19711,Vicarage Road Stadium,Paul Tierney,2019-2020
+13,23-11-2019,17:30,Manchester City,1,2—1,0.9,Chelsea,54486,Etihad Stadium,Martin Atkinson,2019-2020
+12,10-11-2019,14:00,Manchester Utd,3.6,3—1,0.8,Brighton,73556,Old Trafford,Jonathan Moss,2019-2020
+12,10-11-2019,14:00,Wolves,2.4,2—1,0.6,Aston Villa,31607,Molineux Stadium,Anthony Taylor,2019-2020
+12,10-11-2019,16:30,Liverpool,1.1,3—1,1.3,Manchester City,53324,Anfield,Michael Oliver,2019-2020
+12,09-11-2019,12:30,Chelsea,3.6,2—0,0.2,Crystal Palace,40525,Stamford Bridge,Mike Dean,2019-2020
+12,09-11-2019,15:00,Southampton,0.9,1—2,1.8,Everton,29754,St. Mary's Stadium,Paul Tierney,2019-2020
+12,09-11-2019,15:00,Burnley,2.1,3—0,0.5,West Ham,20255,Turf Moor,Kevin Friend,2019-2020
+12,09-11-2019,15:00,Newcastle Utd,2.4,2—1,1.8,Bournemouth,44424,St. James' Park,Martin Atkinson,2019-2020
+12,09-11-2019,15:00,Tottenham,1.8,1—1,0.9,Sheffield Utd,59781,Tottenham Hotspur Stadium,Graham Scott,2019-2020
+12,09-11-2019,17:30,Leicester City,1.2,2—0,1,Arsenal,32209,King Power Stadium,Chris Kavanagh,2019-2020
+12,08-11-2019,20:00,Norwich City,0.7,0—2,1.3,Watford,27074,Carrow Road,Andre Marriner,2019-2020
+11,03-11-2019,14:00,Crystal Palace,0.5,0—2,1.1,Leicester City,25480,Selhurst Park,Paul Tierney,2019-2020
+11,03-11-2019,16:30,Everton,1.1,1—1,0.6,Tottenham,39001,Goodison Park,Martin Atkinson,2019-2020
+11,02-11-2019,12:30,Bournemouth,1.9,1—0,0.8,Manchester Utd,10669,Vitality Stadium,Chris Kavanagh,2019-2020
+11,02-11-2019,15:00,Sheffield Utd,2.3,3—0,0.8,Burnley,31131,Bramall Lane,Simon Hooper,2019-2020
+11,02-11-2019,15:00,Brighton,2.7,2—0,0.4,Norwich City,30539,The American Express Community Stadium,Kevin Friend,2019-2020
+11,02-11-2019,15:00,Aston Villa,0.4,1—2,2.4,Liverpool,41878,Villa Park,Jonathan Moss,2019-2020
+11,02-11-2019,15:00,Arsenal,0.9,1—1,1.8,Wolves,60383,Emirates Stadium,Michael Oliver,2019-2020
+11,02-11-2019,15:00,West Ham,1.8,2—3,1.5,Newcastle Utd,59907,London Stadium,Stuart Attwell,2019-2020
+11,02-11-2019,15:00,Manchester City,2.9,2—1,0.9,Southampton,53922,Etihad Stadium,Lee Mason,2019-2020
+11,02-11-2019,17:30,Watford,1.3,1—2,2.1,Chelsea,21011,Vicarage Road Stadium,Anthony Taylor,2019-2020
+10,27-10-2019,14:00,Newcastle Utd,1,1—1,2.1,Wolves,46019,St. James' Park,Kevin Friend,2019-2020
+10,27-10-2019,16:30,Arsenal,1.3,2—2,1.6,Crystal Palace,60345,Emirates Stadium,Martin Atkinson,2019-2020
+10,27-10-2019,16:30,Liverpool,2.6,2—1,1.2,Tottenham,53222,Anfield,Anthony Taylor,2019-2020
+10,27-10-2019,16:30,Norwich City,1,1—3,4.2,Manchester Utd,27108,Carrow Road,Stuart Attwell,2019-2020
+10,26-10-2019,12:30,Manchester City,2.9,3—0,1,Aston Villa,54506,Etihad Stadium,Graham Scott,2019-2020
+10,26-10-2019,15:00,Watford,0.8,0—0,1,Bournemouth,20821,Vicarage Road Stadium,Mike Dean,2019-2020
+10,26-10-2019,15:00,West Ham,2.3,1—1,1,Sheffield Utd,59878,London Stadium,David Coote,2019-2020
+10,26-10-2019,15:00,Brighton,1.2,3—2,0.9,Everton,30529,The American Express Community Stadium,Andy Madley,2019-2020
+10,26-10-2019,17:30,Burnley,2.1,2—4,0.9,Chelsea,20975,Turf Moor,Michael Oliver,2019-2020
+10,25-10-2019,20:00,Southampton,0.3,0—9,4.6,Leicester City,28762,St. Mary's Stadium,Andre Marriner,2019-2020
+9,21-10-2019,20:00,Sheffield Utd,0.9,1—0,1,Arsenal,30775,Bramall Lane,Mike Dean,2019-2020
+9,20-10-2019,16:30,Manchester Utd,0.7,1—1,1.2,Liverpool,73737,Old Trafford,Martin Atkinson,2019-2020
+9,19-10-2019,12:30,Everton,2.1,2—0,0.8,West Ham,39263,Goodison Park,Paul Tierney,2019-2020
+9,19-10-2019,15:00,Aston Villa,3,2—1,1.2,Brighton,41826,Villa Park,David Coote,2019-2020
+9,19-10-2019,15:00,Leicester City,1,2—1,1.5,Burnley,32105,King Power Stadium,Jonathan Moss,2019-2020
+9,19-10-2019,15:00,Tottenham,1,1—1,0.7,Watford,58754,Tottenham Hotspur Stadium,Chris Kavanagh,2019-2020
+9,19-10-2019,15:00,Wolves,0.9,1—1,1.4,Southampton,30915,Molineux Stadium,Peter Bankes,2019-2020
+9,19-10-2019,15:00,Chelsea,2,1—0,0.4,Newcastle Utd,40513,Stamford Bridge,Andre Marriner,2019-2020
+9,19-10-2019,15:00,Bournemouth,0.7,0—0,0.4,Norwich City,10669,Vitality Stadium,Lee Mason,2019-2020
+9,19-10-2019,17:30,Crystal Palace,0.9,0—2,3.5,Manchester City,25480,Selhurst Park,Anthony Taylor,2019-2020
+8,06-10-2019,14:00,Manchester City,1.4,0—2,1,Wolves,54435,Etihad Stadium,Craig Pawson,2019-2020
+8,06-10-2019,14:00,Southampton,1.4,1—4,1.7,Chelsea,31473,St. Mary's Stadium,Paul Tierney,2019-2020
+8,06-10-2019,14:00,Arsenal,1.2,1—0,0.6,Bournemouth,60326,Emirates Stadium,Martin Atkinson,2019-2020
+8,06-10-2019,16:30,Newcastle Utd,0.8,1—0,0.9,Manchester Utd,51198,St. James' Park,Mike Dean,2019-2020
+8,05-10-2019,12:30,Brighton,2.4,3—0,0.4,Tottenham,30610,The American Express Community Stadium,Jonathan Moss,2019-2020
+8,05-10-2019,15:00,Watford,1.4,0—0,0.4,Sheffield Utd,20811,Vicarage Road Stadium,Andre Marriner,2019-2020
+8,05-10-2019,15:00,Burnley,0.6,1—0,1.3,Everton,20650,Turf Moor,Graham Scott,2019-2020
+8,05-10-2019,15:00,Liverpool,3.5,2—1,0.1,Leicester City,53322,Anfield,Chris Kavanagh,2019-2020
+8,05-10-2019,15:00,Norwich City,2.6,1—5,3,Aston Villa,27045,Carrow Road,Andy Madley,2019-2020
+8,05-10-2019,17:30,West Ham,1.4,1—2,2.1,Crystal Palace,59912,London Stadium,Michael Oliver,2019-2020
+7,30-09-2019,20:00,Manchester Utd,0.9,1—1,1.9,Arsenal,73201,Old Trafford,Kevin Friend,2019-2020
+7,29-09-2019,16:30,Leicester City,1.6,5—0,0.1,Newcastle Utd,32168,King Power Stadium,Craig Pawson,2019-2020
+7,28-09-2019,12:30,Sheffield Utd,1.3,0—1,1.9,Liverpool,31774,Bramall Lane,Anthony Taylor,2019-2020
+7,28-09-2019,15:00,Chelsea,3.7,2—0,0.6,Brighton,40683,Stamford Bridge,Chris Kavanagh,2019-2020
+7,28-09-2019,15:00,Tottenham,1,2—1,1.5,Southampton,59645,Tottenham Hotspur Stadium,Graham Scott,2019-2020
+7,28-09-2019,15:00,Aston Villa,1,2—2,1.5,Burnley,41546,Villa Park,Lee Mason,2019-2020
+7,28-09-2019,15:00,Crystal Palace,1.5,2—0,0.7,Norwich City,25477,Selhurst Park,Jonathan Moss,2019-2020
+7,28-09-2019,15:00,Wolves,1.4,2—0,1.4,Watford,30711,Molineux Stadium,Paul Tierney,2019-2020
+7,28-09-2019,15:00,Bournemouth,1.9,2—2,1.6,West Ham,10729,Vitality Stadium,Stuart Attwell,2019-2020
+7,28-09-2019,17:30,Everton,2.4,1—3,2.8,Manchester City,39222,Goodison Park,Michael Oliver,2019-2020
+6,22-09-2019,14:00,Crystal Palace,0.9,1—1,1.5,Wolves,25122,Selhurst Park,Stuart Attwell,2019-2020
+6,22-09-2019,14:00,West Ham,0.4,2—0,0.9,Manchester Utd,59936,London Stadium,Anthony Taylor,2019-2020
+6,22-09-2019,16:30,Chelsea,1.3,1—2,0.6,Liverpool,40638,Stamford Bridge,Michael Oliver,2019-2020
+6,22-09-2019,16:30,Arsenal,2.4,3—2,1.5,Aston Villa,60331,Emirates Stadium,Jonathan Moss,2019-2020
+6,21-09-2019,12:30,Leicester City,1.3,2—1,1.1,Tottenham,32129,King Power Stadium,Paul Tierney,2019-2020
+6,21-09-2019,15:00,Manchester City,5.9,8—0,0.4,Watford,54273,Etihad Stadium,Mike Dean,2019-2020
+6,21-09-2019,15:00,Everton,1,0—2,0.5,Sheffield Utd,39354,Goodison Park,Simon Hooper,2019-2020
+6,21-09-2019,15:00,Burnley,2,2—0,0.8,Norwich City,19712,Turf Moor,David Coote,2019-2020
+6,21-09-2019,17:30,Newcastle Utd,0.9,0—0,1.4,Brighton,43316,St. James' Park,Martin Atkinson,2019-2020
+6,20-09-2019,20:00,Southampton,2.5,1—3,1.2,Bournemouth,30168,St. Mary's Stadium,Chris Kavanagh,2019-2020
+5,16-09-2019,20:00,Aston Villa,1.3,0—0,0.6,West Ham,42010,Villa Park,Mike Dean,2019-2020
+5,15-09-2019,14:00,Bournemouth,1.4,3—1,1.5,Everton,10416,Vitality Stadium,Paul Tierney,2019-2020
+5,15-09-2019,16:30,Watford,2.7,2—2,0.8,Arsenal,21360,Vicarage Road Stadium,Anthony Taylor,2019-2020
+5,14-09-2019,12:30,Liverpool,3,3—1,0.3,Newcastle Utd,51430,Anfield,Andre Marriner,2019-2020
+5,14-09-2019,15:00,Wolves,1.7,2—5,2.7,Chelsea,31534,Molineux Stadium,Graham Scott,2019-2020
+5,14-09-2019,15:00,Brighton,1.4,1—1,0.4,Burnley,29398,The American Express Community Stadium,Michael Oliver,2019-2020
+5,14-09-2019,15:00,Tottenham,1,4—0,0.6,Crystal Palace,59812,Tottenham Hotspur Stadium,Craig Pawson,2019-2020
+5,14-09-2019,15:00,Manchester Utd,1.2,1—0,0.6,Leicester City,73689,Old Trafford,Martin Atkinson,2019-2020
+5,14-09-2019,15:00,Sheffield Utd,1.8,0—1,1.6,Southampton,30985,Bramall Lane,Lee Mason,2019-2020
+5,14-09-2019,17:30,Norwich City,1.5,3—2,2.3,Manchester City,27035,Carrow Road,Kevin Friend,2019-2020
+4,01-09-2019,14:00,Everton,1.3,3—2,2,Wolves,39374,Goodison Park,Anthony Taylor,2019-2020
+4,01-09-2019,16:30,Arsenal,2.4,2—2,2,Tottenham,60333,Emirates Stadium,Martin Atkinson,2019-2020
+4,31-08-2019,12:30,Southampton,0.9,1—1,1.5,Manchester Utd,30499,St. Mary's Stadium,Mike Dean,2019-2020
+4,31-08-2019,15:00,West Ham,2,2—0,1.4,Norwich City,59950,London Stadium,Paul Tierney,2019-2020
+4,31-08-2019,15:00,Crystal Palace,1.4,1—0,0.4,Aston Villa,25248,Selhurst Park,Kevin Friend,2019-2020
+4,31-08-2019,15:00,Leicester City,2,3—1,0.6,Bournemouth,31613,King Power Stadium,Peter Bankes,2019-2020
+4,31-08-2019,15:00,Chelsea,2,2—2,1.1,Sheffield Utd,40560,Stamford Bridge,Stuart Attwell,2019-2020
+4,31-08-2019,15:00,Newcastle Utd,1,1—1,1,Watford,44157,St. James' Park,Graham Scott,2019-2020
+4,31-08-2019,15:00,Manchester City,1.9,4—0,0.9,Brighton,54386,Etihad Stadium,Jonathan Moss,2019-2020
+4,31-08-2019,17:30,Burnley,0.9,0—3,1,Liverpool,21762,Turf Moor,Chris Kavanagh,2019-2020
+3,25-08-2019,14:00,Bournemouth,2.2,1—3,3,Manchester City,10486,Vitality Stadium,Andre Marriner,2019-2020
+3,25-08-2019,16:30,Wolves,1.5,1—1,1.6,Burnley,30522,Molineux Stadium,Craig Pawson,2019-2020
+3,25-08-2019,16:30,Tottenham,1.1,0—1,0.8,Newcastle Utd,59245,Tottenham Hotspur Stadium,Mike Dean,2019-2020
+3,24-08-2019,12:30,Norwich City,1.1,2—3,1.5,Chelsea,27032,Carrow Road,Martin Atkinson,2019-2020
+3,24-08-2019,15:00,Sheffield Utd,0.3,1—2,0.8,Leicester City,30079,Bramall Lane,Andy Madley,2019-2020
+3,24-08-2019,15:00,Manchester Utd,2.5,1—2,1.1,Crystal Palace,73454,Old Trafford,Paul Tierney,2019-2020
+3,24-08-2019,15:00,Watford,2.3,1—3,3.5,West Ham,20035,Vicarage Road Stadium,Chris Kavanagh,2019-2020
+3,24-08-2019,15:00,Brighton,0.8,0—2,1.7,Southampton,30019,The American Express Community Stadium,Kevin Friend,2019-2020
+3,24-08-2019,17:30,Liverpool,2.5,3—1,1,Arsenal,53298,Anfield,Anthony Taylor,2019-2020
+3,23-08-2019,20:00,Aston Villa,1,2—0,1.3,Everton,41922,Villa Park,Michael Oliver,2019-2020
+2,19-08-2019,20:00,Wolves,0.3,1—1,1.2,Manchester Utd,31314,Molineux Stadium,Jonathan Moss,2019-2020
+2,18-08-2019,14:00,Sheffield Utd,2.2,1—0,0.3,Crystal Palace,30197,Bramall Lane,David Coote,2019-2020
+2,18-08-2019,16:30,Chelsea,1.1,1—1,0.8,Leicester City,40629,Stamford Bridge,Oliver Langford,2019-2020
+2,17-08-2019,12:30,Arsenal,0.8,2—1,1.5,Burnley,60214,Emirates Stadium,Mike Dean,2019-2020
+2,17-08-2019,15:00,Norwich City,1.7,3—1,0.9,Newcastle Utd,27059,Carrow Road,Stuart Attwell,2019-2020
+2,17-08-2019,15:00,Aston Villa,2,1—2,1.6,Bournemouth,40996,Villa Park,Martin Atkinson,2019-2020
+2,17-08-2019,15:00,Brighton,2,1—1,0.8,West Ham,30459,The American Express Community Stadium,Anthony Taylor,2019-2020
+2,17-08-2019,15:00,Southampton,1.9,1—2,1.3,Liverpool,31712,St. Mary's Stadium,Andre Marriner,2019-2020
+2,17-08-2019,15:00,Everton,0.7,1—0,1.2,Watford,39066,Goodison Park,Lee Mason,2019-2020
+2,17-08-2019,17:30,Manchester City,2.9,2—2,0.1,Tottenham,54503,Etihad Stadium,Michael Oliver,2019-2020
+1,11-08-2019,14:00,Newcastle Utd,0.4,0—1,1.1,Arsenal,47635,St. James' Park,Martin Atkinson,2019-2020
+1,11-08-2019,14:00,Leicester City,0.7,0—0,0.7,Wolves,32015,King Power Stadium,Andre Marriner,2019-2020
+1,11-08-2019,16:30,Manchester Utd,2.2,4—0,1,Chelsea,73620,Old Trafford,Anthony Taylor,2019-2020
+1,10-08-2019,12:30,West Ham,1.1,0—5,3.2,Manchester City,59870,London Stadium,Mike Dean,2019-2020
+1,10-08-2019,15:00,Burnley,0.9,3—0,1.2,Southampton,19784,Turf Moor,Graham Scott,2019-2020
+1,10-08-2019,15:00,Watford,0.7,0—3,0.8,Brighton,20245,Vicarage Road Stadium,Craig Pawson,2019-2020
+1,10-08-2019,15:00,Crystal Palace,0.9,0—0,1.1,Everton,25151,Selhurst Park,Jonathan Moss,2019-2020
+1,10-08-2019,15:00,Bournemouth,1.3,1—1,1.3,Sheffield Utd,10714,Vitality Stadium,Kevin Friend,2019-2020
+1,10-08-2019,17:30,Tottenham,2.4,3—1,0.7,Aston Villa,60407,Tottenham Hotspur Stadium,Chris Kavanagh,2019-2020
+1,09-08-2019,20:00,Liverpool,1.8,4—1,0.9,Norwich City,53333,Anfield,Michael Oliver,2019-2020
+38,12-05-2019,15:00,Southampton,0.6,1—1,0.7,Huddersfield,30367,St. Mary's Stadium,Lee Probert,2018-2019
+38,12-05-2019,15:00,Brighton,0.5,1—4,1.6,Manchester City,30662,The American Express Community Stadium,Michael Oliver,2018-2019
+38,12-05-2019,15:00,Leicester City,0.4,0—0,1.5,Chelsea,32140,King Power Stadium,Anthony Taylor,2018-2019
+38,12-05-2019,15:00,Crystal Palace,2.8,5—3,1.6,Bournemouth,25433,Selhurst Park,Roger East,2018-2019
+38,12-05-2019,15:00,Burnley,1.7,1—3,2.7,Arsenal,21461,Turf Moor,Mike Dean,2018-2019
+38,12-05-2019,15:00,Tottenham,0.6,2—2,2,Everton,60124,Tottenham Hotspur Stadium,Andre Marriner,2018-2019
+38,12-05-2019,15:00,Liverpool,1.6,2—0,1.3,Wolves,53331,Anfield,Martin Atkinson,2018-2019
+38,12-05-2019,15:00,Manchester Utd,1.5,0—2,1.6,Cardiff City,74457,Old Trafford,Jonathan Moss,2018-2019
+38,12-05-2019,15:00,Fulham,0.7,0—4,2.1,Newcastle Utd,24979,Craven Cottage,Kevin Friend,2018-2019
+38,12-05-2019,15:00,Watford,2.2,1—4,3.1,West Ham,20067,Vicarage Road Stadium,Chris Kavanagh,2018-2019
+37,06-05-2019,20:00,Manchester City,1,1—0,0.5,Leicester City,54506,Etihad Stadium,Mike Dean,2018-2019
+37,05-05-2019,14:00,Huddersfield,1,1—1,1.8,Manchester Utd,24263,The John Smith's Stadium,Lee Mason,2018-2019
+37,05-05-2019,14:00,Chelsea,2.3,3—0,1.7,Watford,40560,Stamford Bridge,Paul Tierney,2018-2019
+37,05-05-2019,16:30,Arsenal,2.4,1—1,1.9,Brighton,59965,Emirates Stadium,Anthony Taylor,2018-2019
+37,04-05-2019,12:30,Bournemouth,1.7,1—0,0.7,Tottenham,10630,Vitality Stadium,Craig Pawson,2018-2019
+37,04-05-2019,15:00,Wolves,2,1—0,0.5,Fulham,30456,Molineux Stadium,Jonathan Moss,2018-2019
+37,04-05-2019,15:00,West Ham,1.9,3—0,0.5,Southampton,59961,London Stadium,Stuart Attwell,2018-2019
+37,04-05-2019,17:30,Cardiff City,1.9,2—3,1.6,Crystal Palace,32133,Cardiff City Stadium,Michael Oliver,2018-2019
+37,04-05-2019,19:45,Newcastle Utd,1.4,2—3,1.2,Liverpool,52206,St. James' Park,Andre Marriner,2018-2019
+37,03-05-2019,20:00,Everton,1.7,2—0,0.3,Burnley,39303,Goodison Park,Chris Kavanagh,2018-2019
+36,28-04-2019,12:00,Leicester City,3.3,3—0,0.6,Arsenal,32037,King Power Stadium,Michael Oliver,2018-2019
+36,28-04-2019,14:05,Burnley,0.1,0—1,2.5,Manchester City,21605,Turf Moor,Paul Tierney,2018-2019
+36,28-04-2019,16:30,Manchester Utd,1.1,1—1,1.7,Chelsea,74526,Old Trafford,Martin Atkinson,2018-2019
+36,27-04-2019,12:30,Tottenham,1.6,0—1,1.1,West Ham,60043,Tottenham Hotspur Stadium,Anthony Taylor,2018-2019
+36,27-04-2019,15:00,Watford,0.8,1—2,2,Wolves,20323,Vicarage Road Stadium,Simon Hooper,2018-2019
+36,27-04-2019,15:00,Fulham,0.5,1—0,1.1,Cardiff City,23822,Craven Cottage,Chris Kavanagh,2018-2019
+36,27-04-2019,15:00,Southampton,2.5,3—3,2.3,Bournemouth,31310,St. Mary's Stadium,Graham Scott,2018-2019
+36,27-04-2019,15:00,Crystal Palace,0.3,0—0,1.5,Everton,25789,Selhurst Park,Lee Mason,2018-2019
+36,27-04-2019,17:30,Brighton,1.3,1—1,0.4,Newcastle Utd,30587,The American Express Community Stadium,Mike Dean,2018-2019
+36,26-04-2019,20:00,Liverpool,3.1,5—0,0.2,Huddersfield,53249,Anfield,Kevin Friend,2018-2019
+31,24-04-2019,19:45,Wolves,1.2,3—1,0.8,Arsenal,31436,Molineux Stadium,Stuart Attwell,2018-2019
+31,24-04-2019,20:00,Manchester Utd,0.5,0—2,0.5,Manchester City,74431,Old Trafford,Andre Marriner,2018-2019
+31,23-04-2019,19:45,Watford,1.3,1—1,2,Southampton,19170,Vicarage Road Stadium,Mike Dean,2018-2019
+33,23-04-2019,19:45,Tottenham,1.3,1—0,0.3,Brighton,56251,Tottenham Hotspur Stadium,Chris Kavanagh,2018-2019
+35,22-04-2019,20:00,Chelsea,1.3,2—2,0.7,Burnley,40642,Stamford Bridge,Kevin Friend,2018-2019
+35,21-04-2019,13:30,Everton,1.6,4—0,0.3,Manchester Utd,39395,Goodison Park,Paul Tierney,2018-2019
+35,21-04-2019,16:00,Arsenal,1.2,2—3,1.6,Crystal Palace,59929,Emirates Stadium,Jonathan Moss,2018-2019
+35,21-04-2019,16:00,Cardiff City,1.1,0—2,3,Liverpool,33082,Cardiff City Stadium,Martin Atkinson,2018-2019
+35,20-04-2019,12:30,Manchester City,1.9,1—0,1,Tottenham,54489,Etihad Stadium,Michael Oliver,2018-2019
+35,20-04-2019,15:00,West Ham,1.2,2—2,0.9,Leicester City,59960,London Stadium,Lee Probert,2018-2019
+35,20-04-2019,15:00,Bournemouth,2.2,0—1,2.5,Fulham,10511,Vitality Stadium,David Coote,2018-2019
+35,20-04-2019,15:00,Huddersfield,1,1—2,0.9,Watford,23957,The John Smith's Stadium,Roger East,2018-2019
+35,20-04-2019,15:00,Wolves,2.7,0—0,0.2,Brighton,31096,Molineux Stadium,Craig Pawson,2018-2019
+35,20-04-2019,17:30,Newcastle Utd,1.4,3—1,1.2,Southampton,52191,St. James' Park,Anthony Taylor,2018-2019
+31,16-04-2019,19:45,Brighton,0.6,0—2,0.9,Cardiff City,30226,The American Express Community Stadium,Andre Marriner,2018-2019
+34,15-04-2019,20:00,Watford,1,0—1,2.3,Arsenal,20480,Vicarage Road Stadium,Craig Pawson,2018-2019
+34,14-04-2019,14:05,Crystal Palace,0.4,1—3,2.5,Manchester City,25721,Selhurst Park,Martin Atkinson,2018-2019
+34,14-04-2019,16:30,Liverpool,1.2,2—0,0.7,Chelsea,53279,Anfield,Michael Oliver,2018-2019
+34,13-04-2019,12:30,Tottenham,2.5,4—0,0.8,Huddersfield,58308,Tottenham Hotspur Stadium,Lee Mason,2018-2019
+34,13-04-2019,15:00,Burnley,2.6,2—0,0.9,Cardiff City,21480,Turf Moor,Mike Dean,2018-2019
+34,13-04-2019,15:00,Fulham,1.5,2—0,1.1,Everton,24971,Craven Cottage,Lee Probert,2018-2019
+34,13-04-2019,15:00,Southampton,2.9,3—1,0.8,Wolves,31708,St. Mary's Stadium,Jonathan Moss,2018-2019
+34,13-04-2019,15:00,Brighton,0.3,0—5,2.5,Bournemouth,30460,The American Express Community Stadium,Kevin Friend,2018-2019
+34,13-04-2019,17:30,Manchester Utd,2.5,2—1,1.4,West Ham,74478,Old Trafford,Graham Scott,2018-2019
+34,12-04-2019,20:00,Leicester City,1,0—1,1.1,Newcastle Utd,32108,King Power Stadium,Chris Kavanagh,2018-2019
+33,08-04-2019,20:00,Chelsea,1.9,2—0,0.6,West Ham,40537,Stamford Bridge,Chris Kavanagh,2018-2019
+33,07-04-2019,14:05,Everton,2.4,1—0,0.3,Arsenal,39400,Goodison Park,Kevin Friend,2018-2019
+33,06-04-2019,15:00,Huddersfield,1.7,1—4,3.5,Leicester City,24126,The John Smith's Stadium,David Coote,2018-2019
+33,06-04-2019,15:00,Bournemouth,1.1,1—3,1.2,Burnley,10446,Vitality Stadium,Martin Atkinson,2018-2019
+33,06-04-2019,15:00,Newcastle Utd,0.9,0—1,0.9,Crystal Palace,51926,St. James' Park,Stuart Attwell,2018-2019
+33,05-04-2019,20:00,Southampton,0.9,1—3,1.9,Liverpool,31797,St. Mary's Stadium,Paul Tierney,2018-2019
+27,03-04-2019,19:45,Chelsea,2.7,3—0,0.4,Brighton,38593,Stamford Bridge,Graham Scott,2018-2019
+31,03-04-2019,19:45,Tottenham,2.1,2—0,0.3,Crystal Palace,59215,Tottenham Hotspur Stadium,Andre Marriner,2018-2019
+33,03-04-2019,19:45,Manchester City,3.2,2—0,0.1,Cardiff City,53559,Etihad Stadium,Jonathan Moss,2018-2019
+33,02-04-2019,19:45,Wolves,1.8,2—1,1.8,Manchester Utd,31302,Molineux Stadium,Mike Dean,2018-2019
+33,02-04-2019,19:45,Watford,1.2,4—1,1.6,Fulham,17301,Vicarage Road Stadium,Roger East,2018-2019
+32,01-04-2019,20:00,Arsenal,0.8,2—0,0.1,Newcastle Utd,59869,Emirates Stadium,Anthony Taylor,2018-2019
+32,31-03-2019,14:05,Cardiff City,0.5,1—2,1.8,Chelsea,32657,Cardiff City Stadium,Craig Pawson,2018-2019
+32,31-03-2019,16:30,Liverpool,1,2—1,0.7,Tottenham,53322,Anfield,Martin Atkinson,2018-2019
+32,30-03-2019,12:30,Fulham,0.5,0—2,1.8,Manchester City,25001,Craven Cottage,Kevin Friend,2018-2019
+32,30-03-2019,15:00,Burnley,0.5,2—0,0.5,Wolves,20990,Turf Moor,Chris Kavanagh,2018-2019
+32,30-03-2019,15:00,Crystal Palace,2.7,2—0,1.1,Huddersfield,25193,Selhurst Park,Lee Probert,2018-2019
+32,30-03-2019,15:00,Leicester City,1.3,2—0,0.8,Bournemouth,31530,King Power Stadium,Lee Mason,2018-2019
+32,30-03-2019,15:00,Brighton,0.7,0—1,0.7,Southampton,30636,The American Express Community Stadium,Michael Oliver,2018-2019
+32,30-03-2019,15:00,Manchester Utd,1.6,2—1,1.5,Watford,74543,Old Trafford,Stuart Attwell,2018-2019
+32,30-03-2019,17:30,West Ham,0.1,0—2,1.8,Everton,59988,London Stadium,Paul Tierney,2018-2019
+31,17-03-2019,14:15,Fulham,1.1,1—2,2.6,Liverpool,25043,Craven Cottage,Craig Pawson,2018-2019
+31,17-03-2019,16:30,Everton,2.3,2—0,1.4,Chelsea,39356,Goodison Park,Anthony Taylor,2018-2019
+31,16-03-2019,15:00,West Ham,1.7,4—3,1,Huddersfield,59931,London Stadium,Jonathan Moss,2018-2019
+31,16-03-2019,15:00,Burnley,1,1—2,0.9,Leicester City,20719,Turf Moor,Michael Oliver,2018-2019
+31,16-03-2019,15:00,Bournemouth,1.3,2—2,1.1,Newcastle Utd,10625,Vitality Stadium,Mike Dean,2018-2019
+30,10-03-2019,12:00,Liverpool,4,4—2,0.4,Burnley,53310,Anfield,Andre Marriner,2018-2019
+30,10-03-2019,14:05,Chelsea,1.1,1—1,0.5,Wolves,40692,Stamford Bridge,Michael Oliver,2018-2019
+30,10-03-2019,16:30,Arsenal,1.7,2—0,2.3,Manchester Utd,60000,Emirates Stadium,Jonathan Moss,2018-2019
+30,09-03-2019,12:30,Crystal Palace,1.5,1—2,0.2,Brighton,24972,Selhurst Park,Craig Pawson,2018-2019
+30,09-03-2019,15:00,Newcastle Utd,2.4,3—2,1.1,Everton,52242,St. James' Park,Lee Mason,2018-2019
+30,09-03-2019,15:00,Cardiff City,3.5,2—0,0.3,West Ham,32458,Cardiff City Stadium,Graham Scott,2018-2019
+30,09-03-2019,15:00,Huddersfield,0.3,0—2,1.9,Bournemouth,22304,The John Smith's Stadium,Anthony Taylor,2018-2019
+30,09-03-2019,15:00,Leicester City,2,3—1,0.2,Fulham,32017,King Power Stadium,David Coote,2018-2019
+30,09-03-2019,15:00,Southampton,2.1,2—1,1.3,Tottenham,31890,St. Mary's Stadium,Kevin Friend,2018-2019
+30,09-03-2019,17:30,Manchester City,3.4,3—1,0.2,Watford,54104,Etihad Stadium,Paul Tierney,2018-2019
+29,03-03-2019,12:00,Watford,0.8,2—1,0.9,Leicester City,20062,Vicarage Road Stadium,Jonathan Moss,2018-2019
+29,03-03-2019,14:05,Fulham,0.8,1—2,1.2,Chelsea,24900,Craven Cottage,Graham Scott,2018-2019
+29,03-03-2019,16:15,Everton,0.3,0—0,1.1,Liverpool,39335,Goodison Park,Martin Atkinson,2018-2019
+29,02-03-2019,12:30,Tottenham,1.6,1—1,2.6,Arsenal,81332,Tottenham Hotspur Stadium,Anthony Taylor,2018-2019
+29,02-03-2019,15:00,Manchester Utd,2.2,3—2,0.4,Southampton,74459,Old Trafford,Stuart Attwell,2018-2019
+29,02-03-2019,15:00,Wolves,2.8,2—0,0.6,Cardiff City,31309,Molineux Stadium,Andre Marriner,2018-2019
+29,02-03-2019,15:00,Bournemouth,0,0—1,1.2,Manchester City,10699,Vitality Stadium,Kevin Friend,2018-2019
+29,02-03-2019,15:00,Brighton,1.2,1—0,0.2,Huddersfield,30182,The American Express Community Stadium,Mike Dean,2018-2019
+29,02-03-2019,15:00,Burnley,2.1,1—3,0.5,Crystal Palace,19223,Turf Moor,Lee Probert,2018-2019
+29,02-03-2019,17:30,West Ham,2,2—0,1.1,Newcastle Utd,59910,London Stadium,Chris Kavanagh,2018-2019
+28,27-02-2019,19:45,Arsenal,2.5,5—1,0.9,Bournemouth,59618,Emirates Stadium,Chris Kavanagh,2018-2019
+28,27-02-2019,19:45,Southampton,1.3,2—0,0.8,Fulham,27597,St. Mary's Stadium,Anthony Taylor,2018-2019
+28,27-02-2019,20:00,Crystal Palace,1.7,1—3,1,Manchester Utd,25754,Selhurst Park,Martin Atkinson,2018-2019
+28,27-02-2019,20:00,Chelsea,0.6,2—0,0.6,Tottenham,40542,Stamford Bridge,Andre Marriner,2018-2019
+28,27-02-2019,20:00,Liverpool,1.9,5—0,0.3,Watford,53316,Anfield,Graham Scott,2018-2019
+28,27-02-2019,20:00,Manchester City,3.5,1—0,0.4,West Ham,53528,Etihad Stadium,Stuart Attwell,2018-2019
+28,26-02-2019,19:45,Cardiff City,0.3,0—3,1,Everton,31849,Cardiff City Stadium,Kevin Friend,2018-2019
+28,26-02-2019,19:45,Huddersfield,1.6,1—0,0.6,Wolves,22714,The John Smith's Stadium,David Coote,2018-2019
+28,26-02-2019,19:45,Leicester City,1.8,2—1,1.2,Brighton,30558,King Power Stadium,Lee Probert,2018-2019
+28,26-02-2019,20:00,Newcastle Utd,1.4,2—0,1.6,Burnley,48323,St. James' Park,Craig Pawson,2018-2019
+27,24-02-2019,14:05,Arsenal,2.1,2—0,0.8,Southampton,59877,Emirates Stadium,Graham Scott,2018-2019
+27,24-02-2019,14:05,Manchester Utd,0.3,0—0,0.5,Liverpool,74519,Old Trafford,Michael Oliver,2018-2019
+27,23-02-2019,12:30,Burnley,1.2,2—1,0.9,Tottenham,21338,Turf Moor,Mike Dean,2018-2019
+27,23-02-2019,15:00,Bournemouth,2.4,1—1,1.5,Wolves,10671,Vitality Stadium,Roger East,2018-2019
+27,23-02-2019,15:00,Newcastle Utd,2.8,2—0,0.2,Huddersfield,52174,St. James' Park,Kevin Friend,2018-2019
+27,23-02-2019,17:30,Leicester City,1.2,1—4,1.7,Crystal Palace,31778,King Power Stadium,Anthony Taylor,2018-2019
+27,22-02-2019,19:45,West Ham,2.4,3—1,1.3,Fulham,59950,London Stadium,Lee Mason,2018-2019
+27,22-02-2019,19:45,Cardiff City,2,1—5,2.1,Watford,30387,Cardiff City Stadium,Simon Hooper,2018-2019
+26,11-02-2019,20:00,Wolves,2.3,1—1,0.4,Newcastle Utd,30687,Molineux Stadium,Graham Scott,2018-2019
+26,10-02-2019,13:30,Tottenham,1.1,3—1,3.3,Leicester City,44154,Tottenham Hotspur Stadium,Michael Oliver,2018-2019
+26,10-02-2019,16:00,Manchester City,3,6—0,0.9,Chelsea,54452,Etihad Stadium,Mike Dean,2018-2019
+26,09-02-2019,12:30,Fulham,2.2,0—3,1.9,Manchester Utd,25001,Craven Cottage,Paul Tierney,2018-2019
+26,09-02-2019,15:00,Crystal Palace,2.6,1—1,1.7,West Ham,25552,Selhurst Park,Craig Pawson,2018-2019
+26,09-02-2019,15:00,Liverpool,2,3—0,0.4,Bournemouth,53178,Anfield,Anthony Taylor,2018-2019
+26,09-02-2019,15:00,Southampton,1.5,1—2,0.8,Cardiff City,31438,St. Mary's Stadium,Martin Atkinson,2018-2019
+26,09-02-2019,15:00,Watford,1.3,1—0,0.7,Everton,20333,Vicarage Road Stadium,Lee Probert,2018-2019
+26,09-02-2019,15:00,Huddersfield,1.6,1—2,1.4,Arsenal,24182,The John Smith's Stadium,Jonathan Moss,2018-2019
+26,09-02-2019,17:30,Brighton,1.1,1—3,2.1,Burnley,29323,The American Express Community Stadium,Stuart Attwell,2018-2019
+27,06-02-2019,19:45,Everton,0.1,0—2,2.2,Manchester City,39322,Goodison Park,Craig Pawson,2018-2019
+25,04-02-2019,20:00,West Ham,0.8,1—1,1.1,Liverpool,59903,London Stadium,Kevin Friend,2018-2019
+25,03-02-2019,14:05,Leicester City,1.5,0—1,1.3,Manchester Utd,32148,King Power Stadium,Mike Dean,2018-2019
+25,03-02-2019,16:30,Manchester City,2.7,3—1,0.7,Arsenal,54483,Etihad Stadium,Martin Atkinson,2018-2019
+25,02-02-2019,12:30,Tottenham,2.2,1—0,0.4,Newcastle Utd,41219,Wembley Stadium,Andre Marriner,2018-2019
+25,02-02-2019,15:00,Brighton,1.6,0—0,0.3,Watford,30414,The American Express Community Stadium,Simon Hooper,2018-2019
+25,02-02-2019,15:00,Chelsea,2.6,5—0,0.3,Huddersfield,40626,Stamford Bridge,Paul Tierney,2018-2019
+25,02-02-2019,15:00,Everton,1.2,1—3,1.4,Wolves,39380,Goodison Park,Lee Mason,2018-2019
+25,02-02-2019,15:00,Burnley,2.4,1—1,0.7,Southampton,19787,Turf Moor,Anthony Taylor,2018-2019
+25,02-02-2019,15:00,Crystal Palace,2.2,2—0,0.6,Fulham,25355,Selhurst Park,Michael Oliver,2018-2019
+25,02-02-2019,17:30,Cardiff City,2.1,2—0,0.5,Bournemouth,31939,Cardiff City Stadium,Jonathan Moss,2018-2019
+24,30-01-2019,19:45,Bournemouth,2,4—0,0.7,Chelsea,10227,Vitality Stadium,Roger East,2018-2019
+24,30-01-2019,19:45,Southampton,1.2,1—1,1.1,Crystal Palace,28339,St. Mary's Stadium,Andre Marriner,2018-2019
+24,30-01-2019,20:00,Tottenham,1.7,2—1,0.5,Watford,29164,Tottenham Hotspur Stadium,Graham Scott,2018-2019
+24,30-01-2019,20:00,Liverpool,0.6,1—1,1.1,Leicester City,53092,Anfield,Martin Atkinson,2018-2019
+24,29-01-2019,19:45,Fulham,3.3,4—2,2.2,Brighton,22008,Craven Cottage,Lee Probert,2018-2019
+24,29-01-2019,19:45,Huddersfield,0.7,0—1,1.1,Everton,23699,The John Smith's Stadium,Stuart Attwell,2018-2019
+24,29-01-2019,19:45,Wolves,2.2,3—0,0.2,West Ham,31122,Molineux Stadium,David Coote,2018-2019
+24,29-01-2019,19:45,Arsenal,2.6,2—1,0.8,Cardiff City,59933,Emirates Stadium,Mike Dean,2018-2019
+24,29-01-2019,20:00,Newcastle Utd,1.1,2—1,1.4,Manchester City,50861,St. James' Park,Paul Tierney,2018-2019
+24,29-01-2019,20:00,Manchester Utd,3.1,2—2,0.8,Burnley,74529,Old Trafford,Jonathan Moss,2018-2019
+23,20-01-2019,13:30,Huddersfield,0.9,0—3,2,Manchester City,24190,The John Smith's Stadium,Andre Marriner,2018-2019
+23,20-01-2019,16:00,Fulham,0.9,1—2,1.7,Tottenham,24807,Craven Cottage,Craig Pawson,2018-2019
+23,19-01-2019,12:30,Wolves,1.9,4—3,1.9,Leicester City,31278,Molineux Stadium,Chris Kavanagh,2018-2019
+23,19-01-2019,15:00,Bournemouth,1.1,2—0,1.1,West Ham,10495,Vitality Stadium,Simon Hooper,2018-2019
+23,19-01-2019,15:00,Newcastle Utd,2,3—0,0.3,Cardiff City,49864,St. James' Park,Stuart Attwell,2018-2019
+23,19-01-2019,15:00,Manchester Utd,2.4,2—1,0.8,Brighton,74532,Old Trafford,Paul Tierney,2018-2019
+23,19-01-2019,15:00,Southampton,0.7,2—1,0.9,Everton,29989,St. Mary's Stadium,Graham Scott,2018-2019
+23,19-01-2019,15:00,Liverpool,2.6,4—3,0.7,Crystal Palace,53171,Anfield,Jonathan Moss,2018-2019
+23,19-01-2019,15:00,Watford,1.3,0—0,1.8,Burnley,19510,Vicarage Road Stadium,Michael Oliver,2018-2019
+23,19-01-2019,17:30,Arsenal,1.5,2—0,0.9,Chelsea,59979,Emirates Stadium,Anthony Taylor,2018-2019
+22,14-01-2019,20:00,Manchester City,2.8,3—0,0.1,Wolves,54171,Etihad Stadium,Craig Pawson,2018-2019
+22,13-01-2019,14:15,Everton,1,2—0,1.9,Bournemouth,38113,Goodison Park,Anthony Taylor,2018-2019
+22,13-01-2019,16:30,Tottenham,1.8,0—1,0.8,Manchester Utd,80062,Tottenham Hotspur Stadium,Mike Dean,2018-2019
+22,12-01-2019,12:30,West Ham,0.6,1—0,0.7,Arsenal,59946,London Stadium,Jonathan Moss,2018-2019
+22,12-01-2019,15:00,Burnley,0.8,2—1,0.8,Fulham,19316,Turf Moor,Martin Atkinson,2018-2019
+22,12-01-2019,15:00,Brighton,0.4,0—1,2,Liverpool,30682,The American Express Community Stadium,Kevin Friend,2018-2019
+22,12-01-2019,15:00,Crystal Palace,1.3,1—2,1.6,Watford,25010,Selhurst Park,Paul Tierney,2018-2019
+22,12-01-2019,15:00,Cardiff City,0.1,0—0,0.5,Huddersfield,30725,Cardiff City Stadium,Lee Mason,2018-2019
+22,12-01-2019,15:00,Leicester City,1.7,1—2,1.5,Southampton,31491,King Power Stadium,Michael Oliver,2018-2019
+22,12-01-2019,17:30,Chelsea,1.3,2—1,0.5,Newcastle Utd,40491,Stamford Bridge,Chris Kavanagh,2018-2019
+21,03-01-2019,20:00,Manchester City,1.1,2—1,1.5,Liverpool,54511,Etihad Stadium,Anthony Taylor,2018-2019
+21,02-01-2019,19:45,Wolves,0.5,0—2,1.9,Crystal Palace,30666,Molineux Stadium,Roger East,2018-2019
+21,02-01-2019,19:45,West Ham,0.8,2—2,0.7,Brighton,59870,London Stadium,Chris Kavanagh,2018-2019
+21,02-01-2019,19:45,Bournemouth,2.2,3—3,0.9,Watford,10261,Vitality Stadium,David Coote,2018-2019
+21,02-01-2019,19:45,Chelsea,0.9,0—0,0.2,Southampton,40668,Stamford Bridge,Jonathan Moss,2018-2019
+21,02-01-2019,19:45,Huddersfield,0.9,1—2,2.4,Burnley,23715,The John Smith's Stadium,Mike Dean,2018-2019
+21,02-01-2019,20:00,Newcastle Utd,0.7,0—2,2.6,Manchester Utd,52217,St. James' Park,Andre Marriner,2018-2019
+21,01-01-2019,12:30,Everton,1,0—1,0.6,Leicester City,39052,Goodison Park,Martin Atkinson,2018-2019
+21,01-01-2019,15:00,Arsenal,4.5,4—1,1.4,Fulham,59887,Emirates Stadium,Graham Scott,2018-2019
+21,01-01-2019,17:30,Cardiff City,0.9,0—3,1.1,Tottenham,32485,Cardiff City Stadium,Kevin Friend,2018-2019
+20,30-12-2018,12:00,Crystal Palace,0.2,0—1,0.9,Chelsea,25781,Selhurst Park,Craig Pawson,2018-2019
+20,30-12-2018,14:15,Southampton,0.2,1—3,2.5,Manchester City,31381,St. Mary's Stadium,Paul Tierney,2018-2019
+20,30-12-2018,14:15,Burnley,2.7,2—0,0.8,West Ham,20933,Turf Moor,David Coote,2018-2019
+20,30-12-2018,16:30,Manchester Utd,2.9,4—1,0.5,Bournemouth,74556,Old Trafford,Lee Mason,2018-2019
+20,29-12-2018,15:00,Watford,1.3,1—1,0.7,Newcastle Utd,20336,Vicarage Road Stadium,Roger East,2018-2019
+20,29-12-2018,15:00,Fulham,1.8,1—0,0.4,Huddersfield,24423,Craven Cottage,Kevin Friend,2018-2019
+20,29-12-2018,15:00,Brighton,1.1,1—0,0.7,Everton,30597,The American Express Community Stadium,Andy Madley,2018-2019
+20,29-12-2018,15:00,Leicester City,1.8,0—1,0.6,Cardiff City,32047,King Power Stadium,Simon Hooper,2018-2019
+20,29-12-2018,15:00,Tottenham,0.3,1—3,0.9,Wolves,46356,Tottenham Hotspur Stadium,Stuart Attwell,2018-2019
+20,29-12-2018,17:30,Liverpool,3.8,5—1,1,Arsenal,53326,Anfield,Michael Oliver,2018-2019
+19,27-12-2018,19:45,Southampton,1.2,1—2,1.2,West Ham,31654,St. Mary's Stadium,Craig Pawson,2018-2019
+19,26-12-2018,12:30,Fulham,1.2,1—1,1.4,Wolves,24382,Craven Cottage,Andre Marriner,2018-2019
+19,26-12-2018,15:00,Burnley,2,1—5,1.5,Everton,21484,Turf Moor,Michael Oliver,2018-2019
+19,26-12-2018,15:00,Manchester Utd,1.5,3—1,1.1,Huddersfield,74523,Old Trafford,Jonathan Moss,2018-2019
+19,26-12-2018,15:00,Liverpool,2.9,4—0,0.5,Newcastle Utd,53318,Anfield,Graham Scott,2018-2019
+19,26-12-2018,15:00,Leicester City,1.3,2—1,1.4,Manchester City,32090,King Power Stadium,Mike Dean,2018-2019
+19,26-12-2018,15:00,Tottenham,1.7,5—0,1.1,Bournemouth,45154,Tottenham Hotspur Stadium,Chris Kavanagh,2018-2019
+19,26-12-2018,15:00,Crystal Palace,2.1,0—0,0.9,Cardiff City,25206,Selhurst Park,Lee Probert,2018-2019
+19,26-12-2018,17:15,Brighton,1.1,1—1,0.8,Arsenal,30608,The American Express Community Stadium,Anthony Taylor,2018-2019
+19,26-12-2018,19:30,Watford,1.2,1—2,1.9,Chelsea,20415,Vicarage Road Stadium,Martin Atkinson,2018-2019
+18,23-12-2018,16:00,Everton,0.9,2—6,2,Tottenham,39319,Goodison Park,Paul Tierney,2018-2019
+18,22-12-2018,12:30,Arsenal,1.6,3—1,1.2,Burnley,59493,Emirates Stadium,Kevin Friend,2018-2019
+18,22-12-2018,15:00,Bournemouth,0.8,2—0,0.8,Brighton,10491,Vitality Stadium,Mike Dean,2018-2019
+18,22-12-2018,15:00,Manchester City,1.5,2—3,0.9,Crystal Palace,54340,Etihad Stadium,Andre Marriner,2018-2019
+18,22-12-2018,15:00,West Ham,2,0—2,2.3,Watford,56833,London Stadium,Lee Mason,2018-2019
+18,22-12-2018,15:00,Huddersfield,0.8,1—3,2.5,Southampton,22384,The John Smith's Stadium,Stuart Attwell,2018-2019
+18,22-12-2018,15:00,Chelsea,2.4,0—1,0.5,Leicester City,40558,Stamford Bridge,Lee Probert,2018-2019
+18,22-12-2018,15:00,Newcastle Utd,0.4,0—0,0.2,Fulham,51237,St. James' Park,Martin Atkinson,2018-2019
+18,22-12-2018,17:30,Cardiff City,1.4,1—5,2.8,Manchester Utd,33028,Cardiff City Stadium,Michael Oliver,2018-2019
+18,21-12-2018,20:00,Wolves,0.9,0—2,1.9,Liverpool,31358,Molineux Stadium,Craig Pawson,2018-2019
+17,16-12-2018,13:30,Southampton,1.3,3—2,1.9,Arsenal,29497,St. Mary's Stadium,Chris Kavanagh,2018-2019
+17,16-12-2018,13:30,Brighton,0.4,1—2,1.2,Chelsea,30645,The American Express Community Stadium,Stuart Attwell,2018-2019
+17,16-12-2018,16:00,Liverpool,2.5,3—1,0.7,Manchester Utd,52908,Anfield,Martin Atkinson,2018-2019
+17,15-12-2018,12:30,Manchester City,1.7,3—1,1.5,Everton,54173,Etihad Stadium,Craig Pawson,2018-2019
+17,15-12-2018,15:00,Watford,1.4,3—2,0.9,Cardiff City,20032,Vicarage Road Stadium,Andy Madley,2018-2019
+17,15-12-2018,15:00,Tottenham,1.7,1—0,0.5,Burnley,41645,Tottenham Hotspur Stadium,Graham Scott,2018-2019
+17,15-12-2018,15:00,Huddersfield,0.8,0—1,0.6,Newcastle Utd,24036,The John Smith's Stadium,Anthony Taylor,2018-2019
+17,15-12-2018,15:00,Crystal Palace,0.5,1—0,1,Leicester City,24738,Selhurst Park,Michael Oliver,2018-2019
+17,15-12-2018,15:00,Wolves,1.8,2—0,0.6,Bournemouth,30997,Molineux Stadium,Simon Hooper,2018-2019
+17,15-12-2018,17:30,Fulham,1.3,0—2,0.8,West Ham,24081,Craven Cottage,Mike Dean,2018-2019
+16,10-12-2018,20:00,Everton,1.7,2—2,1.7,Watford,38400,Goodison Park,Kevin Friend,2018-2019
+16,09-12-2018,16:00,Newcastle Utd,0.6,1—2,1.8,Wolves,50223,St. James' Park,Mike Dean,2018-2019
+16,08-12-2018,12:30,Bournemouth,0.3,0—4,1.6,Liverpool,10752,Vitality Stadium,Lee Mason,2018-2019
+16,08-12-2018,15:00,West Ham,1.2,3—2,0.7,Crystal Palace,56995,London Stadium,Anthony Taylor,2018-2019
+16,08-12-2018,15:00,Manchester Utd,2.3,4—1,1.2,Fulham,74523,Old Trafford,Lee Probert,2018-2019
+16,08-12-2018,15:00,Burnley,1.4,1—0,1,Brighton,18497,Turf Moor,Martin Atkinson,2018-2019
+16,08-12-2018,15:00,Cardiff City,1.5,1—0,0.7,Southampton,30067,Cardiff City Stadium,Jonathan Moss,2018-2019
+16,08-12-2018,15:00,Arsenal,1.4,1—0,0.3,Huddersfield,59893,Emirates Stadium,Paul Tierney,2018-2019
+16,08-12-2018,17:30,Chelsea,0.6,2—0,0.9,Manchester City,40571,Stamford Bridge,Michael Oliver,2018-2019
+16,08-12-2018,19:45,Leicester City,0.4,0—2,0.9,Tottenham,31957,King Power Stadium,Craig Pawson,2018-2019
+15,05-12-2018,19:45,Wolves,0.7,2—1,1.3,Chelsea,31300,Molineux Stadium,Jonathan Moss,2018-2019
+15,05-12-2018,19:45,Fulham,1.4,1—1,1.2,Leicester City,22881,Craven Cottage,David Coote,2018-2019
+15,05-12-2018,19:45,Burnley,0.9,1—3,2.4,Liverpool,21741,Turf Moor,Stuart Attwell,2018-2019
+15,05-12-2018,19:45,Everton,1.8,1—1,1.5,Newcastle Utd,39350,Goodison Park,Lee Mason,2018-2019
+15,05-12-2018,20:00,Manchester Utd,1.1,2—2,1.1,Arsenal,74507,Old Trafford,Andre Marriner,2018-2019
+15,05-12-2018,20:00,Tottenham,1.6,3—1,1.7,Southampton,33012,Tottenham Hotspur Stadium,Anthony Taylor,2018-2019
+15,04-12-2018,19:45,West Ham,1.7,3—1,2.1,Cardiff City,56811,London Stadium,Graham Scott,2018-2019
+15,04-12-2018,19:45,Brighton,1.3,3—1,1.7,Crystal Palace,29663,The American Express Community Stadium,Kevin Friend,2018-2019
+15,04-12-2018,19:45,Bournemouth,0.9,2—1,1.8,Huddersfield,9980,Vitality Stadium,Roger East,2018-2019
+15,04-12-2018,20:00,Watford,1.8,1—2,2.5,Manchester City,20389,Vicarage Road Stadium,Paul Tierney,2018-2019
+14,02-12-2018,12:00,Chelsea,2.1,2—0,0.4,Fulham,40551,Stamford Bridge,Craig Pawson,2018-2019
+14,02-12-2018,14:05,Arsenal,2.7,4—2,1.2,Tottenham,59973,Emirates Stadium,Mike Dean,2018-2019
+14,02-12-2018,16:15,Liverpool,2.9,1—0,1.1,Everton,51756,Anfield,Chris Kavanagh,2018-2019
+14,01-12-2018,15:00,Newcastle Utd,1,0—3,2.5,West Ham,51853,St. James' Park,Paul Tierney,2018-2019
+14,01-12-2018,15:00,Crystal Palace,1.6,2—0,0.7,Burnley,25098,Selhurst Park,Lee Probert,2018-2019
+14,01-12-2018,15:00,Huddersfield,0.6,1—2,1.2,Brighton,22973,The John Smith's Stadium,Michael Oliver,2018-2019
+14,01-12-2018,15:00,Leicester City,1.3,2—0,1.2,Watford,31353,King Power Stadium,Graham Scott,2018-2019
+14,01-12-2018,15:00,Manchester City,2.6,3—1,0.6,Bournemouth,54409,Etihad Stadium,Stuart Attwell,2018-2019
+14,01-12-2018,17:30,Southampton,0.7,2—2,1.1,Manchester Utd,30187,St. Mary's Stadium,Kevin Friend,2018-2019
+14,30-11-2018,20:00,Cardiff City,1,2—1,0.8,Wolves,30213,Cardiff City Stadium,Andre Marriner,2018-2019
+13,26-11-2018,20:30,Burnley,1.8,1—2,1.6,Newcastle Utd,20628,Turf Moor,Anthony Taylor,2018-2019
+13,25-11-2018,13:30,Bournemouth,0.6,1—2,1.6,Arsenal,10792,Vitality Stadium,Craig Pawson,2018-2019
+13,25-11-2018,16:00,Wolves,0.8,0—2,0.7,Huddersfield,30130,Molineux Stadium,Kevin Friend,2018-2019
+13,24-11-2018,15:00,Manchester Utd,0.9,0—0,1.2,Crystal Palace,74516,Old Trafford,Lee Mason,2018-2019
+13,24-11-2018,15:00,Fulham,1.3,3—2,1.3,Southampton,24603,Craven Cottage,Michael Oliver,2018-2019
+13,24-11-2018,15:00,West Ham,0.9,0—4,2.7,Manchester City,56886,London Stadium,Andre Marriner,2018-2019
+13,24-11-2018,15:00,Brighton,1,1—1,1.2,Leicester City,30553,The American Express Community Stadium,Chris Kavanagh,2018-2019
+13,24-11-2018,15:00,Everton,2.1,1—0,1,Cardiff City,39139,Goodison Park,Paul Tierney,2018-2019
+13,24-11-2018,15:00,Watford,0.4,0—3,1.2,Liverpool,20540,Vicarage Road Stadium,Jonathan Moss,2018-2019
+13,24-11-2018,17:30,Tottenham,3.1,3—1,1,Chelsea,55465,Tottenham Hotspur Stadium,Martin Atkinson,2018-2019
+12,11-11-2018,12:00,Liverpool,1.8,2—0,0.5,Fulham,53128,Anfield,Paul Tierney,2018-2019
+12,11-11-2018,14:15,Chelsea,1.2,0—0,0.3,Everton,40345,Stamford Bridge,Kevin Friend,2018-2019
+12,11-11-2018,16:30,Arsenal,0.9,1—1,1.9,Wolves,60030,Emirates Stadium,Stuart Attwell,2018-2019
+12,11-11-2018,16:30,Manchester City,1.9,3—1,1.1,Manchester Utd,54316,Etihad Stadium,Anthony Taylor,2018-2019
+12,10-11-2018,12:30,Cardiff City,2.1,2—1,0.5,Brighton,29402,Cardiff City Stadium,Martin Atkinson,2018-2019
+12,10-11-2018,15:00,Newcastle Utd,2.2,2—1,1.6,Bournemouth,49266,St. James' Park,Lee Probert,2018-2019
+12,10-11-2018,15:00,Huddersfield,1.1,1—1,1.7,West Ham,24069,The John Smith's Stadium,Chris Kavanagh,2018-2019
+12,10-11-2018,15:00,Leicester City,1.8,0—0,0.4,Burnley,32184,King Power Stadium,Mike Dean,2018-2019
+12,10-11-2018,15:00,Southampton,1.1,1—1,1.2,Watford,28153,St. Mary's Stadium,Simon Hooper,2018-2019
+12,10-11-2018,17:30,Crystal Palace,0.8,0—1,1.2,Tottenham,25685,Selhurst Park,Jonathan Moss,2018-2019
+11,05-11-2018,20:00,Huddersfield,0.6,1—0,0.4,Fulham,17082,The John Smith's Stadium,Anthony Taylor,2018-2019
+11,04-11-2018,15:00,Manchester City,2.2,6—1,2,Southampton,53916,Etihad Stadium,Lee Mason,2018-2019
+11,04-11-2018,16:00,Chelsea,1.7,3—1,0.4,Crystal Palace,40407,Stamford Bridge,Michael Oliver,2018-2019
+11,03-11-2018,12:30,Bournemouth,1.6,1—2,3,Manchester Utd,10792,Vitality Stadium,Paul Tierney,2018-2019
+11,03-11-2018,15:00,Cardiff City,0.9,0—1,2.1,Leicester City,30877,Cardiff City Stadium,Lee Probert,2018-2019
+11,03-11-2018,15:00,Everton,2,3—1,0.5,Brighton,38966,Goodison Park,David Coote,2018-2019
+11,03-11-2018,15:00,Newcastle Utd,0.5,1—0,2,Watford,49157,St. James' Park,Craig Pawson,2018-2019
+11,03-11-2018,15:00,West Ham,2.4,4—2,1.1,Burnley,56862,London Stadium,Roger East,2018-2019
+11,03-11-2018,17:30,Arsenal,1.4,1—1,1.3,Liverpool,59993,Emirates Stadium,Andre Marriner,2018-2019
+11,03-11-2018,19:45,Wolves,2.7,2—3,1.4,Tottenham,31185,Molineux Stadium,Mike Dean,2018-2019
+10,29-10-2018,20:00,Tottenham,0.4,0—1,1.6,Manchester City,56854,Tottenham Hotspur Stadium,Kevin Friend,2018-2019
+10,28-10-2018,13:30,Burnley,0.4,0—4,2.6,Chelsea,21430,Turf Moor,Craig Pawson,2018-2019
+10,28-10-2018,13:30,Crystal Palace,2.3,2—2,0.9,Arsenal,25718,Selhurst Park,Martin Atkinson,2018-2019
+10,28-10-2018,16:00,Manchester Utd,2.3,2—1,1.8,Everton,74525,Old Trafford,Jonathan Moss,2018-2019
+10,27-10-2018,15:00,Brighton,0.9,1—0,1.4,Wolves,30654,The American Express Community Stadium,Anthony Taylor,2018-2019
+10,27-10-2018,15:00,Southampton,1.1,0—0,0.4,Newcastle Utd,30736,St. Mary's Stadium,Chris Kavanagh,2018-2019
+10,27-10-2018,15:00,Fulham,0.5,0—3,2,Bournemouth,25071,Craven Cottage,Andre Marriner,2018-2019
+10,27-10-2018,15:00,Liverpool,2.4,4—1,0.8,Cardiff City,53373,Anfield,Stuart Attwell,2018-2019
+10,27-10-2018,15:00,Watford,2,3—0,0.5,Huddersfield,20457,Vicarage Road Stadium,Mike Dean,2018-2019
+10,27-10-2018,17:30,Leicester City,1.7,1—1,1.4,West Ham,31848,King Power Stadium,Michael Oliver,2018-2019
+9,22-10-2018,20:00,Arsenal,2.7,3—1,0.5,Leicester City,59886,Emirates Stadium,Chris Kavanagh,2018-2019
+9,21-10-2018,16:00,Everton,1.8,2—0,1.3,Crystal Palace,38668,Goodison Park,Anthony Taylor,2018-2019
+9,20-10-2018,12:30,Chelsea,1.8,2—2,0.8,Manchester Utd,40721,Stamford Bridge,Mike Dean,2018-2019
+9,20-10-2018,15:00,Bournemouth,0.9,0—0,0.5,Southampton,10986,Vitality Stadium,Lee Probert,2018-2019
+9,20-10-2018,15:00,Manchester City,4,5—0,0.4,Burnley,54094,Etihad Stadium,Jonathan Moss,2018-2019
+9,20-10-2018,15:00,West Ham,0.8,0—1,0.9,Tottenham,56921,London Stadium,Martin Atkinson,2018-2019
+9,20-10-2018,15:00,Newcastle Utd,1.8,0—1,0.8,Brighton,50329,St. James' Park,Andre Marriner,2018-2019
+9,20-10-2018,15:00,Wolves,0.7,0—2,1.1,Watford,31144,Molineux Stadium,Lee Mason,2018-2019
+9,20-10-2018,15:00,Cardiff City,1.5,4—2,0.7,Fulham,29681,Cardiff City Stadium,Kevin Friend,2018-2019
+9,20-10-2018,17:30,Huddersfield,0.7,0—1,0.6,Liverpool,24263,The John Smith's Stadium,Michael Oliver,2018-2019
+8,07-10-2018,12:00,Fulham,1.4,1—5,1.1,Arsenal,25401,Craven Cottage,Paul Tierney,2018-2019
+8,07-10-2018,14:15,Southampton,1.6,0—3,2.9,Chelsea,27077,St. Mary's Stadium,Craig Pawson,2018-2019
+8,07-10-2018,16:30,Liverpool,0.4,0—0,1,Manchester City,52117,Anfield,Martin Atkinson,2018-2019
+8,06-10-2018,15:00,Leicester City,0.9,1—2,1.3,Everton,32007,King Power Stadium,Andre Marriner,2018-2019
+8,06-10-2018,15:00,Burnley,0.4,1—1,1,Huddersfield,20533,Turf Moor,Chris Kavanagh,2018-2019
+8,06-10-2018,15:00,Tottenham,2,1—0,1.2,Cardiff City,43268,Tottenham Hotspur Stadium,Mike Dean,2018-2019
+8,06-10-2018,15:00,Watford,1,0—4,3.2,Bournemouth,20139,Vicarage Road Stadium,Jonathan Moss,2018-2019
+8,06-10-2018,15:00,Crystal Palace,1.4,0—1,0.7,Wolves,25715,Selhurst Park,Michael Oliver,2018-2019
+8,06-10-2018,17:30,Manchester Utd,1.9,3—2,1.6,Newcastle Utd,74519,Old Trafford,Anthony Taylor,2018-2019
+8,05-10-2018,20:00,Brighton,1.2,1—0,1.4,West Ham,30544,The American Express Community Stadium,Kevin Friend,2018-2019
+7,01-10-2018,20:00,Bournemouth,1.8,2—1,0.4,Crystal Palace,10199,Vitality Stadium,Mike Dean,2018-2019
+7,30-09-2018,16:00,Cardiff City,1.7,1—2,0.3,Burnley,30411,Cardiff City Stadium,Martin Atkinson,2018-2019
+7,29-09-2018,12:30,West Ham,1.4,3—1,0.7,Manchester Utd,56938,London Stadium,Michael Oliver,2018-2019
+7,29-09-2018,15:00,Newcastle Utd,0.4,0—2,1.3,Leicester City,51523,St. James' Park,Simon Hooper,2018-2019
+7,29-09-2018,15:00,Everton,2.3,3—0,0.5,Fulham,38788,Goodison Park,Roger East,2018-2019
+7,29-09-2018,15:00,Wolves,1.6,2—0,0.8,Southampton,31147,Molineux Stadium,Stuart Attwell,2018-2019
+7,29-09-2018,15:00,Arsenal,1.4,2—0,2.8,Watford,60019,Emirates Stadium,Anthony Taylor,2018-2019
+7,29-09-2018,15:00,Manchester City,2.7,2—0,0.2,Brighton,54152,Etihad Stadium,Lee Mason,2018-2019
+7,29-09-2018,15:00,Huddersfield,0.4,0—2,2.1,Tottenham,23885,The John Smith's Stadium,Craig Pawson,2018-2019
+7,29-09-2018,17:30,Chelsea,1.1,1—1,1.6,Liverpool,40625,Stamford Bridge,Andre Marriner,2018-2019
+6,23-09-2018,13:30,West Ham,1,0—0,1.5,Chelsea,56875,London Stadium,Mike Dean,2018-2019
+6,23-09-2018,16:00,Arsenal,0.8,2—0,0.8,Everton,59964,Emirates Stadium,Jonathan Moss,2018-2019
+6,22-09-2018,12:30,Fulham,1.7,1—1,1.4,Watford,23418,Craven Cottage,Martin Atkinson,2018-2019
+6,22-09-2018,15:00,Crystal Palace,0.9,0—0,0.2,Newcastle Utd,25679,Selhurst Park,Andre Marriner,2018-2019
+6,22-09-2018,15:00,Cardiff City,0.1,0—5,2.5,Manchester City,32321,Cardiff City Stadium,Michael Oliver,2018-2019
+6,22-09-2018,15:00,Liverpool,1.7,3—0,0.3,Southampton,50965,Anfield,Paul Tierney,2018-2019
+6,22-09-2018,15:00,Burnley,2.1,4—0,1,Bournemouth,18636,Turf Moor,Anthony Taylor,2018-2019
+6,22-09-2018,15:00,Manchester Utd,0.6,1—1,1,Wolves,74489,Old Trafford,Kevin Friend,2018-2019
+6,22-09-2018,15:00,Leicester City,1.7,3—1,0.7,Huddersfield,31676,King Power Stadium,David Coote,2018-2019
+6,22-09-2018,17:30,Brighton,0.8,1—2,1.9,Tottenham,30531,The American Express Community Stadium,Chris Kavanagh,2018-2019
+5,17-09-2018,20:00,Southampton,2,2—2,1.4,Brighton,28811,St. Mary's Stadium,Anthony Taylor,2018-2019
+5,16-09-2018,13:30,Wolves,2.6,1—0,0.3,Burnley,30406,Molineux Stadium,Andre Marriner,2018-2019
+5,16-09-2018,16:00,Everton,1.4,1—3,1.2,West Ham,39161,Goodison Park,Martin Atkinson,2018-2019
+5,15-09-2018,12:30,Tottenham,1,1—2,2.6,Liverpool,80188,Wembley Stadium,Michael Oliver,2018-2019
+5,15-09-2018,15:00,Manchester City,4.8,3—0,0.4,Fulham,53307,Etihad Stadium,Stuart Attwell,2018-2019
+5,15-09-2018,15:00,Huddersfield,0.9,0—1,0.7,Crystal Palace,23696,The John Smith's Stadium,Lee Mason,2018-2019
+5,15-09-2018,15:00,Newcastle Utd,0.4,1—2,1,Arsenal,52165,St. James' Park,Lee Probert,2018-2019
+5,15-09-2018,15:00,Bournemouth,2.3,4—2,2.3,Leicester City,10543,Vitality Stadium,Craig Pawson,2018-2019
+5,15-09-2018,15:00,Chelsea,2.6,4—1,0.7,Cardiff City,40499,Stamford Bridge,Jonathan Moss,2018-2019
+5,15-09-2018,17:30,Watford,1.3,1—2,1.9,Manchester Utd,20537,Vicarage Road Stadium,Mike Dean,2018-2019
+4,02-09-2018,13:30,Cardiff City,1,2—3,1.7,Arsenal,32316,Cardiff City Stadium,Anthony Taylor,2018-2019
+4,02-09-2018,16:00,Watford,0.4,2—1,0.6,Tottenham,20141,Vicarage Road Stadium,Andre Marriner,2018-2019
+4,02-09-2018,16:00,Burnley,0.8,0—2,2.5,Manchester Utd,21525,Turf Moor,Jonathan Moss,2018-2019
+4,01-09-2018,12:30,Leicester City,1,1—2,1,Liverpool,32149,King Power Stadium,Paul Tierney,2018-2019
+4,01-09-2018,15:00,Crystal Palace,2.4,0—2,2.7,Southampton,25495,Selhurst Park,Martin Atkinson,2018-2019
+4,01-09-2018,15:00,Brighton,2.8,2—2,1.6,Fulham,30526,The American Express Community Stadium,Lee Probert,2018-2019
+4,01-09-2018,15:00,Chelsea,1.1,2—0,0.9,Bournemouth,40178,Stamford Bridge,Lee Mason,2018-2019
+4,01-09-2018,15:00,Everton,0.8,1—1,0.4,Huddersfield,38767,Goodison Park,Stuart Attwell,2018-2019
+4,01-09-2018,15:00,West Ham,1.1,0—1,1,Wolves,56947,London Stadium,Chris Kavanagh,2018-2019
+4,01-09-2018,17:30,Manchester City,2,2—1,0.5,Newcastle Utd,53946,Etihad Stadium,Kevin Friend,2018-2019
+3,27-08-2018,20:00,Manchester Utd,1.5,0—3,1.2,Tottenham,74400,Old Trafford,Craig Pawson,2018-2019
+3,26-08-2018,13:30,Watford,1.2,2—1,1,Crystal Palace,20014,Vicarage Road Stadium,Anthony Taylor,2018-2019
+3,26-08-2018,16:00,Fulham,1.3,4—2,1.5,Burnley,23438,Craven Cottage,David Coote,2018-2019
+3,26-08-2018,16:00,Newcastle Utd,0.2,1—2,1.5,Chelsea,51791,St. James' Park,Paul Tierney,2018-2019
+3,25-08-2018,12:30,Wolves,1,1—1,1.6,Manchester City,31322,Molineux Stadium,Martin Atkinson,2018-2019
+3,25-08-2018,15:00,Arsenal,1.8,3—1,1.1,West Ham,59830,Emirates Stadium,Graham Scott,2018-2019
+3,25-08-2018,15:00,Southampton,0.5,1—2,0.6,Leicester City,29925,St. Mary's Stadium,Jonathan Moss,2018-2019
+3,25-08-2018,15:00,Huddersfield,0.2,0—0,0.9,Cardiff City,21193,The John Smith's Stadium,Michael Oliver,2018-2019
+3,25-08-2018,15:00,Bournemouth,2.2,2—2,0.6,Everton,10654,Vitality Stadium,Lee Probert,2018-2019
+3,25-08-2018,17:30,Liverpool,1.6,1—0,0.6,Brighton,53294,Anfield,Chris Kavanagh,2018-2019
+2,20-08-2018,20:00,Crystal Palace,0.4,0—2,2.6,Liverpool,25750,Selhurst Park,Michael Oliver,2018-2019
+2,19-08-2018,13:30,Burnley,0.6,1—3,1.5,Watford,18822,Turf Moor,Paul Tierney,2018-2019
+2,19-08-2018,13:30,Manchester City,4.2,6—1,0.7,Huddersfield,54021,Etihad Stadium,Andre Marriner,2018-2019
+2,19-08-2018,16:00,Brighton,1.7,3—2,1.4,Manchester Utd,30592,The American Express Community Stadium,Kevin Friend,2018-2019
+2,18-08-2018,12:30,Cardiff City,0.9,0—0,1.6,Newcastle Utd,30720,Cardiff City Stadium,Craig Pawson,2018-2019
+2,18-08-2018,15:00,West Ham,1.2,1—2,1.3,Bournemouth,56888,London Stadium,Stuart Attwell,2018-2019
+2,18-08-2018,15:00,Everton,1.5,2—1,1.7,Southampton,38601,Goodison Park,Lee Mason,2018-2019
+2,18-08-2018,15:00,Leicester City,0.2,2—0,1.1,Wolves,32043,King Power Stadium,Mike Dean,2018-2019
+2,18-08-2018,15:00,Tottenham,2.9,3—1,1.6,Fulham,58297,Wembley Stadium,Anthony Taylor,2018-2019
+2,18-08-2018,17:30,Chelsea,1.6,3—2,2.4,Arsenal,40491,Stamford Bridge,Martin Atkinson,2018-2019
+1,12-08-2018,13:30,Southampton,1.1,0—0,1.4,Burnley,30784,St. Mary's Stadium,Graham Scott,2018-2019
+1,12-08-2018,13:30,Liverpool,4,4—0,0.7,West Ham,53235,Anfield,Anthony Taylor,2018-2019
+1,12-08-2018,16:00,Arsenal,0.5,0—2,1.7,Manchester City,59934,Emirates Stadium,Michael Oliver,2018-2019
+1,11-08-2018,12:30,Newcastle Utd,1,1—2,2,Tottenham,51749,St. James' Park,Martin Atkinson,2018-2019
+1,11-08-2018,15:00,Fulham,0.7,0—2,1,Crystal Palace,24821,Craven Cottage,Mike Dean,2018-2019
+1,11-08-2018,15:00,Bournemouth,2.2,2—0,1.4,Cardiff City,10353,Vitality Stadium,Kevin Friend,2018-2019
+1,11-08-2018,15:00,Watford,1.2,2—0,0.3,Brighton,20051,Vicarage Road Stadium,Jonathan Moss,2018-2019
+1,11-08-2018,15:00,Huddersfield,0.3,0—3,1.9,Chelsea,24121,The John Smith's Stadium,Chris Kavanagh,2018-2019
+1,11-08-2018,17:30,Wolves,1,2—2,1,Everton,31231,Molineux Stadium,Craig Pawson,2018-2019
+1,10-08-2018,20:00,Manchester Utd,1.5,2—1,1.8,Leicester City,74439,Old Trafford,Andre Marriner,2018-2019

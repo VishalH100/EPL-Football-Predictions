@@ -1,0 +1,89 @@
+FTHG:
+Full Time Home Team Goals. It indicates the number of goals scored by the home team during the entire match.
+
+FTAG:
+Full Time Away Team Goals. It represents the number of goals scored by the away team during the entire match.
+
+FTR:
+Full Time Result. It shows the outcome of the match, indicating whether the home team won (H), the away team won (A), or the match ended in a draw (D).
+
+HTHG:
+Half Time Home Team Goals. This is the number of goals scored by the home team at halftime.
+
+HTAG:
+Half Time Away Team Goals. Similar to HTHG, it represents the number of goals scored by the away team at halftime.
+
+HTR:
+Half Time Result. It indicates the result of the match at halftime, with possible values of H (Home team leading), A (Away team leading), or D (Draw).
+
+Referee:
+The name of the match referee.
+
+HS:
+Home Team Shots. It represents the total number of shots taken by the home team during the entire match.
+
+AS:
+Away Team Shots. Similar to HS, it represents the total number of shots taken by the away team during the entire match.
+
+HST:
+Home Team Shots on Target. It represents the number of shots taken by the home team that are on target and have the potential to score.
+
+AST:
+Away Team Shots on Target. Similar to HST, it represents the number of shots taken by the away team that are on target and have the potential to score.
+
+HF:
+Home Team Fouls. It represents the total number of fouls committed by the home team during the entire match.
+
+AF:
+Away Team Fouls. Similar to HF, it represents the total number of fouls committed by the away team during the entire match.
+
+HC:
+Home Team Corners. It represents the total number of corner kicks awarded to the home team during the entire match.
+
+AC:
+Away Team Corners. Similar to HC, it represents the total number of corner kicks awarded to the away team during the entire match.
+
+HY:
+Home Team Yellow Cards. It represents the total number of yellow cards received by players from the home team during the entire match.
+
+AY:
+Away Team Yellow Cards. Similar to HY, it represents the total number of yellow cards received by players from the away team during the entire match.
+
+HR:
+Home Team Red Cards. It represents the total number of red cards received by players from the home team during the entire match.
+
+AR:
+Away Team Red Cards. Similar to HR, it represents the total number of red cards received by players from the away team during the entire match.
+
+B365H, B365D, B365A:
+Betting odds for Home Win (H), Draw (D), and Away Win (A) from the bookmaker Bet365.
+
+BWH, BWD, BWA:
+Betting odds from another bookmaker.
+
+IWH, IWD, IWA:
+Betting odds from yet another bookmaker.
+
+PSH, PSD, PSA:
+Closing odds derived from Pinnacle Sports.
+
+WHH, WHD, WHA:
+Closing odds from William Hill.
+
+VCH, VCD, VCA:
+Closing odds from BetVictor.
+
+Bb1X2:
+Number of bookmakers used to calculate the odds.
+
+BbMxH, BbAvH, BbMxD, BbAvD, BbMxA, BbAvA:
+Maximum and average odds for Home Win, Draw, and Away Win, respectively, from all bookmakers.
+
+BbOU, BbMx>2.5, BbAv>2.5, BbMx<2.5, BbAv<2.5:
+Over/Under betting odds and averages.
+
+BbAH, BbAHh, BbMxAHH, BbAvAHH, BbMxAHA, BbAvAHA:
+Asian Handicap odds and averages.
+
+PSCH, PSCD, PSCA:
+Closing odds derived from Pinnacle Sports.
