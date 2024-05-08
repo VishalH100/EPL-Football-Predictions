@@ -4,8 +4,10 @@ from sklearn.preprocessing import MinMaxScaler, OneHotEncoder
 from sklearn.ensemble import GradientBoostingRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score, accuracy_score, precision_score, recall_score, f1_score, confusion_matrix, classification_report
 
+import constants as c
+
 # Load dataset
-df = pd.read_csv("C:/Users/Vishal/Desktop/Dissertation/Datasets/Final EPL 2018-2023.csv", encoding='latin')
+df = pd.read_csv(c.final_data, encoding='latin')
 
 # Preprocess the data
 df['Home_Team_Score'] = df['Score'].apply(lambda x: int(x[0]))
@@ -106,4 +108,4 @@ print("Confusion Matrix:")
 print(conf_matrix)
 
 # Export the final predictions to a CSV file
-test_with_predictions.to_csv("C:/Users/Vishal/Desktop/Dissertation/Datasets/GB Predictions.csv", index=False)
+test_with_predictions.to_csv(c.GB_pred, index=False)

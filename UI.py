@@ -1,14 +1,16 @@
 import pandas as pd
 import streamlit as st
 
+import constants as c
+
 # Set wide mode by default
 st.set_page_config(layout='wide')
 
 # Load the CSV data
-data = pd.read_csv("C:/Users/Vishal/Desktop/Dissertation/Datasets/GB Predictions.csv")
+data = pd.read_csv(c.GB_pred)
 
 # Read Final Standings CSV file
-standings_data = pd.read_csv("C:/Users/Vishal/Desktop/Dissertation/Datasets/Final Standings.csv")
+standings_data = pd.read_csv(c.final_standings)
 
 # Sidebar filters
 st.sidebar.title("Filters")
